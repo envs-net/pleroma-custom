@@ -1,0 +1,14 @@
+yotsuba_cheers, /emoji/yotsuba/yotsuba_cheers.png
+yotsuba_cry, /emoji/yotsuba/yotsuba_cry.png
+yotsuba_cupid, /emoji/yotsuba/yotsuba_cupid.png
+yotsuba_eh, /emoji/yotsuba/yotsuba_eh.png
+yotsuba_fish, /emoji/yotsuba/yotsuba_fish.png
+yotsuba_happy, /emoji/yotsuba/yotsuba_happy.png
+yotsuba_hungry, /emoji/yotsuba/yotsuba_hungry.png
+yotsuba_mad, /emoji/yotsuba/yotsuba_mad.png
+yotsuba_rain, /emoji/yotsuba/yotsuba_rain.png
+yotsuba_rice, /emoji/yotsuba/yotsuba_rice.png
+yotsuba_sleep, /emoji/yotsuba/yotsuba_sleep.png
+yotsuba_spin, /emoji/yotsuba/yotsuba_spin.png
+yotsuba_why, /emoji/yotsuba/yotsuba_why.png
+yotsuba_yay, /emoji/yotsuba/yotsuba_yay.png

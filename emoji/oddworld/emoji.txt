@@ -1,0 +1,10 @@
+oddworld_birdportal, /emoji/oddworld/oddworld_birdportal.png
+oddworld_deadmud, /emoji/oddworld/oddworld_deadmud.png
+oddworld_glukkon, /emoji/oddworld/oddworld_glukkon.png
+oddworld_healer, /emoji/oddworld/oddworld_healer.png
+oddworld_mudangry, /emoji/oddworld/oddworld_mudangry.png
+oddworld_mudfeet, /emoji/oddworld/oddworld_mudfeet.png
+oddworld_mudhand, /emoji/oddworld/oddworld_mudhand.png
+oddworld_mudhappy, /emoji/oddworld/oddworld_mudhappy.png
+oddworld_mudpop, /emoji/oddworld/oddworld_mudpop.png
+oddworld_rapturefarm, /emoji/oddworld/oddworld_rapturefarm.png

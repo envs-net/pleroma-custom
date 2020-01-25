@@ -1,0 +1,11 @@
+renge_cookie, /emoji/renge/renge_cookie.png
+renge_dududu, /emoji/renge/renge_dududu.png
+renge_gun, /emoji/renge/renge_gun.png
+renge_owo, /emoji/renge/renge_owo.png
+renge_pout, /emoji/renge/renge_pout.png
+renge_puff, /emoji/renge/renge_puff.png
+renge_shrug, /emoji/renge/renge_shrug.png
+renge_surprised, /emoji/renge/renge_surprised.png
+renge_think, /emoji/renge/renge_think.png
+renge_thinking, /emoji/renge/renge_thinking.png
+renge_what, /emoji/renge/renge_what.png

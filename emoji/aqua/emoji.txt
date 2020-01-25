@@ -1,0 +1,16 @@
+aqua, /emoji/aqua/aqua.png
+aqua_aaa, /emoji/aqua/aqua_aaa.png
+aqua_crazed, /emoji/aqua/aqua_crazed.png
+aqua_cry, /emoji/aqua/aqua_cry.png
+aqua_crying_quietly, /emoji/aqua/aqua_crying_quietly.png
+aqua_dab, /emoji/aqua/aqua_dab.png
+aqua_dance, /emoji/aqua/aqua_dance.png
+aqua_disgust, /emoji/aqua/aqua_disgust.png
+aqua_happy, /emoji/aqua/aqua_happy.png
+aqua_salute, /emoji/aqua/aqua_salute.png
+aqua_smug, /emoji/aqua/aqua_smug.png
+aqua_thumbs_up, /emoji/aqua/aqua_thumbs_up.png
+aqua_trauma_1, /emoji/aqua/aqua_trauma_1.png
+aqua_trauma_2, /emoji/aqua/aqua_trauma_2.png
+aqua_trauma_3, /emoji/aqua/aqua_trauma_3.png
+aqua_yeah, /emoji/aqua/aqua_yeah.png
