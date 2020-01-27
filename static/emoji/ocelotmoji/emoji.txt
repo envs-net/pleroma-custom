@@ -1,0 +1,9 @@
+ocelot_cofe, /emoji/ocelotmoji/ocelot_cofe.png
+ocelot_mlem, /emoji/ocelotmoji/ocelot_mlem.png
+ocelot_pawmean, /emoji/ocelotmoji/ocelot_pawmean.png
+ocelot_peek, /emoji/ocelotmoji/ocelot_peek.png
+ocelot_reach, /emoji/ocelotmoji/ocelot_reach.png
+ocelot_sip, /emoji/ocelotmoji/ocelot_sip.png
+ocelot_six_shots, /emoji/ocelotmoji/ocelot_six_shots.png
+ocelot_six_shots_ree, /emoji/ocelotmoji/ocelot_six_shots_ree.png
+ocelotmoji, /emoji/ocelotmoji/ocelotmoji.png
