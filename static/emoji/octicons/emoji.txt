@@ -1,0 +1,14 @@
+branch, /emoji/octicons/branch.png
+commit, /emoji/octicons/commit.png
+compare, /emoji/octicons/compare.png
+fork, /emoji/octicons/fork.png
+issue, /emoji/octicons/issue.png
+issueclosed, /emoji/octicons/issueclosed.png
+launch, /emoji/octicons/launch.png
+merge, /emoji/octicons/merge.png
+package, /emoji/octicons/package.png
+pr, /emoji/octicons/pr.png
+repository, /emoji/octicons/repository.png
+shipit, /emoji/octicons/shipit.png
+swap, /emoji/octicons/swap.png
+tag, /emoji/octicons/tag.png

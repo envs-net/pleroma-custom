@@ -1,0 +1,9 @@
+shiba, /emoji/shiba/shiba.png
+shiba2, /emoji/shiba/shiba2.png
+shiba3, /emoji/shiba/shiba3.png
+shiba4, /emoji/shiba/shiba4.png
+shiba5, /emoji/shiba/shiba5.png
+shiba6, /emoji/shiba/shiba6.png
+shiba_cool, /emoji/shiba/shiba_cool.png
+shiba_cool2, /emoji/shiba/shiba_cool2.png
+shiba_cool3, /emoji/shiba/shiba_cool3.png
