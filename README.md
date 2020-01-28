@@ -7,6 +7,8 @@ path: `/var/lib/pleroma/`
 
 includes also emojis from:
 - https://fedi.absturztau.be/emoji-packs/index.html
+- blobfox - https://www.feuerfuchs.dev/projects/blobfox-emojis/
+- bunhd - https://www.feuerfuchs.dev/projects/bunhd-emojis/
 
 #### notice
 
