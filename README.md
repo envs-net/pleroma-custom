@@ -18,7 +18,7 @@ foo, /emoji/custom/foo.png, Tag1,Tag2
 bla, /emoji/custom/bla.png
 ```
 
-#### add new pack
+#### add `emoji.txt` for new pack
 ```
 newpack='MYSTUFF'
 
