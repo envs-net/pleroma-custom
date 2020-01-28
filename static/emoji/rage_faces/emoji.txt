@@ -1,9 +1,9 @@
 all-the-things, /emoji/rage_faces/all-the-things.png
 angry-face, /emoji/rage_faces/angry-face.gif
-angry-face2, /emoji/rage_faces/angry-face2.gif
-angry-face3, /emoji/rage_faces/angry-face3.gif
-angry-face4, /emoji/rage_faces/angry-face4.gif
-angry-face5, /emoji/rage_faces/angry-face5.gif
+angry-face-2, /emoji/rage_faces/angry-face-2.gif
+angry-face-3, /emoji/rage_faces/angry-face-3.gif
+angry-face-4, /emoji/rage_faces/angry-face-4.gif
+angry-face-5, /emoji/rage_faces/angry-face-5.gif
 are-you-kidding-me, /emoji/rage_faces/are-you-kidding-me.gif
 bad-pokerface, /emoji/rage_faces/bad-pokerface.gif
 beer-guy, /emoji/rage_faces/beer-guy.png
@@ -14,7 +14,7 @@ crying-face, /emoji/rage_faces/crying-face.gif
 cuteness-overload, /emoji/rage_faces/cuteness-overload.png
 derp, /emoji/rage_faces/derp.gif
 derpina, /emoji/rage_faces/derpina.gif
-devil-troll.gif, /emoji/rage_faces/devil-troll.gif
+devil-troll, /emoji/rage_faces/devil-troll.gif
 ewbte, /emoji/rage_faces/ewbte.gif
 fap-fap, /emoji/rage_faces/fap-fap.gif
 forever-alone, /emoji/rage_faces/forever-alone.gif
@@ -54,5 +54,5 @@ troll-face, /emoji/rage_faces/troll-face.gif
 trololol, /emoji/rage_faces/trololol.gif
 true-story, /emoji/rage_faces/true-story.gif
 wink-face, /emoji/rage_faces/wink-face.gif
-yao-ming-face, /emoji/rage_faces/yao-ming-face.gif
 y-u-no, /emoji/rage_faces/y-u-no.png
+yao-ming-face, /emoji/rage_faces/yao-ming-face.gif

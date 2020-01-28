@@ -10,11 +10,11 @@ fry, /emoji/futurama/fry.png
 futuramamom, /emoji/futurama/futuramamom.png
 hermes, /emoji/futurama/hermes.png
 hypnotoad, /emoji/futurama/hypnotoad.gif
-kif, /emoji/futurama/kiff.png
+kif, /emoji/futurama/kif.png
 leela, /emoji/futurama/leela.png
 morbo, /emoji/futurama/morbo.png
 nibbler, /emoji/futurama/nibbler.png
-nixonhead.png, /emoji/futurama/nixonhead.png
+nixonhead, /emoji/futurama/nixonhead.png
 notsureif, /emoji/futurama/notsureif.png
 pxlogo, /emoji/futurama/pxlogo.png
 slurmsmckenzie, /emoji/futurama/slurmsmckenzie.png
