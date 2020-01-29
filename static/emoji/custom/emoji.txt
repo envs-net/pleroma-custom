@@ -15,6 +15,7 @@ bandaid, /emoji/custom/bandaid.png
 batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
+benis, /emoji/custom/benis.png
 blackduck, /emoji/custom/blackduck.png
 blacksun, /emoji/custom/blacksun.png
 blank, /emoji/custom/blank.png
@@ -306,6 +307,7 @@ tails, /emoji/custom/tails.gif
 tea_morning, /emoji/custom/tea_morning.gif
 terminal, /emoji/custom/terminal.png
 terminator, /emoji/custom/terminator.png
+terraria, /emoji/custom/terraria.png
 thaddaeus_dance, /emoji/custom/thaddaeus_dance.gif
 thaddaeus_santa, /emoji/custom/thaddaeus_santa.gif
 thankyou, /emoji/custom/thankyou.gif
