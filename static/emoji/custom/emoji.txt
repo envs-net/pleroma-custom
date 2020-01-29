@@ -52,6 +52,7 @@ cloud_rosa, /emoji/custom/cloud_rosa.gif
 clouds, /emoji/custom/clouds.gif
 cocktail, /emoji/custom/cocktail.png
 coffee, /emoji/custom/coffee.gif
+colt, /emoji/custom/colt.png
 commodore, /emoji/custom/commodore.png
 construction, /emoji/custom/construction.gif
 cool_beans, /emoji/custom/cool_beans.png
@@ -62,7 +63,6 @@ corndog, /emoji/custom/corndog.png
 cornholio, /emoji/custom/cornholio.png
 crabs_hi, /emoji/custom/crabs_hi.gif
 cranky-kong, /emoji/custom/cranky-kong.gif
-crescent_moon, /emoji/custom/crescent_moon.svg
 cupcake, /emoji/custom/cupcake.png
 cupcake_dessert, /emoji/custom/cupcake_dessert.gif
 dab-squidward, /emoji/custom/dab-squidward.png
@@ -80,7 +80,6 @@ doom_acid_barrel, /emoji/custom/doom_acid_barrel.gif
 doom_flame_barrel, /emoji/custom/doom_flame_barrel.gif
 doom_lost_soul, /emoji/custom/doom_lost_soul.gif
 dorito, /emoji/custom/dorito.png
-dove_of_peace, /emoji/custom/dove_of_peace.svg
 drum, /emoji/custom/drum.png
 dumpsterfire, /emoji/custom/dumpsterfire.gif
 einstein, /emoji/custom/einstein.png
@@ -112,6 +111,7 @@ girl_happy, /emoji/custom/girl_happy.gif
 girl_mad, /emoji/custom/girl_mad.gif
 goldensnitch, /emoji/custom/goldensnitch.gif
 goomba, /emoji/custom/goomba.gif
+gun, /emoji/custom/gun.png
 guy_basketball, /emoji/custom/guy_basketball.gif
 guy_fast, /emoji/custom/guy_fast.gif
 guy_happy, /emoji/custom/guy_happy.gif
@@ -316,7 +316,6 @@ trolldance, /emoji/custom/trolldance.gif
 unibomber, /emoji/custom/unibomber.png
 unicorn, /emoji/custom/unicorn.gif
 unicorn3, /emoji/custom/unicorn3.gif
-unicorn_face, /emoji/custom/unicorn_face.svg
 valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
 virgin, /emoji/custom/virgin.png
@@ -337,5 +336,4 @@ yoshi, /emoji/custom/yoshi.gif
 yoshi2, /emoji/custom/yoshi2.gif
 zelda, /emoji/custom/zelda.gif
 zelda_strong, /emoji/custom/zelda_strong.gif
-zoidberg2, /emoji/custom/zoidberg2.gif
 zombie, /emoji/custom/zombie.gif

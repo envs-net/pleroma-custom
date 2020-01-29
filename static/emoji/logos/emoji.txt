@@ -31,6 +31,7 @@ python, /emoji/logos/python.png
 react, /emoji/logos/react.png
 reddit, /emoji/logos/reddit.png
 ruby, /emoji/logos/ruby.png
+sega, /emoji/logos/sega.png
 stackoverflow, /emoji/logos/stackoverflow.png
 sublime, /emoji/logos/sublime.png
 tor, /emoji/logos/tor.png

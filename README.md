@@ -12,7 +12,7 @@ includes also emojis from:
 
 #### notice
 
-please consider adding emojis to `emoji.txt`!
+please consider adding emojis alphabetical to `emoji.txt`!
 
 example:
 ```
@@ -20,7 +20,7 @@ foo, /emoji/custom/foo.png, Tag1,Tag2
 bla, /emoji/custom/bla.png
 ```
 
-#### add `emoji.txt` for new pack
+#### add `emoji.txt` to a new pack
 ```
 newpack='MYSTUFF'
 
