@@ -3,6 +3,7 @@ adf, /emoji/custom/adf.png
 all_the_things, /emoji/custom/all_the_things.jpg
 amomiji, /emoji/custom/amomiji.png
 anarchy, /emoji/custom/anarchy.png
+antifa, /emoji/custom/antifa.png
 archer, /emoji/custom/archer.png
 autism, /emoji/custom/autism.png
 avocado, /emoji/custom/avocado.png
@@ -52,8 +53,8 @@ classy_pbj_time, /emoji/custom/classy_pbj_time.gif
 cloud_rosa, /emoji/custom/cloud_rosa.gif
 clouds, /emoji/custom/clouds.gif
 cocktail, /emoji/custom/cocktail.png
-coffee, /emoji/custom/coffee.gif
-colt, /emoji/custom/colt.png
+coffee, /emoji/custom/coffee.gif, cofe,hot
+colt, /emoji/custom/colt.png, revolver,gun
 commodore, /emoji/custom/commodore.png
 construction, /emoji/custom/construction.gif
 cool_beans, /emoji/custom/cool_beans.png
@@ -64,6 +65,7 @@ corndog, /emoji/custom/corndog.png
 cornholio, /emoji/custom/cornholio.png
 crabs_hi, /emoji/custom/crabs_hi.gif
 cranky-kong, /emoji/custom/cranky-kong.gif
+crt_w_test_pattern, /emoji/custom/crt_w_test_pattern.png
 cupcake, /emoji/custom/cupcake.png
 cupcake_dessert, /emoji/custom/cupcake_dessert.gif
 dab-squidward, /emoji/custom/dab-squidward.png
@@ -322,7 +324,7 @@ valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
 virgin, /emoji/custom/virgin.png
 waving, /emoji/custom/waving.gif
-weed, /emoji/custom/weed.png
+weed, /emoji/custom/weed.png, 420
 wgpcgr, /emoji/custom/wgpcgr.png
 whale_pink, /emoji/custom/whale_pink.svg
 what_is_life, /emoji/custom/what_is_life.gif

@@ -1,6 +1,6 @@
 amywong, /emoji/futurama/amywong.png
 bender, /emoji/futurama/bender.png
-bender_dance, /emoji/futurama/bender_dance.gif
+bender_dance, /emoji/futurama/bender_dance.gif, yeah,happy,whoop
 brannigan, /emoji/futurama/brannigan.png
 bubblegumtate, /emoji/futurama/bubblegumtate.png
 calculon, /emoji/futurama/calculon.png
