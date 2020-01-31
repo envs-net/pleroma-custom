@@ -19,4 +19,4 @@ notsureif, /emoji/futurama/notsureif.png
 pxlogo, /emoji/futurama/pxlogo.png
 slurmsmckenzie, /emoji/futurama/slurmsmckenzie.png
 zoidberg, /emoji/futurama/zoidberg.gif
-zoidberg2, /emoji/custom/zoidberg2.gif
+zoidberg2, /emoji/futurama/zoidberg2.gif
