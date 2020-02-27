@@ -7,6 +7,7 @@ path: `/var/lib/pleroma/`
 
 includes also emojis from:
 - https://fedi.absturztau.be/emoji-packs/index.html
+- senko and gyate_th - https://udongein.xyz/emoji-packs/
 - blobfox - https://www.feuerfuchs.dev/projects/blobfox-emojis/
 - bunhd - https://www.feuerfuchs.dev/projects/bunhd-emojis/
 
@@ -27,4 +28,5 @@ newpack='MYSTUFF'
 cd static/emoji/"$newpack"
 for file in $(dir); do printf '%s, /emoji/%s/%s\n' "${file%.*}" "$newpack" "$file" >> tmp.txt ; done
 sort -o emoji.txt tmp.txt ; rm tmp.txt
+sed -i "/\/emoji.txt/d" emoji.txt
 ```
