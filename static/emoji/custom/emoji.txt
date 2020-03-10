@@ -100,7 +100,6 @@ facepalm, /emoji/custom/facepalm.png
 feels, /emoji/custom/feels.png
 fight, /emoji/custom/fight.gif
 fire_emblem, /emoji/custom/fire_emblem.gif
-Firefox2, /emoji/custom/Firefox2.png
 Firefox, /emoji/custom/Firefox.gif
 fix-it-felix, /emoji/custom/fix-it-felix.gif
 flan_think, /emoji/custom/flan_think.png
