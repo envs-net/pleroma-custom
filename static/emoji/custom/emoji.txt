@@ -143,6 +143,7 @@ heisenberg, /emoji/custom/heisenberg.png
 helloween_coffee, /emoji/custom/helloween_coffee.gif
 hermionegranger, /emoji/custom/hermionegranger.png
 honeybadger, /emoji/custom/honeybadger.png
+honked, /emoji/custom/honked.gif
 humpday, /emoji/custom/humpday.png
 illuminati, /emoji/custom/illuminati.png
 informative, /emoji/custom/informative.png
@@ -328,6 +329,7 @@ trolldance, /emoji/custom/trolldance.gif
 unibomber, /emoji/custom/unibomber.png
 unicorn3, /emoji/custom/unicorn3.gif
 unicorn, /emoji/custom/unicorn.gif
+uwah, /emoji/custom/uwah_small.png
 valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
 virgin, /emoji/custom/virgin.png
