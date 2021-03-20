@@ -1,0 +1,20 @@
+{
+  "files": {
+    "branch": "branch.png",
+    "commit": "commit.png",
+    "compare": "compare.png",
+    "fork": "fork.png",
+    "issue": "issue.png",
+    "issueclosed": "issueclosed.png",
+    "launch": "launch.png",
+    "merge": "merge.png",
+    "package": "package.png",
+    "pr": "pr.png",
+    "repository": "repository.png",
+    "shipit": "shipit.png",
+    "swap": "swap.png",
+    "tag": "tag.png"
+  },
+  "pack": {},
+  "files_count": 0
+}

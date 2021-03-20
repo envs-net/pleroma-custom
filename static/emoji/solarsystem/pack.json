@@ -1,0 +1,29 @@
+{
+  "files": {
+    "earth_photo": "earth_photo.png",
+    "earth_photo_pat": "earth_photo_pat.png",
+    "jupiter_photo": "jupiter_photo.png",
+    "jupiter_photo_pat": "jupiter_photo_pat.png",
+    "mars_photo": "mars_photo.png",
+    "mars_photo_pat": "mars_photo_pat.png",
+    "mercury_photo": "mercury_photo.png",
+    "mercury_photo_pat": "mercury_photo_pat.png",
+    "moon_photo": "moon_photo.png",
+    "moon_photo_pat": "moon_photo_pat.png",
+    "neptune_photo": "neptune_photo.png",
+    "neptune_photo_pat": "neptune_photo_pat.png",
+    "pluto_pat_photo": "pluto_pat_photo.png",
+    "pluto_photo": "pluto_photo.png",
+    "pluto_photo_pat": "pluto_photo_pat.png",
+    "saturn_photo": "saturn_photo.png",
+    "saturn_photo_pat": "saturn_photo_pat.png",
+    "sun_photo": "sun_photo.png",
+    "sun_photo_pat": "sun_photo_pat.png",
+    "uranus_photo": "uranus_photo.png",
+    "uranus_photo_pat": "uranus_photo_pat.png",
+    "venus_photo": "venus_photo.png",
+    "venus_photo_pat": "venus_photo_pat.png"
+  },
+  "pack": {},
+  "files_count": 0
+}
