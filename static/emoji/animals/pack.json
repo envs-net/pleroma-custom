@@ -1,0 +1,25 @@
+{
+  "files": {
+    "alpaca": "alpaca.gif",
+    "columbian-mammoth": "columbian-mammoth.png",
+    "dodo": "dodo.png",
+    "emu": "emu.png",
+    "festive-reindeer": "festive-reindeer.png",
+    "great-auk": "great-auk.png",
+    "great-owl": "great-owl.png",
+    "grey-seal": "grey-seal.png",
+    "llama": "llama.gif",
+    "moa": "moa.png",
+    "moose": "moose.png",
+    "platypus": "platypus.png",
+    "reindeer-crash": "reindeer-crash.png",
+    "reindeer-harness": "reindeer-harness.png",
+    "robot-scorpion": "robot-scorpion.png",
+    "sabre-tooth-tiger": "sabre-tooth-tiger.png",
+    "wildebeest": "wildebeest.png",
+    "wooly-mammoth": "wooly-mammoth.png",
+    "zebra": "zebra.png"
+  },
+  "pack": {},
+  "files_count": 0
+}
