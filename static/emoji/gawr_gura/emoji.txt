@@ -1,0 +1,13 @@
+gura_a, /emoji/gawr_gura/gura_a.gif
+gura_angry, /emoji/gawr_gura/gura_angry.gif
+gura_blush, /emoji/gawr_gura/gura_blush.gif
+gura_boo, /emoji/gawr_gura/gura_boo.gif
+gura_dance, /emoji/gawr_gura/gura_dance.gif
+gura_fingerguns, /emoji/gawr_gura/gura_fingerguns.gif
+gura_hydrodynamic, /emoji/gawr_gura/gura_hydrodynamic.gif
+gura_laugh, /emoji/gawr_gura/gura_laugh.gif
+gura_nom, /emoji/gawr_gura/gura_nom.gif
+gura_scared, /emoji/gawr_gura/gura_scared.gif
+gura_sing, /emoji/gawr_gura/gura_sing.gif
+gura_smug, /emoji/gawr_gura/gura_smug.gif
+gura_wink, /emoji/gawr_gura/gura_wink.gif
