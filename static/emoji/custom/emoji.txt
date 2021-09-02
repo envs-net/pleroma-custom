@@ -4,6 +4,7 @@ all_the_things, /emoji/custom/all_the_things.jpg
 amomiji, /emoji/custom/amomiji.png
 anarchy, /emoji/custom/anarchy.png
 antifa, /emoji/custom/antifa.png
+antiverified, /emoji/custom/antiverified.png
 archer, /emoji/custom/archer.png
 autism, /emoji/custom/autism.png
 avocado, /emoji/custom/avocado.png
@@ -18,6 +19,7 @@ batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
 benis, /emoji/custom/benis.png
+biflag, /emoji/custom/biflag.png
 blackduck, /emoji/custom/blackduck.png
 blacksun, /emoji/custom/blacksun.png
 blank, /emoji/custom/blank.png
@@ -88,6 +90,7 @@ doom_lost_soul, /emoji/custom/doom_lost_soul.gif
 dorito, /emoji/custom/dorito.png
 drum, /emoji/custom/drum.png
 dumpsterfire, /emoji/custom/dumpsterfire.gif
+earth_photo, /emoji/custom/earth_photo.png
 einstein, /emoji/custom/einstein.png
 elvis, /emoji/custom/elvis.png
 envs, /emoji/custom/envs.png
@@ -160,6 +163,7 @@ kungfu, /emoji/custom/kungfu.gif
 kyle, /emoji/custom/kyle.png
 leftshark2, /emoji/custom/leftshark2.gif
 leftshark, /emoji/custom/leftshark.png
+lesbian_flag, /emoji/custom/lesbian_flag.png
 letter_blue, /emoji/custom/letter_blue.gif
 letter_love, /emoji/custom/letter_love.gif
 letter_opening, /emoji/custom/letter_opening.gif
@@ -170,7 +174,9 @@ link-success, /emoji/custom/link-success.png
 linus, /emoji/custom/linus.png
 linux, /emoji/custom/linux.png
 llama-carl, /emoji/custom/llama-carl.png
+llama, /emoji/custom/llama.png
 llama-paul, /emoji/custom/llama-paul.png
+loading, /emoji/custom/loading.png
 magic, /emoji/custom/magic.png
 make-it-so, /emoji/custom/make-it-so.png
 mario2, /emoji/custom/mario2.gif
@@ -199,12 +205,15 @@ nemo, /emoji/custom/nemo.gif
 ness, /emoji/custom/ness.png
 ninja, /emoji/custom/ninja.gif
 ninja_fixed, /emoji/custom/ninja_fixed.gif
+nocloud, /emoji/custom/nocloud.png
 no, /emoji/custom/no.jpg
+nsfw_stamp, /emoji/custom/nsfw_stamp.png
 nyancat_big, /emoji/custom/nyancat_big.gif
 nyancat, /emoji/custom/nyancat.gif
 nyancat_face, /emoji/custom/nyancat_face.gif
 nyancat_rainbow, /emoji/custom/nyancat_rainbow.gif
 objection, /emoji/custom/objection.gif
+oh_no, /emoji/custom/oh_no.png
 olaf, /emoji/custom/olaf.png
 otter-dance, /emoji/custom/otter-dance.gif
 panda_dance, /emoji/custom/panda_dance.gif
@@ -248,6 +257,7 @@ saiyan2, /emoji/custom/saiyan2.png
 saiyan, /emoji/custom/saiyan.png
 salad, /emoji/custom/salad.png
 saladfingers, /emoji/custom/saladfingers.png
+saturn, /emoji/custom/saturn.png
 scoobydoo, /emoji/custom/scoobydoo.png
 scoot, /emoji/custom/scoot.png
 seriously, /emoji/custom/seriously.png
@@ -316,6 +326,7 @@ super_cat, /emoji/custom/super_cat.gif
 sweep, /emoji/custom/sweep.gif
 tails, /emoji/custom/tails.gif
 tea_morning, /emoji/custom/tea_morning.gif
+teapot, /emoji/custom/teapot.png
 terminal, /emoji/custom/terminal.png
 terminator, /emoji/custom/terminator.png
 terraria, /emoji/custom/terraria.png
@@ -325,11 +336,12 @@ thankyou, /emoji/custom/thankyou.gif
 tildeverse, /emoji/custom/tildeverse.png
 toucan, /emoji/custom/toucan.png
 trader, /emoji/custom/trader.png
+trans_flag, /emoji/custom/trans_flag.png
 trolldance, /emoji/custom/trolldance.gif
 unibomber, /emoji/custom/unibomber.png
 unicorn3, /emoji/custom/unicorn3.gif
 unicorn, /emoji/custom/unicorn.gif
-uwah, /emoji/custom/uwah_small.png
+uwah_small, /emoji/custom/uwah_small.png
 valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
 virgin, /emoji/custom/virgin.png
