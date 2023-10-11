@@ -10,6 +10,8 @@ includes also emojis from:
 - senko and gyate_th - https://udongein.xyz/emoji-packs/
 - blobfox - https://www.feuerfuchs.dev/projects/blobfox-emojis/
 - bunhd - https://www.feuerfuchs.dev/projects/bunhd-emojis/
+- neocat - https://volpeon.ink/projects/emojis/neocat/
+- neofox - https://volpeon.ink/projects/emojis/neofox/
 
 #### notice
 
