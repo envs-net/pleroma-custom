@@ -12,6 +12,7 @@ includes also emojis from:
 - bunhd - https://www.feuerfuchs.dev/projects/bunhd-emojis/
 - neocat - https://volpeon.ink/projects/emojis/neocat/
 - neofox - https://volpeon.ink/projects/emojis/neofox/
+- blobhaj - https://heatherhorns.com/emoji/
 
 #### notice
 
