@@ -14,4 +14,3 @@ capycyan_sleeping, /emoji/capybaras/capycyan_sleeping.png
 capycyan_smile, /emoji/capybaras/capycyan_smile.png
 capycyan_tea, /emoji/capybaras/capycyan_tea.png
 capycyan_yuzu, /emoji/capybaras/capycyan_yuzu.png
-licenza, /emoji/capybaras/licenza.txt
