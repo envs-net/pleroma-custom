@@ -15,6 +15,7 @@ includes also emojis from:
 - blobhaj - https://heatherhorns.com/emoji/
 - capybaras - https://www.patreon.com/posts/capybaras-74597806
 - mothcharm - https://mothcharm.carrd.co/#emoji
+- pride flag heart - https://ko-fi.com/s/9c742fd6bb
 
 #### notice
 
