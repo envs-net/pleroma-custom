@@ -2,7 +2,7 @@ admiration, /emoji/mothcharm/admiration.png
 adoration, /emoji/mothcharm/adoration.png
 agonized, /emoji/mothcharm/agonized.png
 angel, /emoji/mothcharm/angel.png
-blob, /emoji/mothcharm/blob.png
+mothcharm_blob, /emoji/mothcharm/mothcharm_blob.png
 blushing, /emoji/mothcharm/blushing.png
 cat_face, /emoji/mothcharm/cat_face.png
 chopper, /emoji/mothcharm/chopper.png
