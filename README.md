@@ -14,6 +14,7 @@ includes also emojis from:
 - neofox - https://volpeon.ink/projects/emojis/neofox/
 - blobhaj - https://heatherhorns.com/emoji/
 - capybaras - https://www.patreon.com/posts/capybaras-74597806
+- mothcharm - https://mothcharm.carrd.co/#emoji
 
 #### notice
 
