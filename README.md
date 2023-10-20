@@ -16,6 +16,8 @@ includes also emojis from:
 - capybaras - https://www.patreon.com/posts/capybaras-74597806
 - mothcharm - https://mothcharm.carrd.co/#emoji
 - pride flag heart - https://ko-fi.com/s/9c742fd6bb
+- portable game console - https://dzuk.zone/emoji
+- game controllers - https://dzuk.zone/emoji
 
 #### notice
 
