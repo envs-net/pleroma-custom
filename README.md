@@ -13,6 +13,7 @@ includes also emojis from:
 - neocat - https://volpeon.ink/projects/emojis/neocat/
 - neofox - https://volpeon.ink/projects/emojis/neofox/
 - blobhaj - https://heatherhorns.com/emoji/
+- capybaras - https://www.patreon.com/posts/capybaras-74597806
 
 #### notice
 
