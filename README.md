@@ -18,6 +18,7 @@ includes also emojis from:
 - pride flag heart - https://ko-fi.com/s/9c742fd6bb
 - portable game console - https://dzuk.zone/emoji
 - game controllers - https://dzuk.zone/emoji
+- uwufetch - https://github.com/TheDarkBug/uwufetch/
 
 #### notice
 
