@@ -19,6 +19,7 @@ includes also emojis from:
 - portable game console - https://dzuk.zone/emoji
 - game controllers - https://dzuk.zone/emoji
 - uwufetch - https://github.com/TheDarkBug/uwufetch/
+- blobfox_extra - @airis@envs.net
 
 #### notice
 
