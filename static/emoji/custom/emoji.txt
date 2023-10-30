@@ -260,6 +260,7 @@ saladfingers, /emoji/custom/saladfingers.png
 saturn, /emoji/custom/saturn.png
 scoobydoo, /emoji/custom/scoobydoo.png
 scoot, /emoji/custom/scoot.png
+seirdy, /emoji/custom/seirdy.svg
 seriously, /emoji/custom/seriously.png
 server, /emoji/custom/server.png
 sheepy, /emoji/custom/sheepy.gif
