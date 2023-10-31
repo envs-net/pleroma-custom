@@ -1,0 +1,16 @@
+capycyan_bath, /emoji/capybaras/capycyan_bath.png
+capycyan_bird, /emoji/capybaras/capycyan_bird.png
+capycyan_content, /emoji/capybaras/capycyan_content.png
+capycyan_cool, /emoji/capybaras/capycyan_cool.png
+capycyan_dead, /emoji/capybaras/capycyan_dead.png
+capycyan_dice, /emoji/capybaras/capycyan_dice.png
+capycyan_flower, /emoji/capybaras/capycyan_flower.png
+capycyan_headpats, /emoji/capybaras/capycyan_headpats.png
+capycyan_heart, /emoji/capybaras/capycyan_heart.png
+capycyan_king, /emoji/capybaras/capycyan_king.png
+capycyan_love, /emoji/capybaras/capycyan_love.png
+capycyan_magic, /emoji/capybaras/capycyan_magic.png
+capycyan_sleeping, /emoji/capybaras/capycyan_sleeping.png
+capycyan_smile, /emoji/capybaras/capycyan_smile.png
+capycyan_tea, /emoji/capybaras/capycyan_tea.png
+capycyan_yuzu, /emoji/capybaras/capycyan_yuzu.png

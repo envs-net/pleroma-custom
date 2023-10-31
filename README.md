@@ -10,6 +10,16 @@ includes also emojis from:
 - senko and gyate_th - https://udongein.xyz/emoji-packs/
 - blobfox - https://www.feuerfuchs.dev/projects/blobfox-emojis/
 - bunhd - https://www.feuerfuchs.dev/projects/bunhd-emojis/
+- neocat - https://volpeon.ink/projects/emojis/neocat/
+- neofox - https://volpeon.ink/projects/emojis/neofox/
+- blobhaj - https://heatherhorns.com/emoji/
+- capybaras - https://www.patreon.com/posts/capybaras-74597806
+- mothcharm - https://mothcharm.carrd.co/#emoji
+- pride flag heart - https://ko-fi.com/s/9c742fd6bb
+- portable game console - https://dzuk.zone/emoji
+- game controllers - https://dzuk.zone/emoji
+- uwufetch - https://github.com/TheDarkBug/uwufetch/
+- blobfox_extra - @airis@envs.net
 
 #### notice
 
