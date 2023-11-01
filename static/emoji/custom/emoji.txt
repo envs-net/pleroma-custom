@@ -27,6 +27,7 @@ blazeit420, /emoji/custom/blazeit420.png
 bmo2, /emoji/custom/bmo2.gif
 bmo, /emoji/custom/bmo.gif
 bonsai, /emoji/custom/bonsai.png
+BonusGrisinn, /emoji/custom/BonusGrisinn.png
 boy, /emoji/custom/boy.gif
 boy_fight, /emoji/custom/boy_fight.gif
 boy_mad, /emoji/custom/boy_mad.gif
@@ -260,8 +261,8 @@ saladfingers, /emoji/custom/saladfingers.png
 saturn, /emoji/custom/saturn.png
 scoobydoo, /emoji/custom/scoobydoo.png
 scoot, /emoji/custom/scoot.png
-seirdy, /emoji/custom/seirdy.png
 seirdy_blush, /emoji/custom/seirdy_blush.png
+seirdy, /emoji/custom/seirdy.png
 seriously, /emoji/custom/seriously.png
 server, /emoji/custom/server.png
 sheepy, /emoji/custom/sheepy.gif
