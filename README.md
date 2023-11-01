@@ -24,6 +24,7 @@ includes also emojis from:
 - blobfox_extra - @airis@pleroma.envs.net
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>
+- zero two: <https://archive.org/details/002-emotes/> + unknown
 
 #### notice
 
