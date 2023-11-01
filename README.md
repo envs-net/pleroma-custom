@@ -25,6 +25,7 @@ includes also emojis from:
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
+- pig flags: <https://archive.org/details/serbiapig/>
 
 #### notice
 
