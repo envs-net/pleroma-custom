@@ -348,6 +348,8 @@ uwah_small, /emoji/custom/uwah_small.png
 valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
 virgin, /emoji/custom/virgin.png
+waluigi_blob, /emoji/custom/waluigi_blob.png
+waluigi, /emoji/custom/waluigi.png
 waving, /emoji/custom/waving.gif
 weed, /emoji/custom/weed.png
 wgpcgr, /emoji/custom/wgpcgr.png
