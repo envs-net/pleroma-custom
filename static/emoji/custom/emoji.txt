@@ -271,6 +271,7 @@ shrug-boy, /emoji/custom/shrug-boy.png
 shrug, /emoji/custom/shrug.png
 sickblue-mario, /emoji/custom/sickblue-mario.gif
 sickburn, /emoji/custom/sickburn.gif
+sickos, /emoji/custom/sickos.png
 sickred-mario, /emoji/custom/sickred-mario.gif
 sickyellow-mario, /emoji/custom/sickyellow-mario.gif
 skipping, /emoji/custom/skipping.gif
