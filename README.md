@@ -21,7 +21,7 @@ includes also emojis from:
 - portable game console - <https://dzuk.zone/emoji>
 - game controllers - <https://dzuk.zone/emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
-- blobfox_extra - @airis@pleroma.envs.net
+- blobfox_extra - various, including @airis@pleroma.envs.net
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
