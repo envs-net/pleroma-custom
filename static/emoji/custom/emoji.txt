@@ -126,6 +126,7 @@ gun, /emoji/custom/gun.png
 guy_basketball, /emoji/custom/guy_basketball.gif
 guy_fast, /emoji/custom/guy_fast.gif
 guy_happy, /emoji/custom/guy_happy.gif
+haggard, /emoji/custom/haggard.png
 ha-ha, /emoji/custom/ha-ha.png
 halloween_ghost, /emoji/custom/halloween_ghost.gif
 happy_banana, /emoji/custom/happy_banana.gif
@@ -164,7 +165,6 @@ kungfu, /emoji/custom/kungfu.gif
 kyle, /emoji/custom/kyle.png
 leftshark2, /emoji/custom/leftshark2.gif
 leftshark, /emoji/custom/leftshark.png
-lesbian_flag, /emoji/custom/lesbian_flag.png
 letter_blue, /emoji/custom/letter_blue.gif
 letter_love, /emoji/custom/letter_love.gif
 letter_opening, /emoji/custom/letter_opening.gif
