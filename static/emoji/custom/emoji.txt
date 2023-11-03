@@ -216,6 +216,7 @@ nyancat_rainbow, /emoji/custom/nyancat_rainbow.gif
 objection, /emoji/custom/objection.gif
 oh_no, /emoji/custom/oh_no.png
 olaf, /emoji/custom/olaf.png
+openSUS, /emoji/custom/openSUS.png
 otter-dance, /emoji/custom/otter-dance.gif
 panda_dance, /emoji/custom/panda_dance.gif
 partywizard, /emoji/custom/partywizard.gif

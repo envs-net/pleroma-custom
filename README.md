@@ -28,6 +28,7 @@ includes also emojis from:
 - pig flags: <https://archive.org/details/serbiapig/>
 - waluigi blob: <https://www.reddit.com/r/Waluigi/comments/a70m54/i_did_a_cute_waluigi_emoji_for_discord/>
 - Pride flags: mostly from WikiMedia Commons.
+- openSUS: <https://todon.nl/@schratze/107678159846609667>
 
 #### notice
 
