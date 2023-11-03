@@ -23,7 +23,7 @@ includes also emojis from:
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra - various, including @airis@pleroma.envs.net
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
-- xenia: <https://meow.social/@rinidisc/111333089243157952>
+- xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
 - pig flags: <https://archive.org/details/serbiapig/>
 - waluigi blob: <https://www.reddit.com/r/Waluigi/comments/a70m54/i_did_a_cute_waluigi_emoji_for_discord/>

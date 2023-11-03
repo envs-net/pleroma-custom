@@ -1,9 +1,13 @@
 xenia_angry, /emoji/xenia/xenia_angry.png
 xenia_blahaj, /emoji/xenia/xenia_blahaj.png
+xenia_blep, /emoji/xenia/xenia_blep.png
 xenia_blush, /emoji/xenia/xenia_blush.png
 xenia_cry, /emoji/xenia/xenia_cry.png
 xenia_excited, /emoji/xenia/xenia_excited.png
 xenia_hug, /emoji/xenia/xenia_hug.png
+xenia_laptop, /emoji/xenia/xenia_laptop.png
 xenia_plead, /emoji/xenia/xenia_plead.png
+xenia_stare, /emoji/xenia/xenia_stare.png
+xenia_think, /emoji/xenia/xenia_think.png
 xenia_trash, /emoji/xenia/xenia_trash.png
 xenia_yell, /emoji/xenia/xenia_yell.png
