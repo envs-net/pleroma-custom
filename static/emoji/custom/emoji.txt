@@ -149,6 +149,7 @@ helloween_coffee, /emoji/custom/helloween_coffee.gif
 hermionegranger, /emoji/custom/hermionegranger.png
 honeybadger, /emoji/custom/honeybadger.png
 honked, /emoji/custom/honked.gif
+horny_cat, /emoji/custom/horny_cat.png
 humpday, /emoji/custom/humpday.png
 illuminati, /emoji/custom/illuminati.png
 informative, /emoji/custom/informative.png
@@ -234,6 +235,7 @@ pi, /emoji/custom/pi.png
 pigpen, /emoji/custom/pigpen.png
 plant_pot, /emoji/custom/plant_pot.gif
 plant_wind, /emoji/custom/plant_wind.gif
+pleading_cat_collar, /emoji/custom/pleading_cat_collar.png
 professor_lightwav, /emoji/custom/professor_lightwav.gif
 programmer, /emoji/custom/programmer.gif
 psyduck, /emoji/custom/psyduck.png
