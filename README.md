@@ -27,6 +27,7 @@ includes also emojis from:
 - zero two: <https://archive.org/details/002-emotes/> + unknown
 - pig flags: <https://archive.org/details/serbiapig/>
 - waluigi blob: <https://www.reddit.com/r/Waluigi/comments/a70m54/i_did_a_cute_waluigi_emoji_for_discord/>
+- Pride flags: mostly from WikiMedia Commons.
 
 #### notice
 
