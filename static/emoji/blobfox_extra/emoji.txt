@@ -3,3 +3,4 @@ blobfoxbonk, /emoji/blobfox_extra/blobfoxbonk.png
 blobfox_googly_shocked, /emoji/blobfox_extra/blobfox_googly_shocked.png
 blobfox_hug_cat, /emoji/blobfox_extra/blobfox_hug_cat.png
 blobfox_hug_fox, /emoji/blobfox_extra/blobfox_hug_fox.png
+blobfox_woozy, /emoji/blobfox_extra/blobfox_woozy.png
