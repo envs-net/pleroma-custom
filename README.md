@@ -8,7 +8,7 @@ path: `/var/lib/pleroma/`
 
 includes also emojis from:
 
-- <https://fedi.absturztau.be/emoji-packs/index.html>
+- <https://emoji-repo.absturztau.be/>
 - senko and gyate_th - <https://udongein.xyz/emoji-packs/>
 - blobfox - <https://www.feuerfuchs.dev/projects/blobfox-emojis/>
 - bunhd - <https://www.feuerfuchs.dev/projects/bunhd-emojis/>
@@ -21,7 +21,7 @@ includes also emojis from:
 - portable game console - <https://dzuk.zone/emoji>
 - game controllers - <https://dzuk.zone/emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
-- blobfox_extra - various, including @airis@pleroma.envs.net
+- blobfox_extra and misc - various, including @airis@pleroma.envs.net
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
@@ -29,6 +29,10 @@ includes also emojis from:
 - waluigi blob: <https://www.reddit.com/r/Waluigi/comments/a70m54/i_did_a_cute_waluigi_emoji_for_discord/>
 - Pride flags: mostly from WikiMedia Commons.
 - openSUS: <https://todon.nl/@schratze/107678159846609667>
+- shitty logos: [shitty_logos telegram sticker pack](https://fstik.app/stickerSet/shitty_logos) + various others
+- Spy X Family: <https://ko-fi.com/s/44e46f4f3f>
+- Vtubers: @enigmatico@mk.absturztau.be
+- drgn: <https://volpeon.ink/projects/emojis/drgn/>
 
 #### notice
 
