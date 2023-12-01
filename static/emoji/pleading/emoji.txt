@@ -1,4 +1,13 @@
+cofe_pleading, /emoji/pleading/cofe_pleading.png
 horny_cat, /emoji/pleading/horny_cat.png
+melting_pleading, /emoji/pleading/melting_pleading.png
 pleading_bonus, /emoji/pleading/pleading_bonus.png
 pleading_cat_collar, /emoji/pleading/pleading_cat_collar.png
 pleading_cat, /emoji/pleading/pleading_cat.png
+pleading_flower, /emoji/pleading/pleading_flower.png
+pleading_flowers, /emoji/pleading/pleading_flowers.png
+pleading_love, /emoji/pleading/pleading_love.png
+pleading_taco, /emoji/pleading/pleading_taco.png
+pleading_trans, /emoji/pleading/pleading_trans.png
+ultra_pleading, /emoji/pleading/ultra_pleading.png
+woozy_pleading, /emoji/pleading/woozy_pleading.png
