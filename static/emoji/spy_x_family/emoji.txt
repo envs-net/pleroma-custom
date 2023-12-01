@@ -1,0 +1,8 @@
+anya_gasp, /emoji/spy_x_family/anya_gasp.png
+anya_shock, /emoji/spy_x_family/anya_shock.png
+anya_smug, /emoji/spy_x_family/anya_smug.png
+anya_whimper, /emoji/spy_x_family/anya_whimper.png
+damian_blush, /emoji/spy_x_family/damian_blush.png
+loid_gun, /emoji/spy_x_family/loid_gun.png
+yor_hearts, /emoji/spy_x_family/yor_hearts.png
+yor_knife, /emoji/spy_x_family/yor_knife.png
