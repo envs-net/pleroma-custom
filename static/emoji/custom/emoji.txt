@@ -17,6 +17,7 @@ badger, /emoji/custom/badger.gif
 badpundog, /emoji/custom/badpundog.png
 bahgawd, /emoji/custom/bahgawd.gif
 bandaid, /emoji/custom/bandaid.png
+banhammer, /emoji/custom/banhammer.png
 batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
