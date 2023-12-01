@@ -1,5 +1,5 @@
 ai, /emoji/vtuber/ai.png
-aqua, /emoji/vtuber/aqua.png
+aqua_vtuber, /emoji/vtuber/aqua_vtuber.png
 coco, /emoji/vtuber/coco.png
 flare, /emoji/vtuber/flare.png
 fubuki, /emoji/vtuber/fubuki.png
