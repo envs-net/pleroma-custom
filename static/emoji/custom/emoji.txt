@@ -76,6 +76,7 @@ crt_w_test_pattern, /emoji/custom/crt_w_test_pattern.png
 cupcake_dessert, /emoji/custom/cupcake_dessert.gif
 cupcake, /emoji/custom/cupcake.png
 dab-squidward, /emoji/custom/dab-squidward.png
+daddy, /emoji/custom/daddy.gif
 dalahorse, /emoji/custom/dalahorse.png
 dancing_hotdog, /emoji/custom/dancing_hotdog.gif
 dancing_lisa, /emoji/custom/dancing_lisa.gif
