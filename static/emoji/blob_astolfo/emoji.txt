@@ -1,0 +1,5 @@
+blobAstolfo3c, /emoji/blob_astolfo/blobAstolfo3c.png
+blobAstolfoBlush, /emoji/blob_astolfo/blobAstolfoBlush.png
+blobAstolfo, /emoji/blob_astolfo/blobAstolfo.png
+blobAstolfo_MUDAMUDAMUDA, /emoji/blob_astolfo/blobAstolfo_MUDAMUDAMUDA.png
+blobAstolfoPaws, /emoji/blob_astolfo/blobAstolfoPaws.png
