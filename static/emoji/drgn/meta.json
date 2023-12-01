@@ -1,0 +1,1546 @@
+{
+  "metaVersion": 2,
+  "host": "mk.vulpes.one",
+  "exportedAt": "2023-06-29T20:30:17Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "drgn_0_0.png",
+      "emoji": {
+        "name": "drgn_0_0",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_3c_evil.png",
+      "emoji": {
+        "name": "drgn_3c_evil",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_3c.png",
+      "emoji": {
+        "name": "drgn_3c",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angel_blep.png",
+      "emoji": {
+        "name": "drgn_angel_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angel_happy.png",
+      "emoji": {
+        "name": "drgn_angel_happy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angel_mlem.png",
+      "emoji": {
+        "name": "drgn_angel_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angel_pleading.png",
+      "emoji": {
+        "name": "drgn_angel_pleading",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angel.png",
+      "emoji": {
+        "name": "drgn_angel",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_angry.png",
+      "emoji": {
+        "name": "drgn_angry",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_aww.png",
+      "emoji": {
+        "name": "drgn_aww",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_blep.png",
+      "emoji": {
+        "name": "drgn_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_blush.png",
+      "emoji": {
+        "name": "drgn_blush",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_boop.png",
+      "emoji": {
+        "name": "drgn_boop",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_bread.png",
+      "emoji": {
+        "name": "drgn_bread",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_blep.png",
+      "emoji": {
+        "name": "drgn_comfy_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_cup_mlem.png",
+      "emoji": {
+        "name": "drgn_comfy_cup_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_cup.png",
+      "emoji": {
+        "name": "drgn_comfy_cup",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_cute.png",
+      "emoji": {
+        "name": "drgn_comfy_cute",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_drowsy.png",
+      "emoji": {
+        "name": "drgn_comfy_drowsy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_evil.png",
+      "emoji": {
+        "name": "drgn_comfy_evil",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_happy.png",
+      "emoji": {
+        "name": "drgn_comfy_happy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_mlem.png",
+      "emoji": {
+        "name": "drgn_comfy_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_owo.png",
+      "emoji": {
+        "name": "drgn_comfy_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy.png",
+      "emoji": {
+        "name": "drgn_comfy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy_smug.png",
+      "emoji": {
+        "name": "drgn_comfy_smug",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_comfy__w_.png",
+      "emoji": {
+        "name": "drgn_comfy__w_",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_confused.png",
+      "emoji": {
+        "name": "drgn_confused",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cool_fingergun.png",
+      "emoji": {
+        "name": "drgn_cool_fingergun",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cool.png",
+      "emoji": {
+        "name": "drgn_cool",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cool_reject.png",
+      "emoji": {
+        "name": "drgn_cool_reject",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cry_loud.png",
+      "emoji": {
+        "name": "drgn_cry_loud",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cry.png",
+      "emoji": {
+        "name": "drgn_cry",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cup_drowsy.png",
+      "emoji": {
+        "name": "drgn_cup_drowsy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cup_mlem.png",
+      "emoji": {
+        "name": "drgn_cup_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cup.png",
+      "emoji": {
+        "name": "drgn_cup",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_cute.png",
+      "emoji": {
+        "name": "drgn_cute",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_dark_mlem.png",
+      "emoji": {
+        "name": "drgn_dark_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_dark.png",
+      "emoji": {
+        "name": "drgn_dark",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_dizzy.png",
+      "emoji": {
+        "name": "drgn_dizzy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_drool.png",
+      "emoji": {
+        "name": "drgn_drool",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_drowsy.png",
+      "emoji": {
+        "name": "drgn_drowsy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_evil.png",
+      "emoji": {
+        "name": "drgn_evil",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_fingergun.png",
+      "emoji": {
+        "name": "drgn_fingergun",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_fire_blue.png",
+      "emoji": {
+        "name": "drgn_fire_blue",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_fire.png",
+      "emoji": {
+        "name": "drgn_fire",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_blep.png",
+      "emoji": {
+        "name": "drgn_flat_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_blush.png",
+      "emoji": {
+        "name": "drgn_flat_blush",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_happy.png",
+      "emoji": {
+        "name": "drgn_flat_happy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_heart.png",
+      "emoji": {
+        "name": "drgn_flat_heart",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_nervous.png",
+      "emoji": {
+        "name": "drgn_flat_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_owo.png",
+      "emoji": {
+        "name": "drgn_flat_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_pleading.png",
+      "emoji": {
+        "name": "drgn_flat_pleading",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat.png",
+      "emoji": {
+        "name": "drgn_flat",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_sleep.png",
+      "emoji": {
+        "name": "drgn_flat_sleep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_sob_heart.png",
+      "emoji": {
+        "name": "drgn_flat_sob_heart",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_sob.png",
+      "emoji": {
+        "name": "drgn_flat_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flat_x_x.png",
+      "emoji": {
+        "name": "drgn_flat_x_x",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_flush.png",
+      "emoji": {
+        "name": "drgn_flush",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_glare.png",
+      "emoji": {
+        "name": "drgn_glare",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_glare_sob.png",
+      "emoji": {
+        "name": "drgn_glare_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_glasses.png",
+      "emoji": {
+        "name": "drgn_glasses",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_happy_blep.png",
+      "emoji": {
+        "name": "drgn_happy_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_happy_mlem.png",
+      "emoji": {
+        "name": "drgn_happy_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_happy.png",
+      "emoji": {
+        "name": "drgn_happy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_heart.png",
+      "emoji": {
+        "name": "drgn_heart",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_hide_blush.png",
+      "emoji": {
+        "name": "drgn_hide_blush",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_hide_nervous.png",
+      "emoji": {
+        "name": "drgn_hide_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_hide.png",
+      "emoji": {
+        "name": "drgn_hide",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_hyper.png",
+      "emoji": {
+        "name": "drgn_hyper",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_knife_angry.png",
+      "emoji": {
+        "name": "drgn_knife_angry",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_knife.png",
+      "emoji": {
+        "name": "drgn_knife",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_laser_end_hit.png",
+      "emoji": {
+        "name": "drgn_laser_end_hit",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_laser_end.png",
+      "emoji": {
+        "name": "drgn_laser_end",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_laser_mid.png",
+      "emoji": {
+        "name": "drgn_laser_mid",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_laser_start.png",
+      "emoji": {
+        "name": "drgn_laser_start",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lick.png",
+      "emoji": {
+        "name": "drgn_lick",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lol_nervous.png",
+      "emoji": {
+        "name": "drgn_lol_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lol.png",
+      "emoji": {
+        "name": "drgn_lol",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lol_tear.png",
+      "emoji": {
+        "name": "drgn_lol_tear",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_blep.png",
+      "emoji": {
+        "name": "drgn_lurk_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_cute.png",
+      "emoji": {
+        "name": "drgn_lurk_cute",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_nervous.png",
+      "emoji": {
+        "name": "drgn_lurk_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_notice.png",
+      "emoji": {
+        "name": "drgn_lurk_notice",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_owo.png",
+      "emoji": {
+        "name": "drgn_lurk_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_pleading.png",
+      "emoji": {
+        "name": "drgn_lurk_pleading",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk.png",
+      "emoji": {
+        "name": "drgn_lurk",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk_sob.png",
+      "emoji": {
+        "name": "drgn_lurk_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_lurk__w_.png",
+      "emoji": {
+        "name": "drgn_lurk__w_",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_mlem_owo.png",
+      "emoji": {
+        "name": "drgn_mlem_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_mlem.png",
+      "emoji": {
+        "name": "drgn_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_music.png",
+      "emoji": {
+        "name": "drgn_music",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nauseated.png",
+      "emoji": {
+        "name": "drgn_nauseated",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nervous.png",
+      "emoji": {
+        "name": "drgn_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_neutral.png",
+      "emoji": {
+        "name": "drgn_neutral",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blobcat_nervous.png",
+      "emoji": {
+        "name": "drgn_nom_blobcat_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blobcat.png",
+      "emoji": {
+        "name": "drgn_nom_blobcat",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blobfox_nervous.png",
+      "emoji": {
+        "name": "drgn_nom_blobfox_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blobfox.png",
+      "emoji": {
+        "name": "drgn_nom_blobfox",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blob_nervous.png",
+      "emoji": {
+        "name": "drgn_nom_blob_nervous",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_blob.png",
+      "emoji": {
+        "name": "drgn_nom_blob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_book.png",
+      "emoji": {
+        "name": "drgn_nom_book",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_bread.png",
+      "emoji": {
+        "name": "drgn_nom_bread",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_burger.png",
+      "emoji": {
+        "name": "drgn_nom_burger",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_cookie.png",
+      "emoji": {
+        "name": "drgn_nom_cookie",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_donut.png",
+      "emoji": {
+        "name": "drgn_nom_donut",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_egg.png",
+      "emoji": {
+        "name": "drgn_nom_egg",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_fries.png",
+      "emoji": {
+        "name": "drgn_nom_fries",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_melon.png",
+      "emoji": {
+        "name": "drgn_nom_melon",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_pita.png",
+      "emoji": {
+        "name": "drgn_nom_pita",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_pizza.png",
+      "emoji": {
+        "name": "drgn_nom_pizza",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_verified.png",
+      "emoji": {
+        "name": "drgn_nom_verified",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nom_waffle.png",
+      "emoji": {
+        "name": "drgn_nom_waffle",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_notice.png",
+      "emoji": {
+        "name": "drgn_notice",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_nuzzle.png",
+      "emoji": {
+        "name": "drgn_nuzzle",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_o_o.png",
+      "emoji": {
+        "name": "drgn_o_o",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_outage.png",
+      "emoji": {
+        "name": "drgn_outage",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_owo_mlem.png",
+      "emoji": {
+        "name": "drgn_owo_mlem",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_owo.png",
+      "emoji": {
+        "name": "drgn_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat_blush.png",
+      "emoji": {
+        "name": "drgn_pat_blush",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat_cry.png",
+      "emoji": {
+        "name": "drgn_pat_cry",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat_flat.png",
+      "emoji": {
+        "name": "drgn_pat_flat",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat.png",
+      "emoji": {
+        "name": "drgn_pat",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat_sob.png",
+      "emoji": {
+        "name": "drgn_pat_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pat_up.png",
+      "emoji": {
+        "name": "drgn_pat_up",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pleading.png",
+      "emoji": {
+        "name": "drgn_pleading",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn.png",
+      "emoji": {
+        "name": "drgn",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_pout.png",
+      "emoji": {
+        "name": "drgn_pout",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_rainbow.png",
+      "emoji": {
+        "name": "drgn_rainbow",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_reject.png",
+      "emoji": {
+        "name": "drgn_reject",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_sad.png",
+      "emoji": {
+        "name": "drgn_sad",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_science.png",
+      "emoji": {
+        "name": "drgn_science",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_scream_angry.png",
+      "emoji": {
+        "name": "drgn_scream_angry",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_scream.png",
+      "emoji": {
+        "name": "drgn_scream",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_scream_stare.png",
+      "emoji": {
+        "name": "drgn_scream_stare",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_shocked.png",
+      "emoji": {
+        "name": "drgn_shocked",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_sleep.png",
+      "emoji": {
+        "name": "drgn_sleep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_smol.png",
+      "emoji": {
+        "name": "drgn_smol",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_smug2.png",
+      "emoji": {
+        "name": "drgn_smug2",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_smug.png",
+      "emoji": {
+        "name": "drgn_smug",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_sob.png",
+      "emoji": {
+        "name": "drgn_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_sparkle.png",
+      "emoji": {
+        "name": "drgn_sparkle",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_tail.png",
+      "emoji": {
+        "name": "drgn_tail",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_confused.png",
+      "emoji": {
+        "name": "drgn_think_confused",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_cool.png",
+      "emoji": {
+        "name": "drgn_think_cool",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_evil.png",
+      "emoji": {
+        "name": "drgn_think_evil",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_owo.png",
+      "emoji": {
+        "name": "drgn_think_owo",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think.png",
+      "emoji": {
+        "name": "drgn_think",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_science.png",
+      "emoji": {
+        "name": "drgn_think_science",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_smug.png",
+      "emoji": {
+        "name": "drgn_think_smug",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think_woozy.png",
+      "emoji": {
+        "name": "drgn_think_woozy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_think__w_.png",
+      "emoji": {
+        "name": "drgn_think__w_",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_thumbsdown.png",
+      "emoji": {
+        "name": "drgn_thumbsdown",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_thumbsup.png",
+      "emoji": {
+        "name": "drgn_thumbsup",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_tooth.png",
+      "emoji": {
+        "name": "drgn_tooth",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_up_blep.png",
+      "emoji": {
+        "name": "drgn_up_blep",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_up_cup.png",
+      "emoji": {
+        "name": "drgn_up_cup",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_up_cute.png",
+      "emoji": {
+        "name": "drgn_up_cute",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_up_happy.png",
+      "emoji": {
+        "name": "drgn_up_happy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_up.png",
+      "emoji": {
+        "name": "drgn_up",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_uwu.png",
+      "emoji": {
+        "name": "drgn_uwu",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_verified.png",
+      "emoji": {
+        "name": "drgn_verified",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_wave.png",
+      "emoji": {
+        "name": "drgn_wave",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_weary.png",
+      "emoji": {
+        "name": "drgn_weary",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_weary_sob.png",
+      "emoji": {
+        "name": "drgn_weary_sob",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_woozy.png",
+      "emoji": {
+        "name": "drgn_woozy",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn__w_.png",
+      "emoji": {
+        "name": "drgn__w_",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_x_x.png",
+      "emoji": {
+        "name": "drgn_x_x",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_yell.png",
+      "emoji": {
+        "name": "drgn_yell",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_yoshi_end.png",
+      "emoji": {
+        "name": "drgn_yoshi_end",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_yoshi_mid.png",
+      "emoji": {
+        "name": "drgn_yoshi_mid",
+        "category": "drgn",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "drgn_yoshi_start.png",
+      "emoji": {
+        "name": "drgn_yoshi_start",
+        "category": "drgn",
+        "aliases": []
+      }
+    }
+  ]
+}
