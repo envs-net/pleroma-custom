@@ -1,0 +1,15 @@
+mikoto2, /emoji/mikoto/mikoto2.png
+mikoto_bed, /emoji/mikoto/mikoto_bed.png
+mikoto, /emoji/mikoto/mikoto.png
+mikoto_geh, /emoji/mikoto/mikoto_geh.png
+mikoto_haha, /emoji/mikoto/mikoto_haha.png
+mikoto_kuroko_snuggle, /emoji/mikoto/mikoto_kuroko_snuggle.png
+mikoto_question, /emoji/mikoto/mikoto_question.png
+mikoto_smile2, /emoji/mikoto/mikoto_smile2.png
+mikoto_smile3, /emoji/mikoto/mikoto_smile3.png
+mikoto_smile, /emoji/mikoto/mikoto_smile.png
+mikoto_tears, /emoji/mikoto/mikoto_tears.png
+mikoto_thumbsup, /emoji/mikoto/mikoto_thumbsup.png
+mikoto_tsundere2, /emoji/mikoto/mikoto_tsundere2.png
+mikoto_tsundere, /emoji/mikoto/mikoto_tsundere.png
+mikoto_yum, /emoji/mikoto/mikoto_yum.png
