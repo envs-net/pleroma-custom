@@ -3,6 +3,7 @@ horny_cat, /emoji/pleading/horny_cat.png
 melting_pleading, /emoji/pleading/melting_pleading.png
 pleading_bonus, /emoji/pleading/pleading_bonus.png
 pleading_cat_collar, /emoji/pleading/pleading_cat_collar.png
+pleading_cat_collar_hypno, /emoji/pleading/pleading_cat_collar_hypno.gif
 pleading_cat, /emoji/pleading/pleading_cat.png
 pleading_flower, /emoji/pleading/pleading_flower.png
 pleading_flowers, /emoji/pleading/pleading_flowers.png
