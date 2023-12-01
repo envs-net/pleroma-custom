@@ -33,6 +33,7 @@ includes also emojis from:
 - Spy X Family: <https://ko-fi.com/s/44e46f4f3f>
 - Vtubers: @enigmatico@mk.absturztau.be
 - drgn: <https://volpeon.ink/projects/emojis/drgn/>
+- turtle: <https://github.com/TurtleEmotes/Turtles>
 
 #### notice
 
