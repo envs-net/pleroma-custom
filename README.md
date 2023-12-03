@@ -34,6 +34,7 @@ includes also emojis from:
 - Vtubers: @enigmatico@mk.absturztau.be
 - drgn: <https://volpeon.ink/projects/emojis/drgn/>
 - turtle: <https://github.com/TurtleEmotes/Turtles>
+- fatcat: <https://ko-fi.com/sunpawbean>
 
 #### notice
 
