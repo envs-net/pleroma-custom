@@ -40,6 +40,7 @@ includes also emojis from:
 - Among Us: <https://pidgels.gumroad.com/l/iLmkv>
 - Matcha: <https://ko-fi.com/s/f67eddbf93>
 - Padoru: various; see `credits.txt` in its directory.
+- Gura: curated by @julia@eepy.moe from Discord servers.
 
 #### notice
 
