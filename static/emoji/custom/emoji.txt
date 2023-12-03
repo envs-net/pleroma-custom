@@ -141,6 +141,7 @@ happy_confetti, /emoji/custom/happy_confetti.gif
 happy_dance, /emoji/custom/happy_dance.gif
 happy_food, /emoji/custom/happy_food.gif
 harrypotter, /emoji/custom/harrypotter.png
+hd_dvd_spin, /emoji/custom/hd_dvd_spin.gif
 headdesk, /emoji/custom/headdesk.gif
 headwall, /emoji/custom/headwall.gif
 heart_big_eye, /emoji/custom/heart_big_eye.gif
