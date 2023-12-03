@@ -41,6 +41,7 @@ includes also emojis from:
 - Matcha: <https://ko-fi.com/s/f67eddbf93>
 - Padoru: various; see `credits.txt` in its directory.
 - Gura: curated by @julia@eepy.moe from Discord servers.
+- Ferris: <https://dzuk.zone/emoji>
 
 #### notice
 
