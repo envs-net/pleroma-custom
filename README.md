@@ -37,6 +37,7 @@ includes also emojis from:
 - fatcat: <https://ko-fi.com/sunpawbean>
 - Smilky Pokemon: <https://ko-fi.com/smilkyshake>
 - Umirinart: <https://ko-fi.com/umirinart/>
+- Among Us: <https://pidgels.gumroad.com/l/iLmkv>
 
 #### notice
 

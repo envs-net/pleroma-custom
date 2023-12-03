@@ -1,0 +1,13 @@
+AUbetray, /emoji/among_us/AUbetray.png
+AUbruh, /emoji/among_us/AUbruh.png
+AUclown, /emoji/among_us/AUclown.png
+AUcya, /emoji/among_us/AUcya.png
+AUfine, /emoji/among_us/AUfine.png
+AUhaha, /emoji/among_us/AUhaha.png
+AUkill, /emoji/among_us/AUkill.png
+AUrip_corrected, /emoji/among_us/AUrip_corrected.png
+AUrip, /emoji/among_us/AUrip.png
+AUshh, /emoji/among_us/AUshh.png
+AUsus, /emoji/among_us/AUsus.png
+AUthinking, /emoji/among_us/AUthinking.png
+AUwin, /emoji/among_us/AUwin.png
