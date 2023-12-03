@@ -11,11 +11,11 @@ onigiriNori, /emoji/umirinart/onigiriNori.png
 onigiriPlum, /emoji/umirinart/onigiriPlum.png
 onigiriShrimp, /emoji/umirinart/onigiriShrimp.png
 shiba_crown, /emoji/umirinart/shiba_crown.png
-shiba, /emoji/umirinart/shiba.png
 shiba_flower, /emoji/umirinart/shiba_flower.png
 shiba_glasses, /emoji/umirinart/shiba_glasses.png
 shiba_halo, /emoji/umirinart/shiba_halo.png
 shiba_pinkglasses, /emoji/umirinart/shiba_pinkglasses.png
+shiba_umiri, /emoji/umirinart/shiba_umiri.png
 snowflake_blue, /emoji/umirinart/snowflake_blue.png
 snowflake_cyan, /emoji/umirinart/snowflake_cyan.png
 snowflake_orange, /emoji/umirinart/snowflake_orange.png
