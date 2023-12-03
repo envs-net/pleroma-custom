@@ -38,6 +38,7 @@ includes also emojis from:
 - Smilky Pokemon: <https://ko-fi.com/smilkyshake>
 - Umirinart: <https://ko-fi.com/umirinart/>
 - Among Us: <https://pidgels.gumroad.com/l/iLmkv>
+- Matcha: <https://ko-fi.com/s/f67eddbf93>
 
 #### notice
 
