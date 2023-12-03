@@ -1,0 +1,13 @@
+nkoFacepalm, /emoji/nko/nkoFacepalm.png
+nkoHehe, /emoji/nko/nkoHehe.png
+nkoHide, /emoji/nko/nkoHide.png
+nkoHype, /emoji/nko/nkoHype.png
+nkoLove, /emoji/nko/nkoLove.png
+nkoLoveRe, /emoji/nko/nkoLoveRe.png
+nkoShrug, /emoji/nko/nkoShrug.png
+nkoSleepy, /emoji/nko/nkoSleepy.png
+nkotea, /emoji/nko/nkotea.png
+nkoThink, /emoji/nko/nkoThink.png
+nkoWave, /emoji/nko/nkoWave.png
+nkoWhaaaat, /emoji/nko/nkoWhaaaat.png
+nkoWhoaa, /emoji/nko/nkoWhoaa.png

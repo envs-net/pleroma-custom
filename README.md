@@ -35,6 +35,8 @@ includes also emojis from:
 - drgn: <https://volpeon.ink/projects/emojis/drgn/>
 - turtle: <https://github.com/TurtleEmotes/Turtles>
 - fatcat: <https://ko-fi.com/sunpawbean>
+- Smilky Pokemon: <https://ko-fi.com/smilkyshake>
+- Umirinart: <https://ko-fi.com/umirinart/>
 
 #### notice
 
