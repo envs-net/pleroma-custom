@@ -39,6 +39,7 @@ includes also emojis from:
 - Umirinart: <https://ko-fi.com/umirinart/>
 - Among Us: <https://pidgels.gumroad.com/l/iLmkv>
 - Matcha: <https://ko-fi.com/s/f67eddbf93>
+- Padoru: various; see `credits.txt` in its directory.
 
 #### notice
 
