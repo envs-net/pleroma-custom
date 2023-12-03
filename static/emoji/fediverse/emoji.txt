@@ -10,6 +10,7 @@ friendica, /emoji/fediverse/friendica.png
 funkwhale, /emoji/fediverse/funkwhale.png
 gotosocial, /emoji/fediverse/gotosocial.png
 hometown, /emoji/fediverse/hometown.png
+kbin, /emoji/fediverse/kbin.png
 lemmy, /emoji/fediverse/lemmy.png
 mbin, /emoji/fediverse/mbin.png
 misskey, /emoji/fediverse/misskey.png
