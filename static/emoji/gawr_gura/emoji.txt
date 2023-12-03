@@ -38,8 +38,8 @@ gura_bloop_sleep_tuck, /emoji/gawr_gura/gura_bloop_sleep_tuck.png
 gura_bloop_snail, /emoji/gawr_gura/gura_bloop_snail.png
 gura_bloop_void, /emoji/gawr_gura/gura_bloop_void.png
 gura_bloop_what, /emoji/gawr_gura/gura_bloop_what.png
+gura_blush_2, /emoji/gawr_gura/gura_blush_2.png
 gura_blush, /emoji/gawr_gura/gura_blush.gif
-gura_blush, /emoji/gawr_gura/gura_blush.png
 gura_blush_pat, /emoji/gawr_gura/gura_blush_pat.png
 gura_bonk, /emoji/gawr_gura/gura_bonk.gif
 gura_boo, /emoji/gawr_gura/gura_boo.gif
@@ -241,8 +241,8 @@ gura_sad, /emoji/gawr_gura/gura_sad.png
 gura_salman, /emoji/gawr_gura/gura_salman.png
 gura_salute, /emoji/gawr_gura/gura_salute.png
 gura_same, /emoji/gawr_gura/gura_same.png
+gura_scared_2, /emoji/gawr_gura/gura_scared_2.png
 gura_scared, /emoji/gawr_gura/gura_scared.gif
-gura_scared, /emoji/gawr_gura/gura_scared.png
 gura_shaaa, /emoji/gawr_gura/gura_shaaa.gif
 gura_shaaak_alert, /emoji/gawr_gura/gura_shaaak_alert.png
 gura_shocked, /emoji/gawr_gura/gura_shocked.png
@@ -262,10 +262,10 @@ gura_sleep_animated, /emoji/gawr_gura/gura_sleep_animated.gif
 gura_sleep, /emoji/gawr_gura/gura_sleep.png
 gura_smile, /emoji/gawr_gura/gura_smile.png
 gura_smirk, /emoji/gawr_gura/gura_smirk.png
+gura_smug_2, /emoji/gawr_gura/gura_smug_2.png
 gura_smug2, /emoji/gawr_gura/gura_smug2.png
 gura_smug3, /emoji/gawr_gura/gura_smug3.png
 gura_smug, /emoji/gawr_gura/gura_smug.gif
-gura_smug, /emoji/gawr_gura/gura_smug.png
 gura_snap, /emoji/gawr_gura/gura_snap.gif
 gura_snuggle, /emoji/gawr_gura/gura_snuggle.png
 gura_sometimes, /emoji/gawr_gura/gura_sometimes.png
