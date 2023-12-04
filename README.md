@@ -43,6 +43,7 @@ includes also emojis from:
 - Gura: curated by @julia@eepy.moe from Discord servers.
 - Ferris: <https://dzuk.zone/emoji>
 - blobhaj flags: <https://heatherhorns.com/emoji/>
+- cats: <https://git.gay/sneexy/fedi-emoji-packs>
 
 #### notice
 
