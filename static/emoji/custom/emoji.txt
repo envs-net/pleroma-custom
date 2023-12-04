@@ -332,6 +332,7 @@ ssgod, /emoji/custom/ssgod.png
 stan, /emoji/custom/stan.png
 stars_doodle, /emoji/custom/stars_doodle.gif
 star_trek, /emoji/custom/star_trek.png
+steamhappy, /emoji/custom/steamhappy.png
 subzero_turnt, /emoji/custom/subzero_turnt.gif
 super_cat, /emoji/custom/super_cat.gif
 sweep, /emoji/custom/sweep.gif
