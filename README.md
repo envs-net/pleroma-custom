@@ -42,6 +42,7 @@ includes also emojis from:
 - Padoru: various; see `credits.txt` in its directory.
 - Gura: curated by @julia@eepy.moe from Discord servers.
 - Ferris: <https://dzuk.zone/emoji>
+- blobhaj flags: <https://heatherhorns.com/emoji/>
 
 #### notice
 
