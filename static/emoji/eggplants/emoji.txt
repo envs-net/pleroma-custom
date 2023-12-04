@@ -1,0 +1,14 @@
+eggplant_0, /emoji/eggplants/eggplant_0.png
+eggplant_1, /emoji/eggplants/eggplant_1.png
+eggplant_2, /emoji/eggplants/eggplant_2.png
+eggplant_3, /emoji/eggplants/eggplant_3.png
+eggplant_4, /emoji/eggplants/eggplant_4.png
+eggplant_5, /emoji/eggplants/eggplant_5.png
+eggplant, /emoji/eggplants/eggplant.png
+peach_0, /emoji/eggplants/peach_0.png
+peach_1, /emoji/eggplants/peach_1.png
+peach_2, /emoji/eggplants/peach_2.png
+peach_3, /emoji/eggplants/peach_3.png
+peach_4, /emoji/eggplants/peach_4.png
+peach_5, /emoji/eggplants/peach_5.png
+peach, /emoji/eggplants/peach.png

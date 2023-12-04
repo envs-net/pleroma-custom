@@ -33,6 +33,7 @@ nonbinary_flag, /emoji/pride_flags/nonbinary_flag.png
 omnisexual_flag, /emoji/pride_flags/omnisexual_flag.png
 pangender_flag, /emoji/pride_flags/pangender_flag.png
 pansexual_flag, /emoji/pride_flags/pansexual_flag.png
+plural_flag, /emoji/pride_flags/plural_flag.png
 polyamory_flag, /emoji/pride_flags/polyamory_flag.png
 polysexual_flag, /emoji/pride_flags/polysexual_flag.png
 progress_pride, /emoji/pride_flags/progress_pride.png

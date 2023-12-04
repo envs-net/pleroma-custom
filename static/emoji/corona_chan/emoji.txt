@@ -1,0 +1,6 @@
+corona_chan, /emoji/corona_chan/corona_chan.png
+corona_chan_grin, /emoji/corona_chan/corona_chan_grin.png
+corona_chan_happy, /emoji/corona_chan/corona_chan_happy.png
+corona_chan_mask, /emoji/corona_chan/corona_chan_mask.png
+corona_chan_mouth_open, /emoji/corona_chan/corona_chan_mouth_open.png
+corona_chan_photo, /emoji/corona_chan/corona_chan_photo.png

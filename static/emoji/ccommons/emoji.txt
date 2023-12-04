@@ -1,0 +1,12 @@
+cc_by, /emoji/ccommons/cc_by.png
+cc_cc, /emoji/ccommons/cc_cc.png
+cc_nc, /emoji/ccommons/cc_nc.png
+cc_nc_eu, /emoji/ccommons/cc_nc_eu.png
+cc_nc_jp, /emoji/ccommons/cc_nc_jp.png
+cc_nc_us, /emoji/ccommons/cc_nc_us.png
+cc_nd, /emoji/ccommons/cc_nd.png
+cc_pd, /emoji/ccommons/cc_pd.png
+cc_remix, /emoji/ccommons/cc_remix.png
+cc_sa, /emoji/ccommons/cc_sa.png
+cc_share, /emoji/ccommons/cc_share.png
+cc_zero, /emoji/ccommons/cc_zero.png

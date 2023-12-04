@@ -1,0 +1,7 @@
+ferris, /emoji/ferris/ferris.png
+ferris_party, /emoji/ferris/ferris_party.png
+ferris_question, /emoji/ferris/ferris_question.png
+ferris_smile, /emoji/ferris/ferris_smile.png
+ferris_thinking, /emoji/ferris/ferris_thinking.png
+ferris_worried, /emoji/ferris/ferris_worried.png
+unsafe_ferris, /emoji/ferris/unsafe_ferris.png

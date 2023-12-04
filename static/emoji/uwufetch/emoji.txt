@@ -20,4 +20,6 @@ slackware_uwu, /emoji/uwufetch/slackware_uwu.png
 solus_uwu, /emoji/uwufetch/solus_uwu.png
 tux_uwu, /emoji/uwufetch/tux_uwu.png
 ubuntu_uwu, /emoji/uwufetch/ubuntu_uwu.png
+uwu, /emoji/uwufetch/uwu.png
 void_uwu, /emoji/uwufetch/void_uwu.png
+windows_uwu, /emoji/uwufetch/windows_uwu.png

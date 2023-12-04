@@ -1,9 +1,11 @@
 1up, /emoji/custom/1up.png
+acab, /emoji/custom/acab.png
 adf, /emoji/custom/adf.png
 all_the_things, /emoji/custom/all_the_things.jpg
 amomiji, /emoji/custom/amomiji.png
 anarchy, /emoji/custom/anarchy.png
 antifa, /emoji/custom/antifa.png
+antifa_trans, /emoji/custom/antifa_trans.png
 antiverified, /emoji/custom/antiverified.png
 archer, /emoji/custom/archer.png
 autism, /emoji/custom/autism.png
@@ -15,6 +17,7 @@ badger, /emoji/custom/badger.gif
 badpundog, /emoji/custom/badpundog.png
 bahgawd, /emoji/custom/bahgawd.gif
 bandaid, /emoji/custom/bandaid.png
+banhammer, /emoji/custom/banhammer.png
 batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
@@ -74,6 +77,7 @@ crt_w_test_pattern, /emoji/custom/crt_w_test_pattern.png
 cupcake_dessert, /emoji/custom/cupcake_dessert.gif
 cupcake, /emoji/custom/cupcake.png
 dab-squidward, /emoji/custom/dab-squidward.png
+daddy, /emoji/custom/daddy.gif
 dalahorse, /emoji/custom/dalahorse.png
 dancing_hotdog, /emoji/custom/dancing_hotdog.gif
 dancing_lisa, /emoji/custom/dancing_lisa.gif
@@ -137,6 +141,7 @@ happy_confetti, /emoji/custom/happy_confetti.gif
 happy_dance, /emoji/custom/happy_dance.gif
 happy_food, /emoji/custom/happy_food.gif
 harrypotter, /emoji/custom/harrypotter.png
+hd_dvd_spin, /emoji/custom/hd_dvd_spin.gif
 headdesk, /emoji/custom/headdesk.gif
 headwall, /emoji/custom/headwall.gif
 heart_big_eye, /emoji/custom/heart_big_eye.gif
@@ -201,6 +206,7 @@ mooning2, /emoji/custom/mooning2.png
 mooning, /emoji/custom/mooning.gif
 moss, /emoji/custom/moss.png
 mrsparkle_homer, /emoji/custom/mrsparkle_homer.png
+naruhodo, /emoji/custom/naruhodo.gif
 neckbeard, /emoji/custom/neckbeard.gif
 nemo, /emoji/custom/nemo.gif
 ness, /emoji/custom/ness.png
@@ -338,6 +344,7 @@ terraria, /emoji/custom/terraria.png
 thaddaeus_dance, /emoji/custom/thaddaeus_dance.gif
 thaddaeus_santa, /emoji/custom/thaddaeus_santa.gif
 thankyou, /emoji/custom/thankyou.gif
+therian, /emoji/custom/therian.png
 tildeverse, /emoji/custom/tildeverse.png
 toucan, /emoji/custom/toucan.png
 trader, /emoji/custom/trader.png

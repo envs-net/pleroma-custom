@@ -1,0 +1,6 @@
+MatchaCake, /emoji/matcha/MatchaCake.png
+MatchaJelly, /emoji/matcha/MatchaJelly.png
+MatchMilk, /emoji/matcha/MatchMilk.png
+MochiCreamRoll, /emoji/matcha/MochiCreamRoll.png
+MochiFrog, /emoji/matcha/MochiFrog.png
+MochiFrogs, /emoji/matcha/MochiFrogs.png

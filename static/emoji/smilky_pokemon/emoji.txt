@@ -1,0 +1,9 @@
+BulbasaurHeart, /emoji/smilky_pokemon/BulbasaurHeart.png
+BulbasaurLaugh, /emoji/smilky_pokemon/BulbasaurLaugh.png
+BulbasaurWave, /emoji/smilky_pokemon/BulbasaurWave.png
+CharmanderHeart, /emoji/smilky_pokemon/CharmanderHeart.png
+CharmanderHi, /emoji/smilky_pokemon/CharmanderHi.png
+CharmanderLaugh, /emoji/smilky_pokemon/CharmanderLaugh.png
+SquirtleHeart, /emoji/smilky_pokemon/SquirtleHeart.png
+SquirtleHi, /emoji/smilky_pokemon/SquirtleHi.png
+SquirtleLaugh, /emoji/smilky_pokemon/SquirtleLaugh.png
