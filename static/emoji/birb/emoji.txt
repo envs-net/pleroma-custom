@@ -1,0 +1,11 @@
+BirbBeardedVulture, /emoji/birb/BirbBeardedVulture.png
+BirbBlueJay, /emoji/birb/BirbBlueJay.png
+BirbCardinalYellow, /emoji/birb/BirbCardinalYellow.png
+BirbCockatiel, /emoji/birb/BirbCockatiel.png
+BirbElepaio, /emoji/birb/BirbElepaio.png
+BirbFinch, /emoji/birb/BirbFinch.png
+BirbGull, /emoji/birb/BirbGull.png
+BirbMagpie, /emoji/birb/BirbMagpie.png
+BirbOwl, /emoji/birb/BirbOwl.png
+BirbRedTailedHawk, /emoji/birb/BirbRedTailedHawk.png
+BirbRobin, /emoji/birb/BirbRobin.png

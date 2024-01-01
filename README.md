@@ -45,6 +45,7 @@ includes also emojis from:
 - Ferris: <https://dzuk.zone/emoji>
 - blobhaj flags: <https://heatherhorns.com/emoji/>
 - cats: <https://git.gay/sneexy/fedi-emoji-packs>
+- birbs: <https://squawk.social/@EricMalves/111584664139895889>`
 
 #### notice
 
