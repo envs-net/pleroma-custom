@@ -1,0 +1,12 @@
+BlueMushroom_bonk, /emoji/blue_mushroom/BlueMushroom_bonk.png
+BlueMushroom_cozy, /emoji/blue_mushroom/BlueMushroom_cozy.png
+BlueMushroom_cry, /emoji/blue_mushroom/BlueMushroom_cry.png
+BlueMushroom_heart, /emoji/blue_mushroom/BlueMushroom_heart.png
+BlueMushroom_hi, /emoji/blue_mushroom/BlueMushroom_hi.png
+BlueMushroom_lurk, /emoji/blue_mushroom/BlueMushroom_lurk.png
+BlueMushroom_pat2, /emoji/blue_mushroom/BlueMushroom_pat2.png
+BlueMushroom_pat3, /emoji/blue_mushroom/BlueMushroom_pat3.png
+BlueMushroom_pat4, /emoji/blue_mushroom/BlueMushroom_pat4.png
+BlueMushroom_pat5, /emoji/blue_mushroom/BlueMushroom_pat5.png
+BlueMushroom_pat, /emoji/blue_mushroom/BlueMushroom_pat.png
+BlueMushroom_pog, /emoji/blue_mushroom/BlueMushroom_pog.png
