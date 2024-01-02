@@ -47,6 +47,8 @@ includes also emojis from:
 - cats: <https://git.gay/sneexy/fedi-emoji-packs>
 - birbs: <https://squawk.social/@EricMalves/111584664139895889>
 - blue mushroom: <https://ko-fi.com/s/a1de5de3bd>
+- bugsnax: <https://emojis-are-cool.carrd.co/>
+- month_year: <https://emojis-are-cool.carrd.co/>
 
 #### notice
 
