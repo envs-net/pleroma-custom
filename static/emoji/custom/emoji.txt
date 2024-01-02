@@ -53,6 +53,7 @@ cartmanninja, /emoji/custom/cartmanninja.png
 cat_black, /emoji/custom/cat_black.gif
 cat_pink, /emoji/custom/cat_pink.gif
 cat_pixel, /emoji/custom/cat_pixel.gif
+catra, /emoji/custom/catra.png
 cat_rock, /emoji/custom/cat_rock.gif
 cat_rosa, /emoji/custom/cat_rosa.gif
 cat_space, /emoji/custom/cat_space.gif
