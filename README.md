@@ -49,6 +49,7 @@ includes also emojis from:
 - blue mushroom: <https://ko-fi.com/s/a1de5de3bd>
 - bugsnax: <https://emojis-are-cool.carrd.co/>
 - month_year: <https://emojis-are-cool.carrd.co/>
+- smiggles: <https://ko-fi.com/smiggles/>
 
 #### notice
 
