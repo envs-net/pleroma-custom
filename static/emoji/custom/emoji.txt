@@ -63,6 +63,7 @@ cloud_rosa, /emoji/custom/cloud_rosa.gif
 clouds, /emoji/custom/clouds.gif
 cocktail, /emoji/custom/cocktail.png
 coffee, /emoji/custom/coffee.gif
+colon_three, /emoji/custom/colon_three.png
 colt, /emoji/custom/colt.png
 commodore, /emoji/custom/commodore.png
 construction, /emoji/custom/construction.gif
