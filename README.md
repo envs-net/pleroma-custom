@@ -50,6 +50,7 @@ includes also emojis from:
 - bugsnax: <https://emojis-are-cool.carrd.co/>
 - month_year: <https://emojis-are-cool.carrd.co/>
 - smiggles: <https://ko-fi.com/smiggles/>
+- Shibabo Studio: <https://linktr.ee/shibabo.studio>
 
 #### notice
 
