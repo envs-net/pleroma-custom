@@ -17,6 +17,7 @@ demigirl_flag, /emoji/pride_flags/demigirl_flag.png
 deminonbinary_flag, /emoji/pride_flags/deminonbinary_flag.png
 demiromantic_flag, /emoji/pride_flags/demiromantic_flag.png
 demisexual_flag, /emoji/pride_flags/demisexual_flag.png
+disability_flag, /emoji/pride_flags/disability_flag.png
 enbian_flag, /emoji/pride_flags/enbian_flag.png
 ftm_flag, /emoji/pride_flags/ftm_flag.png
 gay_man_flag, /emoji/pride_flags/gay_man_flag.png
