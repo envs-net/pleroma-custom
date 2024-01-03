@@ -53,6 +53,7 @@ includes also emojis from:
 - Shibabo Studio: <https://linktr.ee/shibabo.studio>
 - pokeblobs: <https://blobs.gg/>
 - llamas: <https://www.deviantart.com/jerikuto>, <https://www.weibo.com/huiro>
+- gopher: <https://github.com/tenntenn/gopher-stickers>
 
 #### notice
 
