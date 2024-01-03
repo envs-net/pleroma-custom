@@ -54,6 +54,7 @@ includes also emojis from:
 - pokeblobs: <https://blobs.gg/>
 - llamas: <https://www.deviantart.com/jerikuto>, <https://www.weibo.com/huiro>
 - gopher: <https://github.com/tenntenn/gopher-stickers>
+- froggie: <https://github.com/seanprashad/slackmoji/blob/master/emoji/froggie/README.md> (original source unknown; tell Seirdy if you find it!)
 
 #### notice
 
