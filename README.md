@@ -52,6 +52,7 @@ includes also emojis from:
 - smiggles: <https://ko-fi.com/smiggles/>
 - Shibabo Studio: <https://linktr.ee/shibabo.studio>
 - pokeblobs: <https://blobs.gg/>
+- llamas: <https://www.deviantart.com/jerikuto>, <https://www.weibo.com/huiro>
 
 #### notice
 
