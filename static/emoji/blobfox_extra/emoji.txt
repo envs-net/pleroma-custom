@@ -1,6 +1,8 @@
 blobcat_hug_fox, /emoji/blobfox_extra/blobcat_hug_fox.png
 blobfoxbonk, /emoji/blobfox_extra/blobfoxbonk.png
 blobfox_dual_knives, /emoji/blobfox_extra/blobfox_dual_knives.png
+blobfoxFloofCute_lesbian, /emoji/blobfox_extra/blobfoxFloofCute_lesbian.png
+blobfoxFloofCute_trans, /emoji/blobfox_extra/blobfoxFloofCute_trans.png
 blobfox_googly_shocked, /emoji/blobfox_extra/blobfox_googly_shocked.png
 blobfox_head_tilt_confused, /emoji/blobfox_extra/blobfox_head_tilt_confused.png
 blobfox_head_tilt_confused_open_eyes, /emoji/blobfox_extra/blobfox_head_tilt_confused_open_eyes.png
