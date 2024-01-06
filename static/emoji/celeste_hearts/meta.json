@@ -1,0 +1,716 @@
+{
+  "metaVersion": 2,
+  "host": "cataclysm.systems",
+  "exportedAt": "2023-12-17T16:34:09.840Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_abrosexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_abrosexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_abrosexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_adhd.gif",
+      "emoji": {
+        "name": "celeste_hearts_adhd",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_adhd"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_agender.gif",
+      "emoji": {
+        "name": "celeste_hearts_agender",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_agender"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_alterhuman.gif",
+      "emoji": {
+        "name": "celeste_hearts_alterhuman",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_alterhuman"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_ambiamorous.gif",
+      "emoji": {
+        "name": "celeste_hearts_ambiamorous",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_ambiamorous"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_androgyne.gif",
+      "emoji": {
+        "name": "celeste_hearts_androgyne",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_androgyne"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_aplatonic.gif",
+      "emoji": {
+        "name": "celeste_hearts_aplatonic",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_aplatonic"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_aroace.gif",
+      "emoji": {
+        "name": "celeste_hearts_aroace",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_aroace"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_aromantic.gif",
+      "emoji": {
+        "name": "celeste_hearts_aromantic",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_aromantic"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_asexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_asexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_asexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_autism.gif",
+      "emoji": {
+        "name": "celeste_hearts_autism",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_autism"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_bigender.gif",
+      "emoji": {
+        "name": "celeste_hearts_bigender",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_bigender"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_bipoc.gif",
+      "emoji": {
+        "name": "celeste_hearts_bipoc",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_bipoc"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_bisexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_bisexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_bisexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_catgender.gif",
+      "emoji": {
+        "name": "celeste_hearts_catgender",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_catgender"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demiboy.gif",
+      "emoji": {
+        "name": "celeste_hearts_demiboy",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demiboy"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demigirl.gif",
+      "emoji": {
+        "name": "celeste_hearts_demigirl",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demigirl"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_deminonbinary.gif",
+      "emoji": {
+        "name": "celeste_hearts_deminonbinary",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_deminonbinary"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demiromantic.gif",
+      "emoji": {
+        "name": "celeste_hearts_demiromantic",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demiromantic"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demisexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_demisexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demisexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_disability_pride.gif",
+      "emoji": {
+        "name": "celeste_hearts_disability_pride",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_disability_pride"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_femboy.gif",
+      "emoji": {
+        "name": "celeste_hearts_femboy",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_femboy"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_genderfluid.gif",
+      "emoji": {
+        "name": "celeste_hearts_genderfluid",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_genderfluid"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_genderflux.gif",
+      "emoji": {
+        "name": "celeste_hearts_genderflux",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_genderflux"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_genderqueer.gif",
+      "emoji": {
+        "name": "celeste_hearts_genderqueer",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_genderqueer"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_greyromantic.gif",
+      "emoji": {
+        "name": "celeste_hearts_greyromantic",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_greyromantic"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_greysexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_greysexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_greysexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_heteroflexible.gif",
+      "emoji": {
+        "name": "celeste_hearts_heteroflexible",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_heteroflexible"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_homoflexible.gif",
+      "emoji": {
+        "name": "celeste_hearts_homoflexible",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_homoflexible"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_intersex.gif",
+      "emoji": {
+        "name": "celeste_hearts_intersex",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_intersex"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_lesbian.gif",
+      "emoji": {
+        "name": "celeste_hearts_lesbian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_lesbian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_mlm.gif",
+      "emoji": {
+        "name": "celeste_hearts_mlm",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_mlm",
+          "celeste_hearts_gay",
+          "ch_gay"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_non_binary.gif",
+      "emoji": {
+        "name": "celeste_hearts_non_binary",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_non_binary",
+          "celeste_hearts_nonbinary",
+          "ch_nonbinary",
+          "ch_enby"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_og_pride.gif",
+      "emoji": {
+        "name": "celeste_hearts_og_pride",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_og_pride"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_omnisexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_omnisexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_omnisexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_pangender.gif",
+      "emoji": {
+        "name": "celeste_hearts_pangender",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_pangender"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_pansexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_pansexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_pansexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_plural.gif",
+      "emoji": {
+        "name": "celeste_hearts_plural",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_plural"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_polyamorous.gif",
+      "emoji": {
+        "name": "celeste_hearts_polyamorous",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_polyamorous"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_polysexual.gif",
+      "emoji": {
+        "name": "celeste_hearts_polysexual",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_polysexual"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_progress_pride.gif",
+      "emoji": {
+        "name": "celeste_hearts_progress_pride",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_progress_pride"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_ptsd.gif",
+      "emoji": {
+        "name": "celeste_hearts_ptsd",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_ptsd"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_queer.gif",
+      "emoji": {
+        "name": "celeste_hearts_queer",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_queer"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_therian.gif",
+      "emoji": {
+        "name": "celeste_hearts_therian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_therian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_trans.gif",
+      "emoji": {
+        "name": "celeste_hearts_trans",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_trans"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_transfem.gif",
+      "emoji": {
+        "name": "celeste_hearts_transfem",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_transfem"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_transmasc.gif",
+      "emoji": {
+        "name": "celeste_hearts_transmasc",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_transmasc"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_transneutral.gif",
+      "emoji": {
+        "name": "celeste_hearts_transneutral",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_transneutral"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_two_spirit.gif",
+      "emoji": {
+        "name": "celeste_hearts_two_spirit",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_two_spirit"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_xenogender.gif",
+      "emoji": {
+        "name": "celeste_hearts_xenogender",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_xenogender"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_voidpunk.gif",
+      "emoji": {
+        "name": "celeste_hearts_voidpunk",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_voidpunk"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_salmacian.gif",
+      "emoji": {
+        "name": "celeste_hearts_salmacian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_salmacian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_sappho_lesbian.gif",
+      "emoji": {
+        "name": "celeste_sappho_lesbian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_sappho_lesbian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demiflux.gif",
+      "emoji": {
+        "name": "celeste_demiflux",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demiflux"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_bpd.gif",
+      "emoji": {
+        "name": "celeste_bpd",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_bpd"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_ocd.gif",
+      "emoji": {
+        "name": "celeste_ocd",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_ocd"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_t4t.gif",
+      "emoji": {
+        "name": "celeste_t4t",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_t4t"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_sappho_lesbian.gif",
+      "emoji": {
+        "name": "celeste_sappho_lesbian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_sappho_lesbian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_straight_ally.gif",
+      "emoji": {
+        "name": "celeste_straight_ally",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_straight_ally"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_bear.gif",
+      "emoji": {
+        "name": "celeste_bear",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_bear"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_tomboy.gif",
+      "emoji": {
+        "name": "celeste_tomboy",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_tomboy"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_enbian.gif",
+      "emoji": {
+        "name": "celeste_enbian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_enbian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_demisexual_lesbian.gif",
+      "emoji": {
+        "name": "celeste_demisexual_lesbian",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_demisexual_lesbian"
+        ]
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "celeste_hearts_black_trans.gif",
+      "emoji": {
+        "name": "celeste_black_trans",
+        "category": "celeste_hearts",
+        "aliases": [
+          "ch_black_trans"
+        ]
+      }
+    }
+  ]
+}

@@ -57,6 +57,7 @@ includes also emojis from:
 - froggie: <https://github.com/seanprashad/slackmoji/blob/master/emoji/froggie/README.md> (original source unknown; tell Seirdy if you find it!)
 - belly: <https://ifunny.co/picture/TQ959Im8A>
 - bubblegum: <https://ko-fi.com/emotecafe/>
+- celeste hearts: <https://github.com/mecha-cat/celeste-hearts>
 
 #### notice
 
