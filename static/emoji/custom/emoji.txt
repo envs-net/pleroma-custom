@@ -239,6 +239,7 @@ patrick_gym, /emoji/custom/patrick_gym.gif
 patrick_hi, /emoji/custom/patrick_hi.gif
 patrick_lovedance, /emoji/custom/patrick_lovedance.gif
 patrick_spin, /emoji/custom/patrick_spin.gif
+peachSparkly, /emoji/custom/peachSparkly.png
 penguin, /emoji/custom/penguin.gif
 pepperdance, /emoji/custom/pepperdance.gif
 pfftch, /emoji/custom/pfftch.png
@@ -309,6 +310,7 @@ spongebob_high, /emoji/custom/spongebob_high.gif
 spongebob_love, /emoji/custom/spongebob_love.gif
 spongebob-mock, /emoji/custom/spongebob-mock.png
 spongebob_staydance, /emoji/custom/spongebob_staydance.gif
+spray, /emoji/custom/spray.png
 sprite_applepoo, /emoji/custom/sprite_applepoo.gif
 sprite_attack, /emoji/custom/sprite_attack.gif
 sprite_bam, /emoji/custom/sprite_bam.gif
