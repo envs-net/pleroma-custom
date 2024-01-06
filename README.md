@@ -58,6 +58,7 @@ includes also emojis from:
 - belly: <https://ifunny.co/picture/TQ959Im8A>
 - bubblegum: <https://ko-fi.com/emotecafe/>
 - celeste hearts: <https://github.com/mecha-cat/celeste-hearts>
+- Jinx: <https://www.deviantart.com/blazz777/art/FREE-Jinx-emote-pack-download-899692448>
 
 #### notice
 

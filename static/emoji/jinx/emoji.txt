@@ -1,0 +1,3 @@
+jinx_cry, /emoji/Jinx emote pack_01_luckyartelier/jinx_cry.png
+jinx_peek, /emoji/Jinx emote pack_01_luckyartelier/jinx_peek.png
+jinx_unhinged, /emoji/Jinx emote pack_01_luckyartelier/jinx_unhinged.png
