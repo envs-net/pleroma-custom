@@ -22,6 +22,7 @@ banhammer, /emoji/custom/banhammer.png
 batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
+belly, /emoji/custom/belly.png
 benis, /emoji/custom/benis.png
 biflag, /emoji/custom/biflag.png
 blackduck, /emoji/custom/blackduck.png
@@ -30,6 +31,7 @@ blank, /emoji/custom/blank.png
 blazeit420, /emoji/custom/blazeit420.png
 bmo2, /emoji/custom/bmo2.gif
 bmo, /emoji/custom/bmo.gif
+boiled_pizza, /emoji/custom/boiled_pizza.png
 bonsai, /emoji/custom/bonsai.png
 BonusGrisinn, /emoji/custom/BonusGrisinn.png
 boy, /emoji/custom/boy.gif

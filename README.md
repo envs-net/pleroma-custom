@@ -55,6 +55,8 @@ includes also emojis from:
 - llamas: <https://www.deviantart.com/jerikuto>, <https://www.weibo.com/huiro>
 - gopher: <https://github.com/tenntenn/gopher-stickers>
 - froggie: <https://github.com/seanprashad/slackmoji/blob/master/emoji/froggie/README.md> (original source unknown; tell Seirdy if you find it!)
+- belly: <https://ifunny.co/picture/TQ959Im8A>
+- bubblegum: <https://ko-fi.com/emotecafe/>
 
 #### notice
 
