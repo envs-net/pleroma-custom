@@ -10,7 +10,7 @@ includes also emojis from:
 
 - <https://emoji-repo.absturztau.be/>
 - senko and gyate_th - <https://udongein.xyz/emoji-packs/>
-- blobfox - <https://www.feuerfuchs.dev/projects/blobfox-emojis/>
+- blobfox - <https://www.feuerfuchs.dev/projects/blobfox-emojis/> and <https://git.shadamethyst.xyz/amethyst/blobfox>
 - bunhd - <https://www.feuerfuchs.dev/projects/bunhd-emojis/>
 - neocat - <https://volpeon.ink/projects/emojis/neocat/>
 - neofox - <https://volpeon.ink/projects/emojis/neofox/>
