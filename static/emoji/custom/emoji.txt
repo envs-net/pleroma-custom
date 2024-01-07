@@ -1,5 +1,6 @@
 1up, /emoji/custom/1up.png
 acab, /emoji/custom/acab.png
+acab_lowercase, /emoji/custom/acab_lowercase.png
 adf, /emoji/custom/adf.png
 all_the_things, /emoji/custom/all_the_things.jpg
 amomiji, /emoji/custom/amomiji.png
@@ -21,6 +22,7 @@ banhammer, /emoji/custom/banhammer.png
 batman-approves, /emoji/custom/batman-approves.png
 bee, /emoji/custom/bee.gif
 bee_fast, /emoji/custom/bee_fast.gif
+belly, /emoji/custom/belly.png
 benis, /emoji/custom/benis.png
 biflag, /emoji/custom/biflag.png
 blackduck, /emoji/custom/blackduck.png
@@ -29,6 +31,7 @@ blank, /emoji/custom/blank.png
 blazeit420, /emoji/custom/blazeit420.png
 bmo2, /emoji/custom/bmo2.gif
 bmo, /emoji/custom/bmo.gif
+boiled_pizza, /emoji/custom/boiled_pizza.png
 bonsai, /emoji/custom/bonsai.png
 BonusGrisinn, /emoji/custom/BonusGrisinn.png
 boy, /emoji/custom/boy.gif
@@ -52,6 +55,7 @@ cartmanninja, /emoji/custom/cartmanninja.png
 cat_black, /emoji/custom/cat_black.gif
 cat_pink, /emoji/custom/cat_pink.gif
 cat_pixel, /emoji/custom/cat_pixel.gif
+catra, /emoji/custom/catra.png
 cat_rock, /emoji/custom/cat_rock.gif
 cat_rosa, /emoji/custom/cat_rosa.gif
 cat_space, /emoji/custom/cat_space.gif
@@ -62,6 +66,7 @@ cloud_rosa, /emoji/custom/cloud_rosa.gif
 clouds, /emoji/custom/clouds.gif
 cocktail, /emoji/custom/cocktail.png
 coffee, /emoji/custom/coffee.gif
+colon_three, /emoji/custom/colon_three.png
 colt, /emoji/custom/colt.png
 commodore, /emoji/custom/commodore.png
 construction, /emoji/custom/construction.gif
@@ -113,6 +118,7 @@ fix-it-felix, /emoji/custom/fix-it-felix.gif
 flan_think, /emoji/custom/flan_think.png
 flash, /emoji/custom/flash.gif
 fly, /emoji/custom/fly.gif
+food_not_bombs, /emoji/custom/food_not_bombs.png
 fry_scream, /emoji/custom/fry_scream.gif
 gary, /emoji/custom/gary.gif
 gaysper, /emoji/custom/gaysper.png
@@ -233,6 +239,7 @@ patrick_gym, /emoji/custom/patrick_gym.gif
 patrick_hi, /emoji/custom/patrick_hi.gif
 patrick_lovedance, /emoji/custom/patrick_lovedance.gif
 patrick_spin, /emoji/custom/patrick_spin.gif
+peachSparkly, /emoji/custom/peachSparkly.png
 penguin, /emoji/custom/penguin.gif
 pepperdance, /emoji/custom/pepperdance.gif
 pfftch, /emoji/custom/pfftch.png
@@ -303,6 +310,7 @@ spongebob_high, /emoji/custom/spongebob_high.gif
 spongebob_love, /emoji/custom/spongebob_love.gif
 spongebob-mock, /emoji/custom/spongebob-mock.png
 spongebob_staydance, /emoji/custom/spongebob_staydance.gif
+spray, /emoji/custom/spray.png
 sprite_applepoo, /emoji/custom/sprite_applepoo.gif
 sprite_attack, /emoji/custom/sprite_attack.gif
 sprite_bam, /emoji/custom/sprite_bam.gif
@@ -332,6 +340,7 @@ ssgod, /emoji/custom/ssgod.png
 stan, /emoji/custom/stan.png
 stars_doodle, /emoji/custom/stars_doodle.gif
 star_trek, /emoji/custom/star_trek.png
+steamhappy, /emoji/custom/steamhappy.png
 subzero_turnt, /emoji/custom/subzero_turnt.gif
 super_cat, /emoji/custom/super_cat.gif
 sweep, /emoji/custom/sweep.gif
@@ -366,6 +375,7 @@ whale_pink, /emoji/custom/whale_pink.svg
 whatever_minion, /emoji/custom/whatever_minion.png
 what_is_life, /emoji/custom/what_is_life.gif
 whoa, /emoji/custom/whoa.png
+winky, /emoji/custom/winky.png
 woohoo, /emoji/custom/woohoo.png
 worst_ever, /emoji/custom/worst_ever.jpg
 wtf, /emoji/custom/wtf.png

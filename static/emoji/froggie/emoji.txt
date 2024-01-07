@@ -1,0 +1,16 @@
+froggie_angry, /emoji/froggie/froggie_angry.png
+froggie_bonk, /emoji/froggie/froggie_bonk.png
+froggie_celebrate, /emoji/froggie/froggie_celebrate.png
+froggie_confused, /emoji/froggie/froggie_confused.png
+froggie_cry, /emoji/froggie/froggie_cry.png
+froggie_frustrated, /emoji/froggie/froggie_frustrated.png
+froggie_heartbroken, /emoji/froggie/froggie_heartbroken.png
+froggie_heart, /emoji/froggie/froggie_heart.png
+froggie_pop, /emoji/froggie/froggie_pop.gif
+froggie_shocked, /emoji/froggie/froggie_shocked.png
+froggie_sip, /emoji/froggie/froggie_sip.png
+froggie_sleep, /emoji/froggie/froggie_sleep.png
+froggie_sleepy, /emoji/froggie/froggie_sleepy.png
+froggie_squish, /emoji/froggie/froggie_squish.png
+froggie_vibing, /emoji/froggie/froggie_vibing.gif
+froggie_wave, /emoji/froggie/froggie_wave.png

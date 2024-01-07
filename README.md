@@ -10,7 +10,7 @@ includes also emojis from:
 
 - <https://emoji-repo.absturztau.be/>
 - senko and gyate_th - <https://udongein.xyz/emoji-packs/>
-- blobfox - <https://www.feuerfuchs.dev/projects/blobfox-emojis/>
+- blobfox - <https://www.feuerfuchs.dev/projects/blobfox-emojis/> and <https://git.shadamethyst.xyz/amethyst/blobfox>
 - bunhd - <https://www.feuerfuchs.dev/projects/bunhd-emojis/>
 - neocat - <https://volpeon.ink/projects/emojis/neocat/>
 - neofox - <https://volpeon.ink/projects/emojis/neofox/>
@@ -22,6 +22,7 @@ includes also emojis from:
 - game controllers - <https://dzuk.zone/emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra and misc - various, including @airis@pleroma.envs.net
+- neofox-extra - @aris@pleroma.envs.net
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
@@ -43,6 +44,21 @@ includes also emojis from:
 - Gura: curated by @julia@eepy.moe from Discord servers.
 - Ferris: <https://dzuk.zone/emoji>
 - blobhaj flags: <https://heatherhorns.com/emoji/>
+- cats: <https://git.gay/sneexy/fedi-emoji-packs>
+- birbs: <https://squawk.social/@EricMalves/111584664139895889>
+- blue mushroom: <https://ko-fi.com/s/a1de5de3bd>
+- bugsnax: <https://emojis-are-cool.carrd.co/>
+- month_year: <https://emojis-are-cool.carrd.co/>
+- smiggles: <https://ko-fi.com/smiggles/>
+- Shibabo Studio: <https://linktr.ee/shibabo.studio>
+- pokeblobs: <https://blobs.gg/>
+- llamas: <https://www.deviantart.com/jerikuto>, <https://www.weibo.com/huiro>
+- gopher: <https://github.com/tenntenn/gopher-stickers>
+- froggie: <https://github.com/seanprashad/slackmoji/blob/master/emoji/froggie/README.md> (original source unknown; tell Seirdy if you find it!)
+- belly: <https://ifunny.co/picture/TQ959Im8A>
+- bubblegum: <https://ko-fi.com/emotecafe/>
+- celeste hearts: <https://github.com/mecha-cat/celeste-hearts>
+- Jinx: <https://www.deviantart.com/blazz777/art/FREE-Jinx-emote-pack-download-899692448>
 
 #### notice
 

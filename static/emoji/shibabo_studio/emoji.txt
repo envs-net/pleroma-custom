@@ -1,0 +1,12 @@
+black_cat_nom, /emoji/shibabo_studio/black_cat_nom.png
+black_cat_pet, /emoji/shibabo_studio/black_cat_pet.png
+black_cat_wave, /emoji/shibabo_studio/black_cat_wave.png
+orange_cat_nom, /emoji/shibabo_studio/orange_cat_nom.png
+orange_cat_pet, /emoji/shibabo_studio/orange_cat_pet.png
+orange_cat_wave, /emoji/shibabo_studio/orange_cat_wave.png
+pink_cat_nom, /emoji/shibabo_studio/pink_cat_nom.png
+pink_cat_pet, /emoji/shibabo_studio/pink_cat_pet.png
+pink_cat_wave, /emoji/shibabo_studio/pink_cat_wave.png
+white_cat_nom, /emoji/shibabo_studio/white_cat_nom.png
+white_cat_pet, /emoji/shibabo_studio/white_cat_pet.png
+white_cat_wave, /emoji/shibabo_studio/white_cat_wave.png
