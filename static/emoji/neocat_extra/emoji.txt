@@ -1,0 +1,4 @@
+neocat_woem, /emoji/neocat_extra/neocat_woem.png
+neocat_woem_halo, /emoji/neocat_extra/neocat_woem_halo.png
+neocat_woem_knife, /emoji/neocat_extra/neocat_woem_knife.png
+neocat_woem_upside_down, /emoji/neocat_extra/neocat_woem_upside_down.png

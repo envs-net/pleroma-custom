@@ -1,3 +1,4 @@
+neofox_floof_pleading, /emoji/neofox_extra/neofox_floof_pleading.png
 neofox_flop_pleading, /emoji/neofox_extra/neofox_flop_pleading.png
 neofox_flop_woozy, /emoji/neofox_extra/neofox_flop_woozy.png
 neofox_googly_woozy_blush, /emoji/neofox_extra/neofox_googly_woozy_blush.png
