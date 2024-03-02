@@ -22,7 +22,7 @@ includes also emojis from:
 - game controllers - <https://dzuk.zone/emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra and misc - various, including @airis@pleroma.envs.net
-- neofox-extra - @aris@pleroma.envs.net
+- neofox-extra and neocat_extra - @aris@pleroma.envs.net and @starshine@woem.space
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
 - zero two: <https://archive.org/details/002-emotes/> + unknown

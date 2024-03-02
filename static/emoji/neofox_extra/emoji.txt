@@ -1,3 +1,6 @@
+neofox_catmask_plead, /emoji/neofox_extra/neofox_catmask_plead.png
+neofox_catmask_sob, /emoji/neofox_extra/neofox_catmask_sob.png
+neofox_cool_sob, /emoji/neofox_extra/neofox_cool_sob.png
 neofox_floof_pleading, /emoji/neofox_extra/neofox_floof_pleading.png
 neofox_flop_pleading, /emoji/neofox_extra/neofox_flop_pleading.png
 neofox_flop_woozy, /emoji/neofox_extra/neofox_flop_woozy.png
@@ -5,6 +8,7 @@ neofox_foxmask, /emoji/neofox_extra/neofox_foxmask.png
 neofox_googly_woozy_blush, /emoji/neofox_extra/neofox_googly_woozy_blush.png
 neofox_halo_blush, /emoji/neofox_extra/neofox_halo_blush.png
 neofox_halo_blush_hide, /emoji/neofox_extra/neofox_halo_blush_hide.png
+neofox_halo_box, /emoji/neofox_extra/neofox_halo_box.png
 neofox_halo_cofe, /emoji/neofox_extra/neofox_halo_cofe.png
 neofox_halo_gun, /emoji/neofox_extra/neofox_halo_gun.png
 neofox_halo_hug, /emoji/neofox_extra/neofox_halo_hug.png
@@ -14,4 +18,6 @@ neofox_halo_hug_heart, /emoji/neofox_extra/neofox_halo_hug_heart.png
 neofox_halo_melt_2, /emoji/neofox_extra/neofox_halo_melt_2.png
 neofox_halo_melt_3, /emoji/neofox_extra/neofox_halo_melt_3.png
 neofox_halo_melt, /emoji/neofox_extra/neofox_halo_melt.png
+neofox_halo_pout, /emoji/neofox_extra/neofox_halo_pout.png
+neofox_halo_scientist, /emoji/neofox_extra/neofox_halo_scientist.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
