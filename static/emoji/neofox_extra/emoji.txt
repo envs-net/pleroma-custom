@@ -4,6 +4,7 @@ neofox_cool_sob, /emoji/neofox_extra/neofox_cool_sob.png
 neofox_floof_googly_woozy, /emoji/neofox_extra/neofox_floof_googly_woozy.png
 neofox_floof_pleading, /emoji/neofox_extra/neofox_floof_pleading.png
 neofox_floof_woozy, /emoji/neofox_extra/neofox_floof_woozy.png
+neofox_flop_floof_woozy, /emoji/neofox_extra/neofox_flop_floof_woozy.png
 neofox_flop_pleading, /emoji/neofox_extra/neofox_flop_pleading.png
 neofox_flop_woozy, /emoji/neofox_extra/neofox_flop_woozy.png
 neofox_foxmask, /emoji/neofox_extra/neofox_foxmask.png
@@ -26,3 +27,4 @@ neofox_halo_pout, /emoji/neofox_extra/neofox_halo_pout.png
 neofox_halo_scientist, /emoji/neofox_extra/neofox_halo_scientist.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
+neofox_sit_pleading, /emoji/neofox_extra/neofox_sit_pleading.png
