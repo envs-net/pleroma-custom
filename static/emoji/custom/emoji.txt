@@ -277,6 +277,7 @@ saladfingers, /emoji/custom/saladfingers.png
 saturn, /emoji/custom/saturn.png
 scoobydoo, /emoji/custom/scoobydoo.png
 scoot, /emoji/custom/scoot.png
+SCP, /emoji/custom/SCP.png
 seirdy_blush, /emoji/custom/seirdy_blush.png
 seirdy, /emoji/custom/seirdy.png
 seriously, /emoji/custom/seriously.png
