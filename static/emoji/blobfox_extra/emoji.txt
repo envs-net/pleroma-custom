@@ -13,5 +13,6 @@ blobfox_hug_fox_sad, /emoji/blobfox_extra/blobfox_hug_fox_sad.png
 blobfox_hug_fox_sad_no_hearts, /emoji/blobfox_extra/blobfox_hug_fox_sad_no_hearts.png
 blobfox_omnisexual, /emoji/blobfox_extra/blobfox_omnisexual.png
 blobfox_quadruple_cuddle, /emoji/blobfox_extra/blobfox_quadruple_cuddle.png
+blobfox_sunglasses_cry, /emoji/blobfox_extra/blobfox_sunglasses_cry.png
 blobfox_three_knives, /emoji/blobfox_extra/blobfox_three_knives.png
 blobfox_woozy, /emoji/blobfox_extra/blobfox_woozy.png
