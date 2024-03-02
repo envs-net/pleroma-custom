@@ -200,6 +200,7 @@ mario, /emoji/custom/mario.gif
 mario_yoshi, /emoji/custom/mario_yoshi.gif
 marvindepressedrobot, /emoji/custom/marvindepressedrobot.png
 marvin, /emoji/custom/marvin.png
+mastodont, /emoji/custom/mastodont.png
 matrix, /emoji/custom/matrix.gif
 meditating, /emoji/custom/meditating.gif
 mega, /emoji/custom/mega.gif
@@ -216,6 +217,7 @@ naruhodo, /emoji/custom/naruhodo.gif
 neckbeard, /emoji/custom/neckbeard.gif
 nemo, /emoji/custom/nemo.gif
 ness, /emoji/custom/ness.png
+nightjar, /emoji/custom/nightjar.png
 ninja, /emoji/custom/ninja.gif
 ninja_fixed, /emoji/custom/ninja_fixed.gif
 nocloud, /emoji/custom/nocloud.png
