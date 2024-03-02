@@ -7,6 +7,7 @@ xenia_excited, /emoji/xenia/xenia_excited.png
 xenia_hug, /emoji/xenia/xenia_hug.png
 xenia_laptop, /emoji/xenia/xenia_laptop.png
 xenia_plead, /emoji/xenia/xenia_plead.png
+xenia_smug, /emoji/xenia/xenia_smug.png
 xenia_stare, /emoji/xenia/xenia_stare.png
 xenia_think, /emoji/xenia/xenia_think.png
 xenia_trash, /emoji/xenia/xenia_trash.png
