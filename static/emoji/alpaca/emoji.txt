@@ -1,0 +1,13 @@
+alpaca_blush, /emoji/alpaca/alpaca_blush.png
+alpaca_lol, /emoji/alpaca/alpaca_lol.png
+alpaca_love, /emoji/alpaca/alpaca_love.png
+alpaca_no, /emoji/alpaca/alpaca_no.png
+alpaca_ping, /emoji/alpaca/alpaca_ping.png
+alpaca_sad, /emoji/alpaca/alpaca_sad.png
+alpaca_sleep, /emoji/alpaca/alpaca_sleep.png
+alpaca_sob, /emoji/alpaca/alpaca_sob.png
+alpaca_surprise, /emoji/alpaca/alpaca_surprise.png
+alpaca_wah, /emoji/alpaca/alpaca_wah.png
+alpaca_weh, /emoji/alpaca/alpaca_weh.png
+alpaca_wink, /emoji/alpaca/alpaca_wink.png
+alpaca_YEAH, /emoji/alpaca/alpaca_YEAH.png
