@@ -71,6 +71,7 @@ includes also emojis from:
 - Gamer: <https://kreativ31.gumroad.com/>
 - Netfish: <https://ibbbon.gumroad.com/>
 - Alpaca: <https://rosarrie.gumroad.com/>
+- Floof: <https://volpeon.ink/emojis/floof/>
 
 #### notice
 
