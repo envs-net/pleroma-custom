@@ -28,3 +28,4 @@ neofox_halo_scientist, /emoji/neofox_extra/neofox_halo_scientist.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
 neofox_sit_pleading, /emoji/neofox_extra/neofox_sit_pleading.png
+neofox_think_about_it, /emoji/neofox_extra/neofox_think_about_it.png
