@@ -1,0 +1,8 @@
+neocat_catmask, /emoji/neocat_extra/neocat_catmask.png
+neocat_floof_evil_blush, /emoji/neocat_extra/neocat_floof_evil_blush.png
+neocat_floof_evil, /emoji/neocat_extra/neocat_floof_evil.png
+neocat_pat_evil, /emoji/neocat_extra/neocat_pat_evil.png
+neocat_woem, /emoji/neocat_extra/neocat_woem.png
+neocat_woem_halo, /emoji/neocat_extra/neocat_woem_halo.png
+neocat_woem_knife, /emoji/neocat_extra/neocat_woem_knife.png
+neocat_woem_upside_down, /emoji/neocat_extra/neocat_woem_upside_down.png
