@@ -72,6 +72,7 @@ includes also emojis from:
 - Netfish: <https://ibbbon.gumroad.com/>
 - Alpaca: <https://rosarrie.gumroad.com/>
 - Floof: <https://volpeon.ink/emojis/floof/>
+- Among Us 2: <https://www.reddit.com/comments/izmuwp/>
 
 #### notice
 
