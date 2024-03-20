@@ -73,6 +73,7 @@ includes also emojis from:
 - Alpaca: <https://rosarrie.gumroad.com/>
 - Floof: <https://volpeon.ink/emojis/floof/>
 - Among Us 2: <https://www.reddit.com/comments/izmuwp/>
+- OpenMoji Extra: <http://openmoji.org/> (excludes Unicode emoji)
 
 #### notice
 
