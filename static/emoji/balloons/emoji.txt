@@ -1,0 +1,15 @@
+air_tank, /emoji/balloons/air_tank.png
+balloon_deflated, /emoji/balloons/balloon_deflated.png
+balloon_devious, /emoji/balloons/balloon_devious.png
+balloon_smile, /emoji/balloons/balloon_smile.png
+bike_pump, /emoji/balloons/bike_pump.png
+black_balloon_heart, /emoji/balloons/black_balloon_heart.png
+blue_balloon_heart, /emoji/balloons/blue_balloon_heart.png
+green_balloon_heart, /emoji/balloons/green_balloon_heart.png
+inflatable_valve, /emoji/balloons/inflatable_valve.png
+inflatable_valve_open, /emoji/balloons/inflatable_valve_open.png
+orange_balloon_heart, /emoji/balloons/orange_balloon_heart.png
+p_balloon, /emoji/balloons/p_balloon.png
+purple_balloon_heart, /emoji/balloons/purple_balloon_heart.png
+red_balloon_heart, /emoji/balloons/red_balloon_heart.png
+yellow_balloon_heart, /emoji/balloons/yellow_balloon_heart.png

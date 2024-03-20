@@ -18,8 +18,8 @@ includes also emojis from:
 - capybaras - <https://www.patreon.com/posts/capybaras-74597806>
 - mothcharm - <https://mothcharm.carrd.co/#emoji>
 - pride flag heart - <https://ko-fi.com/s/9c742fd6bb>
-- portable game console - <https://dzuk.zone/emoji>
-- game controllers - <https://dzuk.zone/emoji>
+- portable game console - <https://nocturne.works/emoji/free-emoji>
+- game controllers - <https://nocturne.works/emoji/free-emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra and misc - various, including @airis@pleroma.envs.net
 - neofox-extra and neocat_extra - @aris@pleroma.envs.net and @starshine@woem.space
@@ -41,7 +41,7 @@ includes also emojis from:
 - Matcha: <https://ko-fi.com/s/f67eddbf93>
 - Padoru: various; see `credits.txt` in its directory.
 - Gura: curated by @julia@eepy.moe from Discord servers.
-- Ferris: <https://dzuk.zone/emoji>
+- Ferris: <https://nocturne.works/emoji/free-emoji>
 - blobhaj flags: <https://heatherhorns.com/emoji/>
 - cats: <https://git.gay/sneexy/fedi-emoji-packs>
 - birbs: <https://squawk.social/@EricMalves/111584664139895889>
@@ -74,6 +74,8 @@ includes also emojis from:
 - Floof: <https://volpeon.ink/emojis/floof/>
 - Among Us 2: <https://www.reddit.com/comments/izmuwp/>
 - OpenMoji Extra: <http://openmoji.org/> (excludes Unicode emoji)
+- Milkshakes: <https://nocturne.works/emoji/free-emoji>
+- Balloons: <https://nocturne.works/emoji/free-emoji>
 
 #### notice
 
