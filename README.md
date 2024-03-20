@@ -76,6 +76,7 @@ includes also emojis from:
 - OpenMoji Extra: <http://openmoji.org/> (excludes Unicode emoji)
 - Milkshakes: <https://nocturne.works/emoji/free-emoji>
 - Balloons: <https://nocturne.works/emoji/free-emoji>
+- Boomer: <https://nocturne.works/emoji/free-emoji>
 
 #### notice
 
