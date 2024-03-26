@@ -1,0 +1,5 @@
+pochita_excited, /emoji/pochita/pochita_excited.png
+pochita_happy, /emoji/pochita/pochita_happy.png
+pochita_hi, /emoji/pochita/pochita_hi.gif
+pochita_sad, /emoji/pochita/pochita_sad.png
+pochita_sleep, /emoji/pochita/pochita_sleep.png

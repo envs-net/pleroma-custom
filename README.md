@@ -22,7 +22,7 @@ includes also emojis from:
 - game controllers - <https://dzuk.zone/emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra and misc - various, including @airis@pleroma.envs.net
-- neofox-extra - @aris@pleroma.envs.net
+- neofox-extra and neocat_extra - @aris@pleroma.envs.net and @starshine@woem.space
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
 - zero two: <https://archive.org/details/002-emotes/> + unknown
@@ -58,6 +58,20 @@ includes also emojis from:
 - bubblegum: <https://ko-fi.com/emotecafe/>
 - celeste hearts: <https://github.com/mecha-cat/celeste-hearts>
 - Jinx: <https://www.deviantart.com/blazz777/art/FREE-Jinx-emote-pack-download-899692448>
+- Pochita: <https://ko-fi.com/ladykamimi/>
+- Neorat: <https://lalafell.party/neorat.html>
+- Pinkiemme: <https://pinkiemme.gumroad.com/>
+- Yingmotes (ying palette): <https://github.com/Mynotaurus/Yingmotes>
+- Akemi: <https://github.com/Aircoookie/Akemi>
+- Hatsune Miku: <https://aquaspider.gumroad.com/>
+- Eeveelutions: <https://aquaspider.gumroad.com/>
+- cute_frog: <https://rosarrie.gumroad.com/>
+- RWBY: <https://howelixir.gumroad.com/>
+- Hollow Knight: <https://sleepytealeaf.gumroad.com/>
+- Gamer: <https://kreativ31.gumroad.com/>
+- Netfish: <https://ibbbon.gumroad.com/>
+- Alpaca: <https://rosarrie.gumroad.com/>
+- Floof: <https://volpeon.ink/emojis/floof/>
 
 #### notice
 

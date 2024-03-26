@@ -1,0 +1,10 @@
+pinkiemme_boba_fett, /emoji/pinkiemme/pinkiemme_boba_fett.png
+pinkiemme_bonk, /emoji/pinkiemme/pinkiemme_bonk.png
+pinkiemme_comfy, /emoji/pinkiemme/pinkiemme_comfy.png
+pinkiemme_frog_flop_helmet, /emoji/pinkiemme/pinkiemme_frog_flop_helmet.png
+pinkiemme_frog_peek_helmet, /emoji/pinkiemme/pinkiemme_frog_peek_helmet.png
+pinkiemme_frog_smile, /emoji/pinkiemme/pinkiemme_frog_smile.png
+pinkiemme_frog_stache, /emoji/pinkiemme/pinkiemme_frog_stache.png
+pinkiemme_lovestruck, /emoji/pinkiemme/pinkiemme_lovestruck.png
+pinkiemme_peek, /emoji/pinkiemme/pinkiemme_peek.png
+pinkiemme_teehee, /emoji/pinkiemme/pinkiemme_teehee.png

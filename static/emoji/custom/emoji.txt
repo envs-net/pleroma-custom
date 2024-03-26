@@ -102,6 +102,7 @@ drum, /emoji/custom/drum.png
 dumpsterfire, /emoji/custom/dumpsterfire.gif
 earth_photo, /emoji/custom/earth_photo.png
 einstein, /emoji/custom/einstein.png
+elmo_fire, /emoji/custom/elmo_fire.gif
 elvis, /emoji/custom/elvis.png
 envs, /emoji/custom/envs.png
 epic-sax-guy, /emoji/custom/epic-sax-guy.gif
@@ -158,6 +159,7 @@ hedgehog, /emoji/custom/hedgehog.gif
 heisenberg, /emoji/custom/heisenberg.png
 helloween_coffee, /emoji/custom/helloween_coffee.gif
 hermionegranger, /emoji/custom/hermionegranger.png
+high_five, /emoji/custom/high_five.png
 honeybadger, /emoji/custom/honeybadger.png
 honked, /emoji/custom/honked.gif
 humpday, /emoji/custom/humpday.png
@@ -176,6 +178,7 @@ kungfu, /emoji/custom/kungfu.gif
 kyle, /emoji/custom/kyle.png
 leftshark2, /emoji/custom/leftshark2.gif
 leftshark, /emoji/custom/leftshark.png
+lets_fucking_go, /emoji/custom/lets_fucking_go.png
 letter_blue, /emoji/custom/letter_blue.gif
 letter_love, /emoji/custom/letter_love.gif
 letter_opening, /emoji/custom/letter_opening.gif
@@ -200,6 +203,7 @@ mario, /emoji/custom/mario.gif
 mario_yoshi, /emoji/custom/mario_yoshi.gif
 marvindepressedrobot, /emoji/custom/marvindepressedrobot.png
 marvin, /emoji/custom/marvin.png
+mastodont, /emoji/custom/mastodont.png
 matrix, /emoji/custom/matrix.gif
 meditating, /emoji/custom/meditating.gif
 mega, /emoji/custom/mega.gif
@@ -216,6 +220,7 @@ naruhodo, /emoji/custom/naruhodo.gif
 neckbeard, /emoji/custom/neckbeard.gif
 nemo, /emoji/custom/nemo.gif
 ness, /emoji/custom/ness.png
+nightjar, /emoji/custom/nightjar.png
 ninja, /emoji/custom/ninja.gif
 ninja_fixed, /emoji/custom/ninja_fixed.gif
 nocloud, /emoji/custom/nocloud.png
@@ -275,6 +280,7 @@ saladfingers, /emoji/custom/saladfingers.png
 saturn, /emoji/custom/saturn.png
 scoobydoo, /emoji/custom/scoobydoo.png
 scoot, /emoji/custom/scoot.png
+SCP, /emoji/custom/SCP.png
 seirdy_blush, /emoji/custom/seirdy_blush.png
 seirdy, /emoji/custom/seirdy.png
 seriously, /emoji/custom/seriously.png
@@ -362,6 +368,7 @@ trolldance, /emoji/custom/trolldance.gif
 unibomber, /emoji/custom/unibomber.png
 unicorn3, /emoji/custom/unicorn3.gif
 unicorn, /emoji/custom/unicorn.gif
+uno_reverse, /emoji/custom/uno_reverse.png
 uwah_small, /emoji/custom/uwah_small.png
 valid, /emoji/custom/valid.png
 vigeta, /emoji/custom/vigeta.gif
