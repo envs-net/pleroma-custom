@@ -1,5 +1,6 @@
 {
-  "envs-dark": "/static/themes/envs-dark.json",
+  "envs": "/static/themes/envs-dark.json",
+  "envs-dark": "/static/themes/envs-dark-theme.json",
 
   "pleroma-dark": "/static/themes/pleroma-dark.json",
   "pleroma-light": "/static/themes/pleroma-light.json",
