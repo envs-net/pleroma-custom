@@ -1,0 +1,52 @@
+{
+  "metaVersion": 2,
+  "host": "beehive.gay",
+  "exportedAt": "2024-03-16T14:54:14.592Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "neobread.png",
+      "emoji": {
+        "name": "neobread",
+        "category": "neobread",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neobread_eyes.png",
+      "emoji": {
+        "name": "neobread_eyes",
+        "category": "neobread",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neobread_think.png",
+      "emoji": {
+        "name": "neobread_think",
+        "category": "neobread",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neobread_woem.png",
+      "emoji": {
+        "name": "neobread_woem",
+        "category": "neobread",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neobread_woozy.png",
+      "emoji": {
+        "name": "neobread_woozy",
+        "category": "neobread",
+        "aliases": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+neobread, /emoji/neobread/neobread.png
+neobread_eyes, /emoji/neobread/neobread_eyes.png
+neobread_think, /emoji/neobread/neobread_think.png
+neobread_woem, /emoji/neobread/neobread_woem.png
+neobread_woozy, /emoji/neobread/neobread_woozy.png

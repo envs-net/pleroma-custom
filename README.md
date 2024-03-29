@@ -78,6 +78,7 @@ includes also emojis from:
 - Balloons: <https://nocturne.works/emoji/free-emoji>
 - Boomer: <https://nocturne.works/emoji/free-emoji>
 - Pride cricket bats: <https://mastodon.art/@aldercone/111412150009639108>
+- Neobread: <https://github.com/olivvybee/neobread>
 
 #### notice
 
