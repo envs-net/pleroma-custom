@@ -1,3 +1,4 @@
+neofox_angel_science, /emoji/neofox_extra/neofox_angel_science.png
 neofox_catmask_plead, /emoji/neofox_extra/neofox_catmask_plead.png
 neofox_catmask_sob, /emoji/neofox_extra/neofox_catmask_sob.png
 neofox_cool_sob, /emoji/neofox_extra/neofox_cool_sob.png
