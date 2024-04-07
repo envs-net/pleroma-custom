@@ -81,6 +81,7 @@ includes also emojis from:
 - Pride potions: <https://elekk.xyz/@Dizzy/104383754825773387>
 - Neobread: <https://github.com/olivvybee/neobread>
 - Robomoji: <https://gitlab.com/luna/robomoji> (based on Mutant Standard)
+- Chicks: <https://www.patreon.com/file?h=26981786&i=12890965>
 
 #### notice
 
