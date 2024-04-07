@@ -83,6 +83,7 @@ includes also emojis from:
 - Robomoji: <https://gitlab.com/luna/robomoji> (based on Mutant Standard)
 - Chicks: <https://www.patreon.com/file?h=26981786&i=12890965>
 - Goose: <https://www.patreon.com/posts/free-goose-emoji-30348169>
+- Evil autism: <https://magentasnail.tumblr.com/post/746569547117625344/hey-guys-new-diagnosis-just-dropped-evil-autism>
 
 #### notice
 
