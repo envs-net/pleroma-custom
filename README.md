@@ -82,6 +82,7 @@ includes also emojis from:
 - Neobread: <https://github.com/olivvybee/neobread>
 - Robomoji: <https://gitlab.com/luna/robomoji> (based on Mutant Standard)
 - Chicks: <https://www.patreon.com/file?h=26981786&i=12890965>
+- Goose: <https://www.patreon.com/posts/free-goose-emoji-30348169>
 
 #### notice
 
