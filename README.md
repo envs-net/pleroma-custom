@@ -80,6 +80,7 @@ includes also emojis from:
 - Pride cricket bats: <https://mastodon.art/@aldercone/111412150009639108>
 - Pride potions: <https://elekk.xyz/@Dizzy/104383754825773387>
 - Neobread: <https://github.com/olivvybee/neobread>
+- Robomoji: <https://gitlab.com/luna/robomoji> (based on Mutant Standard)
 
 #### notice
 
