@@ -32,4 +32,5 @@ neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
 neofox_poland, /emoji/neofox_extra/neofox_poland.png
 neofox_sit_pleading, /emoji/neofox_extra/neofox_sit_pleading.png
+neofox_snug_owo_exclamation_mark, /emoji/neofox_extra/neofox_snug_owo_exclamation_mark.png
 neofox_think_about_it, /emoji/neofox_extra/neofox_think_about_it.png
