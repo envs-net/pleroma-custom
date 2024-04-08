@@ -17,3 +17,7 @@ blobfox_sunglasses_cry, /emoji/blobfox_extra/blobfox_sunglasses_cry.png
 blobfox_three_knives, /emoji/blobfox_extra/blobfox_three_knives.png
 blobfox_woozy, /emoji/blobfox_extra/blobfox_woozy.png
 blobfox_yum, /emoji/blobfox_extra/blobfox_yum.png
+neofox_angel_gun, /emoji/blobfox_extra/neofox_angel_gun.png
+neofox_angel_knife, /emoji/blobfox_extra/neofox_angel_knife.png
+neofox_angel_knives, /emoji/blobfox_extra/neofox_angel_knives.png
+neofox_angel_laptop, /emoji/blobfox_extra/neofox_angel_laptop.png

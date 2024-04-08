@@ -1,0 +1,3 @@
+milkshake_banana, /emoji/milkshakes/milkshake_banana.png
+milkshake_chocolate, /emoji/milkshakes/milkshake_chocolate.png
+milkshake_strawberry, /emoji/milkshakes/milkshake_strawberry.png

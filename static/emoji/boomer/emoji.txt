@@ -1,0 +1,7 @@
+boomer_angry_laugh, /emoji/boomer/boomer_angry_laugh.png
+boomer_cyclops, /emoji/boomer/boomer_cyclops.png
+boomer_eyebrows, /emoji/boomer/boomer_eyebrows.png
+boomer_girl, /emoji/boomer/boomer_girl.png
+boomer_laugh, /emoji/boomer/boomer_laugh.png
+boomer_smile, /emoji/boomer/boomer_smile.png
+boomer_uneasy, /emoji/boomer/boomer_uneasy.png

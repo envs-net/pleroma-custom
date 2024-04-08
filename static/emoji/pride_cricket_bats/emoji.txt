@@ -1,0 +1,7 @@
+amerIndian_cricket_bat, /emoji/pride_cricket_bats/amerIndian_cricket_bat.png
+black_trans_cricket_bat, /emoji/pride_cricket_bats/black_trans_cricket_bat.png
+disability_cricket_bat, /emoji/pride_cricket_bats/disability_cricket_bat.png
+genderfluid_cricket_bat, /emoji/pride_cricket_bats/genderfluid_cricket_bat.png
+philly_pride_cricket_bat, /emoji/pride_cricket_bats/philly_pride_cricket_bat.png
+queer_villain_cricket_bat, /emoji/pride_cricket_bats/queer_villain_cricket_bat.png
+trans_cricket_bat, /emoji/pride_cricket_bats/trans_cricket_bat.png

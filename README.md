@@ -18,8 +18,8 @@ includes also emojis from:
 - capybaras - <https://www.patreon.com/posts/capybaras-74597806>
 - mothcharm - <https://mothcharm.carrd.co/#emoji>
 - pride flag heart - <https://ko-fi.com/s/9c742fd6bb>
-- portable game console - <https://dzuk.zone/emoji>
-- game controllers - <https://dzuk.zone/emoji>
+- portable game console - <https://nocturne.works/emoji/free-emoji>
+- game controllers - <https://nocturne.works/emoji/free-emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
 - blobfox_extra and misc - various, including @airis@pleroma.envs.net
 - neofox-extra and neocat_extra - @aris@pleroma.envs.net and @starshine@woem.space
@@ -41,7 +41,7 @@ includes also emojis from:
 - Matcha: <https://ko-fi.com/s/f67eddbf93>
 - Padoru: various; see `credits.txt` in its directory.
 - Gura: curated by @julia@eepy.moe from Discord servers.
-- Ferris: <https://dzuk.zone/emoji>
+- Ferris: <https://nocturne.works/emoji/free-emoji>
 - blobhaj flags: <https://heatherhorns.com/emoji/>
 - cats: <https://git.gay/sneexy/fedi-emoji-packs>
 - birbs: <https://squawk.social/@EricMalves/111584664139895889>
@@ -72,6 +72,18 @@ includes also emojis from:
 - Netfish: <https://ibbbon.gumroad.com/>
 - Alpaca: <https://rosarrie.gumroad.com/>
 - Floof: <https://volpeon.ink/emojis/floof/>
+- Among Us 2: <https://www.reddit.com/comments/izmuwp/>
+- OpenMoji Extra: <http://openmoji.org/> (excludes Unicode emoji)
+- Milkshakes: <https://nocturne.works/emoji/free-emoji>
+- Balloons: <https://nocturne.works/emoji/free-emoji>
+- Boomer: <https://nocturne.works/emoji/free-emoji>
+- Pride cricket bats: <https://mastodon.art/@aldercone/111412150009639108>
+- Pride potions: <https://elekk.xyz/@Dizzy/104383754825773387>
+- Neobread: <https://github.com/olivvybee/neobread>
+- Robomoji: <https://gitlab.com/luna/robomoji> (based on Mutant Standard)
+- Chicks: <https://www.patreon.com/file?h=26981786&i=12890965>
+- Goose: <https://www.patreon.com/posts/free-goose-emoji-30348169>
+- Evil autism: <https://magentasnail.tumblr.com/post/746569547117625344/hey-guys-new-diagnosis-just-dropped-evil-autism>
 
 #### notice
 

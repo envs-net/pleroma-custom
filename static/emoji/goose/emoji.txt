@@ -1,0 +1,12 @@
+goose_count, /emoji/goose/goose_count.png
+goose, /emoji/goose/goose.png
+goose_flap, /emoji/goose/goose_flap.png
+goose_hacker, /emoji/goose/goose_hacker.png
+goose_helm, /emoji/goose/goose_helm.png
+goose_honk, /emoji/goose/goose_honk.png
+goose_peek, /emoji/goose/goose_peek.png
+goose_scorn, /emoji/goose/goose_scorn.png
+goose_shades, /emoji/goose/goose_shades.png
+goose_side, /emoji/goose/goose_side.png
+goose_silly, /emoji/goose/goose_silly.png
+goose_star, /emoji/goose/goose_star.png

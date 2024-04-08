@@ -1,0 +1,12 @@
+autism_creature_angry, /emoji/evil_autism/autism_creature_angry.png
+autism_creature_fall, /emoji/evil_autism/autism_creature_fall.png
+autism_creature_flop, /emoji/evil_autism/autism_creature_flop.png
+autism_creature_flop_oh_yes, /emoji/evil_autism/autism_creature_flop_oh_yes.png
+autism_creature_head_empty, /emoji/evil_autism/autism_creature_head_empty.png
+autism_creature_head_full, /emoji/evil_autism/autism_creature_head_full.png
+autism_creature_headphones, /emoji/evil_autism/autism_creature_headphones.png
+autism_creature_omg, /emoji/evil_autism/autism_creature_omg.png
+autism_creature_puppy_eyes, /emoji/evil_autism/autism_creature_puppy_eyes.png
+autism_creature_sleep, /emoji/evil_autism/autism_creature_sleep.png
+autism_creature_stimmy, /emoji/evil_autism/autism_creature_stimmy.png
+autism_creature_yippee, /emoji/evil_autism/autism_creature_yippee.png
