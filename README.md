@@ -84,6 +84,10 @@ includes also emojis from:
 - Chicks: <https://www.patreon.com/file?h=26981786&i=12890965>
 - Goose: <https://www.patreon.com/posts/free-goose-emoji-30348169>
 - Evil autism: <https://magentasnail.tumblr.com/post/746569547117625344/hey-guys-new-diagnosis-just-dropped-evil-autism>
+- neopossum: <https://skunks.gay/downloads>
+- blobbee: <https://github.com/olivvybee/blobbee>
+- neopossum_extra: <https://github.com/SymTrkl/emoji>
+- fedilogo: <https://github.com/SymTrkl/emoji>
 
 #### notice
 
