@@ -1,4 +1,5 @@
 neofox_angel_science, /emoji/neofox_extra/neofox_angel_science.png
+neofox_bulging_eyes, /emoji/neofox_extra/neofox_bulging_eyes.png
 neofox_catmask_plead, /emoji/neofox_extra/neofox_catmask_plead.png
 neofox_catmask_sob, /emoji/neofox_extra/neofox_catmask_sob.png
 neofox_cool_sob, /emoji/neofox_extra/neofox_cool_sob.png
@@ -77,10 +78,13 @@ neofox_hug_tiger_sad, /emoji/neofox_extra/neofox_hug_tiger_sad.png
 neofox_loss, /emoji/neofox_extra/neofox_loss.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
+neofox_pleading_nb, /emoji/neofox_extra/neofox_pleading_nb.png
 neofox_poland, /emoji/neofox_extra/neofox_poland.png
 neofox_sit_pleading, /emoji/neofox_extra/neofox_sit_pleading.png
 neofox_snug_owo_exclamation_mark, /emoji/neofox_extra/neofox_snug_owo_exclamation_mark.png
 neofox_think_about_it, /emoji/neofox_extra/neofox_think_about_it.png
 neofox_this_is_fine, /emoji/neofox_extra/neofox_this_is_fine.png
 neofox_this_is_fine_kisser, /emoji/neofox_extra/neofox_this_is_fine_kisser.png
+neofox_two_guns, /emoji/neofox_extra/neofox_two_guns.png
+neofox_woem_mask, /emoji/neofox_extra/neofox_woem_mask.png
 skibidi_neofox, /emoji/neofox_extra/skibidi_neofox.png
