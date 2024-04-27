@@ -89,6 +89,7 @@ includes also emojis from:
 - neopossum_extra: <https://github.com/SymTrkl/emoji>
 - fedilogo: <https://github.com/SymTrkl/emoji>
 - funkus: <https://codeberg.org/tastytea/funkus>
+- Gaysper: <https://github.com/ZoeBijl/Gaysper>
 
 #### notice
 

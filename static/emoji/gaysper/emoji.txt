@@ -1,0 +1,16 @@
+Gaysper_Ace, /emoji/gaysper/Gaysper_Ace.png
+Gaysper_Agender, /emoji/gaysper/Gaysper_Agender.png
+Gaysper_Aromantic, /emoji/gaysper/Gaysper_Aromantic.png
+Gaysper_Autism, /emoji/gaysper/Gaysper_Autism.png
+Gaysper_Bi, /emoji/gaysper/Gaysper_Bi.png
+Gaysper, /emoji/gaysper/Gaysper.png
+Gaysper_Enby, /emoji/gaysper/Gaysper_Enby.png
+Gaysper_Genderfluid, /emoji/gaysper/Gaysper_Genderfluid.png
+Gaysper_Genderqueer, /emoji/gaysper/Gaysper_Genderqueer.png
+Gaysper_Intersex, /emoji/gaysper/Gaysper_Intersex.png
+Gaysper_LesbianAll, /emoji/gaysper/Gaysper_LesbianAll.png
+Gaysper_Lesbian, /emoji/gaysper/Gaysper_Lesbian.png
+Gaysper_Pan, /emoji/gaysper/Gaysper_Pan.png
+Gaysper_Polyamory, /emoji/gaysper/Gaysper_Polyamory.png
+Gaysper_Polysexual, /emoji/gaysper/Gaysper_Polysexual.png
+Gaysper_Trans, /emoji/gaysper/Gaysper_Trans.png
