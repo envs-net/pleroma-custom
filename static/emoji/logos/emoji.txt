@@ -89,6 +89,7 @@ thinkpad, /emoji/logos/thinkpad.png
 thunderbird, /emoji/logos/thunderbird.png
 tor, /emoji/logos/tor.png
 tux, /emoji/logos/tux.png
+uwubernetes, /emoji/logos/uwubernetes.png
 vim2, /emoji/logos/vim2.png
 vim, /emoji/logos/vim.png
 void, /emoji/logos/void.png
