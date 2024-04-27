@@ -21,7 +21,7 @@ includes also emojis from:
 - portable game console - <https://nocturne.works/emoji/free-emoji>
 - game controllers - <https://nocturne.works/emoji/free-emoji>
 - uwufetch - <https://github.com/TheDarkBug/uwufetch/>
-- blobfox_extra and misc - various, including @airis@pleroma.envs.net
+- blobfox_extra and misc - various, including @airis@pleroma.envs.net and <https://github.com/SymTrkl/emoji>
 - neofox-extra and neocat_extra - @aris@pleroma.envs.net and @starshine@woem.space
 - konqi - <https://community.kde.org/Promo/Material/Mascots>
 - xenia: <https://meow.social/@rinidisc/111333089243157952>, <https://meow.social/@rinidisc/109791952664927854>, and <https://rinidisc.com/2023/2023.html>
