@@ -28,9 +28,11 @@ neofox_halo_melt_3, /emoji/neofox_extra/neofox_halo_melt_3.png
 neofox_halo_melt, /emoji/neofox_extra/neofox_halo_melt.png
 neofox_halo_pout, /emoji/neofox_extra/neofox_halo_pout.png
 neofox_halo_scientist, /emoji/neofox_extra/neofox_halo_scientist.png
+neofox_loss, /emoji/neofox_extra/neofox_loss.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
 neofox_poland, /emoji/neofox_extra/neofox_poland.png
 neofox_sit_pleading, /emoji/neofox_extra/neofox_sit_pleading.png
 neofox_snug_owo_exclamation_mark, /emoji/neofox_extra/neofox_snug_owo_exclamation_mark.png
 neofox_think_about_it, /emoji/neofox_extra/neofox_think_about_it.png
+skibidi_neofox, /emoji/neofox_extra/skibidi_neofox.png
