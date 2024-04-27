@@ -1,9 +1,17 @@
+neocat_arms_legs, /emoji/neocat_extra/neocat_arms_legs.png
+neocat_butterfly, /emoji/neocat_extra/neocat_butterfly.png
 neocat_catmask, /emoji/neocat_extra/neocat_catmask.png
+neocat_evil_legs_gun, /emoji/neocat_extra/neocat_evil_legs_gun.png
+neocat_fish, /emoji/neocat_extra/neocat_fish.png
 neocat_floof_evil_blush, /emoji/neocat_extra/neocat_floof_evil_blush.png
 neocat_floof_evil, /emoji/neocat_extra/neocat_floof_evil.png
 neocat_floof_exclamation_mark, /emoji/neocat_extra/neocat_floof_exclamation_mark.png
 neocat_floof_owo_exclamation_mark, /emoji/neocat_extra/neocat_floof_owo_exclamation_mark.png
+neocat_giraffe, /emoji/neocat_extra/neocat_giraffe.png
+neocat_legs, /emoji/neocat_extra/neocat_legs.png
 neocat_pat_evil, /emoji/neocat_extra/neocat_pat_evil.png
+neocat_snake, /emoji/neocat_extra/neocat_snake.png
+neocat_spider, /emoji/neocat_extra/neocat_spider.png
 neocat_woem, /emoji/neocat_extra/neocat_woem.png
 neocat_woem_halo, /emoji/neocat_extra/neocat_woem_halo.png
 neocat_woem_knife, /emoji/neocat_extra/neocat_woem_knife.png

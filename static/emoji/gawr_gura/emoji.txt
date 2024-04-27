@@ -309,3 +309,4 @@ gura_yandere_gutter, /emoji/gawr_gura/gura_yandere_gutter.png
 gura_yay, /emoji/gawr_gura/gura_yay.png
 gura_yeet, /emoji/gawr_gura/gura_yeet.gif
 gura_yum, /emoji/gawr_gura/gura_yum.png
+gura_zoom_a, /emoji/gawr_gura/gura_zoom_a.gif
