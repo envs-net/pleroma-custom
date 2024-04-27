@@ -16,4 +16,5 @@ neocat_woem, /emoji/neocat_extra/neocat_woem.png
 neocat_woem_halo, /emoji/neocat_extra/neocat_woem_halo.png
 neocat_woem_knife, /emoji/neocat_extra/neocat_woem_knife.png
 neocat_woem_upside_down, /emoji/neocat_extra/neocat_woem_upside_down.png
+neocat_woozy_owo, /emoji/neocat_extra/neocat_woozy_owo.png
 skibidi_neocat, /emoji/neocat_extra/skibidi_neocat.png
