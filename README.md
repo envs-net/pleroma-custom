@@ -88,6 +88,7 @@ includes also emojis from:
 - blobbee: <https://github.com/olivvybee/blobbee>
 - neopossum_extra: <https://github.com/SymTrkl/emoji>
 - fedilogo: <https://github.com/SymTrkl/emoji>
+- funkus: <https://codeberg.org/tastytea/funkus>
 
 #### notice
 
