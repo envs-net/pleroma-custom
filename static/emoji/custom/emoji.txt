@@ -29,6 +29,8 @@ blackduck, /emoji/custom/blackduck.png
 blacksun, /emoji/custom/blacksun.png
 blank, /emoji/custom/blank.png
 blazeit420, /emoji/custom/blazeit420.png
+blob_yeen_grin, /emoji/custom/blob_yeen_grin.png
+blob_yeen_sad, /emoji/custom/blob_yeen_sad.png
 bmo2, /emoji/custom/bmo2.gif
 bmo, /emoji/custom/bmo.gif
 boiled_pizza, /emoji/custom/boiled_pizza.png
@@ -162,6 +164,7 @@ heart_eye, /emoji/custom/heart_eye.gif
 heart_pixel, /emoji/custom/heart_pixel.gif
 hedgehog, /emoji/custom/hedgehog.gif
 heisenberg, /emoji/custom/heisenberg.png
+hella_gay, /emoji/custom/hella_gay.png
 helloween_coffee, /emoji/custom/helloween_coffee.gif
 hermionegranger, /emoji/custom/hermionegranger.png
 high_five, /emoji/custom/high_five.png
