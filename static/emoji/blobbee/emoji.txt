@@ -7,7 +7,9 @@ blobbee_boop, /emoji/blobbee/blobbee_boop.png
 blobbee_bottom, /emoji/blobbee/blobbee_bottom.png
 blobbee_box, /emoji/blobbee/blobbee_box.png
 blobbee_cat_ears, /emoji/blobbee/blobbee_cat_ears.png
+blobbee_checkmark, /emoji/blobbee/blobbee_checkmark.png
 blobbee_cowboy, /emoji/blobbee/blobbee_cowboy.png
+blobbee_cross, /emoji/blobbee/blobbee_cross.png
 blobbee_cross_stitch, /emoji/blobbee/blobbee_cross_stitch.png
 blobbee_cutlery, /emoji/blobbee/blobbee_cutlery.png
 blobbee_cutlery_eyes, /emoji/blobbee/blobbee_cutlery_eyes.png
@@ -58,8 +60,10 @@ blobbee_laugh_sweat, /emoji/blobbee/blobbee_laugh_sweat.png
 blobbee_laugh_tears, /emoji/blobbee/blobbee_laugh_tears.png
 blobbee_lego, /emoji/blobbee/blobbee_lego.png
 blobbee_meeple, /emoji/blobbee/blobbee_meeple.png
+blobbee_megaphone, /emoji/blobbee/blobbee_megaphone.png
 blobbee_mug, /emoji/blobbee/blobbee_mug.png
 blobbee_neurodiverse, /emoji/blobbee/blobbee_neurodiverse.png
+blobbee_nom_potato, /emoji/blobbee/blobbee_nom_potato.png
 blobbee_party, /emoji/blobbee/blobbee_party.png
 blobbee_pat, /emoji/blobbee/blobbee_pat.png
 blobbee_peek, /emoji/blobbee/blobbee_peek.png
@@ -82,6 +86,7 @@ blobbee_think, /emoji/blobbee/blobbee_think.png
 blobbee_train_wagon, /emoji/blobbee/blobbee_train_wagon.png
 blobbee_upside_down, /emoji/blobbee/blobbee_upside_down.png
 blobbee_uwu, /emoji/blobbee/blobbee_uwu.png
+blobbee_verified, /emoji/blobbee/blobbee_verified.png
 blobbee_wave, /emoji/blobbee/blobbee_wave.png
 blobbee_wink, /emoji/blobbee/blobbee_wink.png
 blobbee_woem, /emoji/blobbee/blobbee_woem.png
