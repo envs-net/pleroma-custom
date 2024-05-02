@@ -29,6 +29,8 @@ blackduck, /emoji/custom/blackduck.png
 blacksun, /emoji/custom/blacksun.png
 blank, /emoji/custom/blank.png
 blazeit420, /emoji/custom/blazeit420.png
+blob_yeen_grin, /emoji/custom/blob_yeen_grin.png
+blob_yeen_sad, /emoji/custom/blob_yeen_sad.png
 bmo2, /emoji/custom/bmo2.gif
 bmo, /emoji/custom/bmo.gif
 boiled_pizza, /emoji/custom/boiled_pizza.png
@@ -36,6 +38,9 @@ bonsai, /emoji/custom/bonsai.png
 BonusGrisinn, /emoji/custom/BonusGrisinn.png
 boy, /emoji/custom/boy.gif
 boy_fight, /emoji/custom/boy_fight.gif
+boy_kisser_anim, /emoji/custom/boy_kisser_anim.gif
+boy_kisser, /emoji/custom/boy_kisser.png
+boy_kisser_yellow, /emoji/custom/boy_kisser_yellow.png
 boy_mad, /emoji/custom/boy_mad.gif
 bread_sad, /emoji/custom/bread_sad.gif
 brownie, /emoji/custom/brownie.png
@@ -104,6 +109,7 @@ earth_photo, /emoji/custom/earth_photo.png
 einstein, /emoji/custom/einstein.png
 elmo_fire, /emoji/custom/elmo_fire.gif
 elvis, /emoji/custom/elvis.png
+enby_kisser, /emoji/custom/enby_kisser.png
 envs, /emoji/custom/envs.png
 epic-sax-guy, /emoji/custom/epic-sax-guy.gif
 epic_win, /emoji/custom/epic_win.png
@@ -130,6 +136,7 @@ giraffe, /emoji/custom/giraffe.png
 girl_angry, /emoji/custom/girl_angry.gif
 girl, /emoji/custom/girl.gif
 girl_happy, /emoji/custom/girl_happy.gif
+girl_kisser, /emoji/custom/girl_kisser.png
 girl_mad, /emoji/custom/girl_mad.gif
 goldensnitch, /emoji/custom/goldensnitch.gif
 goomba, /emoji/custom/goomba.gif
@@ -157,6 +164,7 @@ heart_eye, /emoji/custom/heart_eye.gif
 heart_pixel, /emoji/custom/heart_pixel.gif
 hedgehog, /emoji/custom/hedgehog.gif
 heisenberg, /emoji/custom/heisenberg.png
+hella_gay, /emoji/custom/hella_gay.png
 helloween_coffee, /emoji/custom/helloween_coffee.gif
 hermionegranger, /emoji/custom/hermionegranger.png
 high_five, /emoji/custom/high_five.png

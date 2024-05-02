@@ -1,0 +1,17 @@
+ace_fedi, /emoji/fedilogo/ace_fedi.png
+aro_fedi, /emoji/fedilogo/aro_fedi.png
+bi_fedi, /emoji/fedilogo/bi_fedi.png
+bigender_fedi, /emoji/fedilogo/bigender_fedi.png
+demiboy_fedi, /emoji/fedilogo/demiboy_fedi.png
+demigirl_fedi, /emoji/fedilogo/demigirl_fedi.png
+demi_sexi_fedi, /emoji/fedilogo/demi_sexi_fedi.png
+enby_fedi, /emoji/fedilogo/enby_fedi.png
+fluid_fedi, /emoji/fedilogo/fluid_fedi.png
+les_fedi, /emoji/fedilogo/les_fedi.png
+mh_fedi, /emoji/fedilogo/mh_fedi.png
+mlm_fedi, /emoji/fedilogo/mlm_fedi.png
+omni_fedi, /emoji/fedilogo/omni_fedi.png
+pan_fedi, /emoji/fedilogo/pan_fedi.png
+plural_fedi, /emoji/fedilogo/plural_fedi.png
+poly_fedi, /emoji/fedilogo/poly_fedi.png
+trans_fedi, /emoji/fedilogo/trans_fedi.png
