@@ -1,0 +1,5 @@
+neodog_hug_bee, /emoji/neodog_extra/neodog_hug_bee.png
+neodog_hug_bee_heart, /emoji/neodog_extra/neodog_hug_bee_heart.png
+neodog_hug_dlr, /emoji/neodog_extra/neodog_hug_dlr.png
+neodog_hug_dlr_heart, /emoji/neodog_extra/neodog_hug_dlr_heart.png
+neodog_train_wagon, /emoji/neodog_extra/neodog_train_wagon.png

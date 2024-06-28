@@ -25,6 +25,7 @@ neocat_floof_pleading_reach, /emoji/neocat_extra/neocat_floof_pleading_reach.png
 neocat_floof_sad_low_ears, /emoji/neocat_extra/neocat_floof_sad_low_ears.png
 neocat_floof_sad_reach_low_ears, /emoji/neocat_extra/neocat_floof_sad_reach_low_ears.png
 neocat_giraffe, /emoji/neocat_extra/neocat_giraffe.png
+neocat_googly_woozy_angry_thinking_sleeping_face_with_tongue_sticking_out, /emoji/neocat_extra/neocat_googly_woozy_angry_thinking_sleeping_face_with_tongue_sticking_out.png
 neocat_groan, /emoji/neocat_extra/neocat_groan.png
 neocat_hug_bat, /emoji/neocat_extra/neocat_hug_bat.png
 neocat_hug_bat_heart, /emoji/neocat_extra/neocat_hug_bat_heart.png
@@ -63,6 +64,7 @@ neocat_spider, /emoji/neocat_extra/neocat_spider.png
 neocat_the_ninth, /emoji/neocat_extra/neocat_the_ninth.png
 neocat_this_is_fine, /emoji/neocat_extra/neocat_this_is_fine.png
 neocat_this_is_fine_kisser, /emoji/neocat_extra/neocat_this_is_fine_kisser.png
+neocat_toilet_bath, /emoji/neocat_extra/neocat_toilet_bath.png
 neocat_woem, /emoji/neocat_extra/neocat_woem.png
 neocat_woem_halo, /emoji/neocat_extra/neocat_woem_halo.png
 neocat_woem_knife, /emoji/neocat_extra/neocat_woem_knife.png

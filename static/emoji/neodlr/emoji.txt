@@ -1,0 +1,12 @@
+neodlr_bottom, /emoji/neodlr/neodlr_bottom.png
+neodlr, /emoji/neodlr/neodlr.png
+neodlr_hug_bee, /emoji/neodlr/neodlr_hug_bee.png
+neodlr_hug_bee_heart, /emoji/neodlr/neodlr_hug_bee_heart.png
+neodlr_hug_bread, /emoji/neodlr/neodlr_hug_bread.png
+neodlr_hug_bread_heart, /emoji/neodlr/neodlr_hug_bread_heart.png
+neodlr_hug_cat, /emoji/neodlr/neodlr_hug_cat.png
+neodlr_hug_cat_heart, /emoji/neodlr/neodlr_hug_cat_heart.png
+neodlr_hug_fox, /emoji/neodlr/neodlr_hug_fox.png
+neodlr_hug_fox_heart, /emoji/neodlr/neodlr_hug_fox_heart.png
+neodlr_pat, /emoji/neodlr/neodlr_pat.png
+neodlr_pleading, /emoji/neodlr/neodlr_pleading.png
