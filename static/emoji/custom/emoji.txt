@@ -392,6 +392,8 @@ whale_pink, /emoji/custom/whale_pink.svg
 whatever_minion, /emoji/custom/whatever_minion.png
 what_is_life, /emoji/custom/what_is_life.gif
 whoa, /emoji/custom/whoa.png
+why, /emoji/custom/why.png
+whyMelt, /emoji/custom/whyMelt.gif
 winky, /emoji/custom/winky.png
 woohoo, /emoji/custom/woohoo.png
 worst_ever, /emoji/custom/worst_ever.jpg
