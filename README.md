@@ -98,6 +98,7 @@ includes also emojis from:
 - BlobCats: <https://github.com/DuckOfDisorder/BlobCats> (curated from various sources, see its README)
 - Dragn: <https://github.com/chr-1x/dragn-emoji>
 - Sylveon: <https://git.gay/sugar/sylveon-emotes>
+- Vinnybox: <https://ko-fi.com/vinnybox>
 
 #### notice
 

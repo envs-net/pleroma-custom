@@ -1,0 +1,12 @@
+loom_cry, /emoji/vinnybox/loom_cry.png
+loom_cry_furrowed, /emoji/vinnybox/loom_cry_furrowed.png
+loom, /emoji/vinnybox/loom.png
+loom_red_eyes, /emoji/vinnybox/loom_red_eyes.png
+scream_blurry, /emoji/vinnybox/scream_blurry.png
+scream_broken_heart_blurry, /emoji/vinnybox/scream_broken_heart_blurry.png
+scream_broken_heart, /emoji/vinnybox/scream_broken_heart.png
+scream, /emoji/vinnybox/scream.png
+scream_heart_blood_blurry, /emoji/vinnybox/scream_heart_blood_blurry.png
+scream_heart_blood, /emoji/vinnybox/scream_heart_blood.png
+scream_heart_blurry, /emoji/vinnybox/scream_heart_blurry.png
+scream_heart, /emoji/vinnybox/scream_heart.png
