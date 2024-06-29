@@ -1,4 +1,5 @@
 {
+  "envs": "/static/themes/envs-dark.json",
   "envs-dark": "/static/themes/envs-dark-theme.json",
 
   "pleroma-dark": "/static/themes/pleroma-dark.json",
@@ -14,6 +15,7 @@
   "redmond-xxi": "/static/themes/redmond-xxi.json",
   "breezy-dark": "/static/themes/breezy-dark.json",
   "breezy-light": "/static/themes/breezy-light.json",
-  "mammal": "/static/themes/mammal.json",
-  "paper": "/static/themes/paper.json"
+  "ihatebeingalive": "/static/themes/ihatebeingalive.json",
+  "paper": "/static/themes/paper.json",
+  "thekanata": "/static/themes/thekanata.json"
 }
