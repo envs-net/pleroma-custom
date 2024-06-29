@@ -96,6 +96,7 @@ includes also emojis from:
 - Neodlr: <https://github.com/olivvybee/emojis>
 - Frieren: <https://outerheaven.club/objects/533281dc-ecda-45d1-8e04-91ae25a329d6>
 - BlobCats: <https://github.com/DuckOfDisorder/BlobCats> (curated from various sources, see its README)
+- Dragn: <https://github.com/chr-1x/dragn-emoji>
 
 #### notice
 
