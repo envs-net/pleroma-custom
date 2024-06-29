@@ -1,0 +1,15 @@
+sylveon_aww, /emoji/sylveon/sylveon_aww.png
+sylveon_blush_hide, /emoji/sylveon/sylveon_blush_hide.png
+sylveon_bottom, /emoji/sylveon/sylveon_bottom.png
+sylveon_drowsy, /emoji/sylveon/sylveon_drowsy.png
+sylveon, /emoji/sylveon/sylveon.png
+sylveon_happy, /emoji/sylveon/sylveon_happy.png
+sylveon_heart, /emoji/sylveon/sylveon_heart.png
+sylveon_melt_2, /emoji/sylveon/sylveon_melt_2.png
+sylveon_melt_3, /emoji/sylveon/sylveon_melt_3.png
+sylveon_melt, /emoji/sylveon/sylveon_melt.png
+sylveon_pet, /emoji/sylveon/sylveon_pet.png
+sylveon_sad, /emoji/sylveon/sylveon_sad.png
+sylveon_shocked, /emoji/sylveon/sylveon_shocked.png
+sylveon_surprised_pika, /emoji/sylveon/sylveon_surprised_pika.png
+sylveon_uwu, /emoji/sylveon/sylveon_uwu.png
