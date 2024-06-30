@@ -1,5 +1,7 @@
 aying_annoyed, /emoji/yingmotes/aying_annoyed.png
 aying_bongos, /emoji/yingmotes/aying_bongos.png
+aying_bongos_happy, /emoji/yingmotes/aying_bongos_happy.png
+aying_bongos_happy_hyper, /emoji/yingmotes/aying_bongos_happy_hyper.png
 aying_bongos_hyper, /emoji/yingmotes/aying_bongos_hyper.png
 aying_bongos_laptop, /emoji/yingmotes/aying_bongos_laptop.png
 aying_bongos_laptop_hyper, /emoji/yingmotes/aying_bongos_laptop_hyper.png
@@ -27,6 +29,10 @@ aying_pet, /emoji/yingmotes/aying_pet.png
 aying_pet_melt, /emoji/yingmotes/aying_pet_melt.png
 aying_scritch, /emoji/yingmotes/aying_scritch.png
 aying_shake, /emoji/yingmotes/aying_shake.png
+aying_tail_swish, /emoji/yingmotes/aying_tail_swish.png
+aying_tail_swish_hyper, /emoji/yingmotes/aying_tail_swish_hyper.png
+aying_tail_swish_small, /emoji/yingmotes/aying_tail_swish_small.png
+aying_tail_swish_small_hyper, /emoji/yingmotes/aying_tail_swish_small_hyper.png
 aying_tail_twitch, /emoji/yingmotes/aying_tail_twitch.png
 aying_whackamole1, /emoji/yingmotes/aying_whackamole1.png
 aying_whackamole2, /emoji/yingmotes/aying_whackamole2.png
@@ -65,6 +71,8 @@ ying_curled_up, /emoji/yingmotes/ying_curled_up.png
 ying_dazed, /emoji/yingmotes/ying_dazed.png
 ying_devil, /emoji/yingmotes/ying_devil.png
 ying_dizzy, /emoji/yingmotes/ying_dizzy.png
+ying_drool, /emoji/yingmotes/ying_drool.png
+ying_drool_plead, /emoji/yingmotes/ying_drool_plead.png
 ying_ds, /emoji/yingmotes/ying_ds.png
 ying_embarrassed, /emoji/yingmotes/ying_embarrassed.png
 ying, /emoji/yingmotes/ying.png
@@ -92,6 +100,7 @@ ying_flop_blep, /emoji/yingmotes/ying_flop_blep.png
 ying_flop, /emoji/yingmotes/ying_flop.png
 ying_flop_sleep, /emoji/yingmotes/ying_flop_sleep.png
 ying_ghost, /emoji/yingmotes/ying_ghost.png
+ying_glance, /emoji/yingmotes/ying_glance.png
 ying_gun, /emoji/yingmotes/ying_gun.png
 ying_gun_evil, /emoji/yingmotes/ying_gun_evil.png
 ying_happy_blep, /emoji/yingmotes/ying_happy_blep.png
@@ -127,6 +136,7 @@ ying_hug_small_dragn_sad, /emoji/yingmotes/ying_hug_small_dragn_sad.png
 ying_hug_turtle, /emoji/yingmotes/ying_hug_turtle.png
 ying_hyper, /emoji/yingmotes/ying_hyper.png
 ying_ill, /emoji/yingmotes/ying_ill.png
+ying_kiss, /emoji/yingmotes/ying_kiss.png
 ying_knife, /emoji/yingmotes/ying_knife.png
 ying_knife_evil, /emoji/yingmotes/ying_knife_evil.png
 ying_ko, /emoji/yingmotes/ying_ko.png
@@ -137,6 +147,8 @@ ying_laugh, /emoji/yingmotes/ying_laugh.png
 ying_laugh_sweat, /emoji/yingmotes/ying_laugh_sweat.png
 ying_listening, /emoji/yingmotes/ying_listening.png
 ying_lol, /emoji/yingmotes/ying_lol.png
+ying_look_back, /emoji/yingmotes/ying_look_back.png
+ying_look_back_happy, /emoji/yingmotes/ying_look_back_happy.png
 ying_look_up_blep, /emoji/yingmotes/ying_look_up_blep.png
 ying_look_up, /emoji/yingmotes/ying_look_up.png
 ying_look_up_happy, /emoji/yingmotes/ying_look_up_happy.png
@@ -175,6 +187,7 @@ ying_notice, /emoji/yingmotes/ying_notice.png
 ying_notlikethis, /emoji/yingmotes/ying_notlikethis.png
 ying_on_fire, /emoji/yingmotes/ying_on_fire.png
 ying_on_ice, /emoji/yingmotes/ying_on_ice.png
+ying_ono, /emoji/yingmotes/ying_ono.png
 ying_owo, /emoji/yingmotes/ying_owo.png
 ying_paintbrush, /emoji/yingmotes/ying_paintbrush.png
 ying_party, /emoji/yingmotes/ying_party.png
@@ -226,6 +239,8 @@ ying_sip_confused, /emoji/yingmotes/ying_sip_confused.png
 ying_sip, /emoji/yingmotes/ying_sip.png
 ying_sip_suspicious, /emoji/yingmotes/ying_sip_suspicious.png
 ying_sit_comfy, /emoji/yingmotes/ying_sit_comfy.png
+ying_sit_cuddle_comfy, /emoji/yingmotes/ying_sit_cuddle_comfy.png
+ying_sit_cuddle, /emoji/yingmotes/ying_sit_cuddle.png
 ying_sit_dragn, /emoji/yingmotes/ying_sit_dragn.png
 ying_sit, /emoji/yingmotes/ying_sit.png
 ying_skeleton, /emoji/yingmotes/ying_skeleton.png
@@ -242,6 +257,7 @@ ying_surprised, /emoji/yingmotes/ying_surprised.png
 ying_suspicious, /emoji/yingmotes/ying_suspicious.png
 ying_sweat, /emoji/yingmotes/ying_sweat.png
 ying_tail_down, /emoji/yingmotes/ying_tail_down.png
+ying_tail_hug, /emoji/yingmotes/ying_tail_hug.png
 ying_tail_up, /emoji/yingmotes/ying_tail_up.png
 ying_teacup, /emoji/yingmotes/ying_teacup.png
 ying_think_clams, /emoji/yingmotes/ying_think_clams.png
@@ -274,8 +290,10 @@ ying_wink, /emoji/yingmotes/ying_wink.png
 ying_witch, /emoji/yingmotes/ying_witch.png
 ying_woozy, /emoji/yingmotes/ying_woozy.png
 ying_yawn, /emoji/yingmotes/ying_yawn.png
+ying_yell_cry, /emoji/yingmotes/ying_yell_cry.png
 ying_yell, /emoji/yingmotes/ying_yell.png
 ying_yell_microphone, /emoji/yingmotes/ying_yell_microphone.png
+ying_yell_sad, /emoji/yingmotes/ying_yell_sad.png
 ying_yoshi, /emoji/yingmotes/ying_yoshi.png
 ying_yoshi_end, /emoji/yingmotes/ying_yoshi_end.png
 ying_yoshi_tongue, /emoji/yingmotes/ying_yoshi_tongue.png

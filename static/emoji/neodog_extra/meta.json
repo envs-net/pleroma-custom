@@ -1,0 +1,52 @@
+{
+  "metaVersion": 2,
+  "host": "beehive.gay",
+  "exportedAt": "2024-06-21T08:50:02.064Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "neodog_hug_bee.png",
+      "emoji": {
+        "name": "neodog_hug_bee",
+        "category": "neodog",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neodog_hug_bee_heart.png",
+      "emoji": {
+        "name": "neodog_hug_bee_heart",
+        "category": "neodog",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neodog_hug_dlr.png",
+      "emoji": {
+        "name": "neodog_hug_dlr",
+        "category": "neodog",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neodog_hug_dlr_heart.png",
+      "emoji": {
+        "name": "neodog_hug_dlr_heart",
+        "category": "neodog",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "neodog_train_wagon.png",
+      "emoji": {
+        "name": "neodog_train_wagon",
+        "category": "neodog",
+        "aliases": []
+      }
+    }
+  ]
+}

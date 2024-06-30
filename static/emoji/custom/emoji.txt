@@ -252,6 +252,7 @@ patrick_gym, /emoji/custom/patrick_gym.gif
 patrick_hi, /emoji/custom/patrick_hi.gif
 patrick_lovedance, /emoji/custom/patrick_lovedance.gif
 patrick_spin, /emoji/custom/patrick_spin.gif
+paws, /emoji/custom/paws.gif
 peachSparkly, /emoji/custom/peachSparkly.png
 penguin, /emoji/custom/penguin.gif
 pepperdance, /emoji/custom/pepperdance.gif
@@ -302,6 +303,7 @@ sickburn, /emoji/custom/sickburn.gif
 sickos, /emoji/custom/sickos.png
 sickred-mario, /emoji/custom/sickred-mario.gif
 sickyellow-mario, /emoji/custom/sickyellow-mario.gif
+skibidi_wrench, /emoji/custom/skibidi_wrench.png
 skipping, /emoji/custom/skipping.gif
 slam, /emoji/custom/slam.gif
 snailing, /emoji/custom/snailing.gif
@@ -390,6 +392,8 @@ whale_pink, /emoji/custom/whale_pink.svg
 whatever_minion, /emoji/custom/whatever_minion.png
 what_is_life, /emoji/custom/what_is_life.gif
 whoa, /emoji/custom/whoa.png
+why, /emoji/custom/why.png
+whyMelt, /emoji/custom/whyMelt.gif
 winky, /emoji/custom/winky.png
 woohoo, /emoji/custom/woohoo.png
 worst_ever, /emoji/custom/worst_ever.jpg

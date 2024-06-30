@@ -4,6 +4,13 @@ Most of the rest were made by starshine@woem.space and aris@pleroma.envs.net.
 
 neofox_loss was [made by chloe@fedi.slimegirl.social](https://fedi.slimegirl.social/objects/fd9e5d2a-784f-4c19-b3ec-a516230e71f0).
 
-skibidi neofox [by astrid@fedi.astrid.tech](https://fedi.astrid.tech/objects/79447b48-dc55-4ca2-88fd-7f9fe2e46a59)
+skibidi neofox and neofox_burn_solder by astrid@fedi.astrid.tech:
+
+- https://fedi.astrid.tech/objects/79447b48-dc55-4ca2-88fd-7f9fe2e46a59
+- https://fedi.astrid.tech/objects/d6a805b4-0f60-4951-9fda-fce5036e1a57
+
+neocat_googly_woozy_angry_thinking_sleeping_face_with_tongue_sticking_out by [vel@gib.schmus.us](https://gib.schmus.is/notes/9uq2yemkiact09ig)
+
+Several are from mym@tilde.zone as part of [neofox_extended](https://codeberg.org/aei/neofox_extended).
 
 Some have unknown authors.
