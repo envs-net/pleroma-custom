@@ -99,6 +99,7 @@ includes also emojis from:
 - Dragn: <https://github.com/chr-1x/dragn-emoji>
 - Sylveon: <https://git.gay/sugar/sylveon-emotes>
 - Vinnybox: <https://ko-fi.com/vinnybox>
+- Spinny: <https://gitlab.com/renere/spinny_blobs>
 
 #### notice
 
