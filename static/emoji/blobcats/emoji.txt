@@ -143,6 +143,13 @@ BlobCat_FistBumpL, /emoji/blobcats/BlobCat_FistBumpL.png
 BlobCat_FistBumpR, /emoji/blobcats/BlobCat_FistBumpR.png
 BlobCat_Flirty, /emoji/blobcats/BlobCat_Flirty.png
 BlobCat_Flower, /emoji/blobcats/BlobCat_Flower.png
+BlobCat_FluffyAngry, /emoji/blobcats/BlobCat_FluffyAngry.png
+BlobCat_FluffyEvil, /emoji/blobcats/BlobCat_FluffyEvil.png
+BlobCat_FluffyHappy, /emoji/blobcats/BlobCat_FluffyHappy.png
+BlobCat_FluffyOwo, /emoji/blobcats/BlobCat_FluffyOwo.png
+BlobCat_FluffyPats, /emoji/blobcats/BlobCat_FluffyPats.png
+BlobCat_FluffyPout, /emoji/blobcats/BlobCat_FluffyPout.png
+BlobCat_FluffyTail, /emoji/blobcats/BlobCat_FluffyTail.png
 BlobCat_Frown, /emoji/blobcats/BlobCat_Frown.png
 BlobCat_GhostIce, /emoji/blobcats/BlobCat_GhostIce.png
 BlobCat_GhostTilt, /emoji/blobcats/BlobCat_GhostTilt.png
