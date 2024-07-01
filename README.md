@@ -95,10 +95,11 @@ includes also emojis from:
 - Neodog_extra: <https://github.com/olivvybee/emojis>
 - Neodlr: <https://github.com/olivvybee/emojis>
 - Frieren: <https://outerheaven.club/objects/533281dc-ecda-45d1-8e04-91ae25a329d6>
-- BlobCats: <https://github.com/DuckOfDisorder/BlobCats> (curated from various sources, see its README)
+- BlobCats: <https://github.com/DuckOfDisorder/BlobCats> (curated from various sources, see its README). Fluffy variants have unknown authorship.
 - Dragn: <https://github.com/chr-1x/dragn-emoji>
 - Sylveon: <https://git.gay/sugar/sylveon-emotes>
 - Vinnybox: <https://ko-fi.com/vinnybox>
+- Spinny: <https://gitlab.com/renere/spinny_blobs>
 
 #### notice
 

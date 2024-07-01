@@ -86,6 +86,9 @@ neofox_kiss, /emoji/neofox_extra/neofox_kiss.png
 neofox_loss, /emoji/neofox_extra/neofox_loss.png
 neofox_nom_verified_neutral, /emoji/neofox_extra/neofox_nom_verified_neutral.png
 neofox_oh, /emoji/neofox_extra/neofox_oh.png
+neofox_ohio, /emoji/neofox_extra/neofox_ohio.png
+neofox_ohio_pleading, /emoji/neofox_extra/neofox_ohio_pleading.png
+neofox_ohio_woozy, /emoji/neofox_extra/neofox_ohio_woozy.png
 neofox_pat_evil, /emoji/neofox_extra/neofox_pat_evil.png
 neofox_pat_floof_googly_woozy, /emoji/neofox_extra/neofox_pat_floof_googly_woozy.png
 neofox_pleading_nb, /emoji/neofox_extra/neofox_pleading_nb.png
