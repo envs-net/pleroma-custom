@@ -217,6 +217,10 @@ meditating, /emoji/custom/meditating.gif
 mega, /emoji/custom/mega.gif
 meow, /emoji/custom/meow.gif
 metal2, /emoji/custom/metal2.gif
+MiiVerse_blehhh, /emoji/custom/MiiVerse_blehhh.png
+MiiVerse_no, /emoji/custom/MiiVerse_no.png
+MiiVerse_uhh, /emoji/custom/MiiVerse_uhh.png
+MiiVerse_yeah, /emoji/custom/MiiVerse_yeah.png
 mim_cat, /emoji/custom/mim_cat.gif
 minion_wave, /emoji/custom/minion_wave.png
 monkey, /emoji/custom/monkey.gif

@@ -1,0 +1,8 @@
+blobrat_aww, /emoji/blobrats/blobrat_aww.png
+blobrat, /emoji/blobrats/blobrat.png
+blobrat_heart, /emoji/blobrats/blobrat_heart.png
+blobrat_pat, /emoji/blobrats/blobrat_pat.png
+blobrat_peek, /emoji/blobrats/blobrat_peek.png
+blobrat_snugglecat, /emoji/blobrats/blobrat_snugglecat.png
+blobrat_snugglefox, /emoji/blobrats/blobrat_snugglefox.png
+blobrat_tongue, /emoji/blobrats/blobrat_tongue.png

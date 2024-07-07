@@ -1,0 +1,367 @@
+{
+  "metaVersion": 2,
+  "host": "mk.vulpes.one",
+  "exportedAt": "2022-07-17T19:41:46Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "raccoon_scream_fear.png",
+      "emoji": {
+        "name": "raccoon_scream_fear",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_wave.png",
+      "emoji": {
+        "name": "raccoon_wave",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_drool.png",
+      "emoji": {
+        "name": "raccoon_drool",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_cool.png",
+      "emoji": {
+        "name": "raccoon_cool",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_sleep.png",
+      "emoji": {
+        "name": "raccoon_sleep",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_cry.png",
+      "emoji": {
+        "name": "raccoon_cry",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_owo.png",
+      "emoji": {
+        "name": "raccoon_owo",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_pensive.png",
+      "emoji": {
+        "name": "raccoon_pensive",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_pleading.png",
+      "emoji": {
+        "name": "raccoon_pleading",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_googly_blep.png",
+      "emoji": {
+        "name": "raccoon_googly_blep",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_think.png",
+      "emoji": {
+        "name": "raccoon_think",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_blep.png",
+      "emoji": {
+        "name": "raccoon_blep",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_sad.png",
+      "emoji": {
+        "name": "raccoon_sad",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon.png",
+      "emoji": {
+        "name": "raccoon",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_cute.png",
+      "emoji": {
+        "name": "raccoon_cute",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_googly.png",
+      "emoji": {
+        "name": "raccoon_googly",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_nervous.png",
+      "emoji": {
+        "name": "raccoon_nervous",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_laugh_sweat.png",
+      "emoji": {
+        "name": "raccoon_laugh_sweat",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_3c.png",
+      "emoji": {
+        "name": "raccoon_3c",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_aww.png",
+      "emoji": {
+        "name": "raccoon_aww",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_x3.png",
+      "emoji": {
+        "name": "raccoon_x3",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_laugh.png",
+      "emoji": {
+        "name": "raccoon_laugh",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_0_0.png",
+      "emoji": {
+        "name": "raccoon_0_0",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_flush.png",
+      "emoji": {
+        "name": "raccoon_flush",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_heart_eyes.png",
+      "emoji": {
+        "name": "raccoon_heart_eyes",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_smug.png",
+      "emoji": {
+        "name": "raccoon_smug",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_sob.png",
+      "emoji": {
+        "name": "raccoon_sob",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_angry.png",
+      "emoji": {
+        "name": "raccoon_angry",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_weary.png",
+      "emoji": {
+        "name": "raccoon_weary",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon__w_.png",
+      "emoji": {
+        "name": "raccoon__w_",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_drool_more.png",
+      "emoji": {
+        "name": "raccoon_drool_more",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_uwu.png",
+      "emoji": {
+        "name": "raccoon_uwu",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_determined.png",
+      "emoji": {
+        "name": "raccoon_determined",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_evil.png",
+      "emoji": {
+        "name": "raccoon_evil",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_happy_blep.png",
+      "emoji": {
+        "name": "raccoon_happy_blep",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_blush.png",
+      "emoji": {
+        "name": "raccoon_blush",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_unamused.png",
+      "emoji": {
+        "name": "raccoon_unamused",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_woozy.png",
+      "emoji": {
+        "name": "raccoon_woozy",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_notice.png",
+      "emoji": {
+        "name": "raccoon_notice",
+        "category": "raccoon",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "raccoon_happy.png",
+      "emoji": {
+        "name": "raccoon_happy",
+        "category": "raccoon",
+        "aliases": []
+      }
+    }
+  ]
+}
