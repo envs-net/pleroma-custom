@@ -29,7 +29,7 @@ includes also emojis from:
 - waluigi blob: <https://www.reddit.com/r/Waluigi/comments/a70m54/i_did_a_cute_waluigi_emoji_for_discord/>
 - Pride flags: mostly from WikiMedia Commons.
 - openSUS: <https://todon.nl/@schratze/107678159846609667>
-- shitty logos: [shitty_logos telegram sticker pack](https://fstik.app/stickerSet/shitty_logos) + various others
+- shitty logos: [shitty_logos telegram sticker pack](https://fstik.app/stickerSet/shitty_logos) + various others. See credits.txt for more credits.
 - Spy X Family: <https://ko-fi.com/s/44e46f4f3f>
 - Vtubers: @enigmatico@mk.absturztau.be
 - drgn: <https://volpeon.ink/projects/emojis/drgn/>
@@ -89,7 +89,7 @@ includes also emojis from:
 - neopossum_extra: <https://github.com/SymTrkl/emoji>
 - fedilogo: <https://github.com/SymTrkl/emoji>
 - funkus: <https://codeberg.org/tastytea/funkus>
-- Gaysper: <https://github.com/ZoeBijl/Gaysper>
+- Gaysper: <https://github.com/ZoeBijl/Gaysper> and <https://emoji.lgbt/>
 - Neomouse, spinny_mouse in Spinny emotes: <https://git.gay/av70/neomouse>
 - Neodog: <https://git.gay/moonrabbits/neodog>
 - Neodog_extra: <https://github.com/olivvybee/emojis>
@@ -108,7 +108,23 @@ includes also emojis from:
 - Raccoon: <https://volpeon.ink/emojis/raccoon/>
 - Neobot: <https://github.com/SymTrkl/emoji>
 - blobrats: <https://codeberg.org/OniriCorpe/blobrats>
-- miiverse (in custom): <https://git.gay/blueb/fedi-emojis>
+- MiiVerse: six from <https://git.gay/blueb/fedi-emojis> (with plus signs), six from easrng (no plus signs).
+- Cortex Implant: <https://git.cyberwa.re/revengeday/from-cortex-implant-with-love/>
+- blobika: <https://nijimiss.moe/@toya/pages/blobika>
+- panda: <https://kasakoso.lol/notes/9hd4kjynig>
+- Blob Wani: <https://nijimiss.moe/@m_at_ty/pages/1694178930743>
+- Blob Tanuki: <https://maniakey.com/@MKG/pages/1703241030125>
+- Made in Abyss: <https://sheridanbakerart.gumroad.com/l/MiAEmotes>
+- Gekota: <https://akko.wtf/objects/dbf5b558-8887-4f65-aca4-505e052f59f2>
+- Mutant Standard: <https://mutant.tech/>
+- pndblobcat: <https://kasakoso.lol/notes/9hd4kjynig>
+- blobPebble: <https://github.com/blobcatz/pebbleblob>
+- pronouns: <https://emojis-are-cool.carrd.co/>
+- Animated ASL: <https://emojis-are-cool.carrd.co/>
+- Trigger Warning: <https://emojis-are-cool.carrd.co/>
+- TweFox:  <https://emojis-are-cool.carrd.co/>
+- Pixel Cat: <https://archive.org/details/catemotepacksw>
+- pridemoji: <https://github.com/Tschrock/pridemoji> or <https://emoji.lgbt/>
 
 #### notice
 

@@ -1,0 +1,12 @@
+ci_boost_discouraged, /emoji/cortex_implant/ci_boost_discouraged.png
+ci_boost_ok, /emoji/cortex_implant/ci_boost_ok.png
+ci_boost_request, /emoji/cortex_implant/ci_boost_request.png
+ci_reply_discouraged, /emoji/cortex_implant/ci_reply_discouraged.png
+ci_reply_ok, /emoji/cortex_implant/ci_reply_ok.png
+ci_reply_request, /emoji/cortex_implant/ci_reply_request.png
+cyberheart_cyan, /emoji/cortex_implant/cyberheart_cyan.png
+cyberheart_green, /emoji/cortex_implant/cyberheart_green.png
+cyberheart_pink, /emoji/cortex_implant/cyberheart_pink.png
+cyberheart_purple, /emoji/cortex_implant/cyberheart_purple.png
+cyberheart_red, /emoji/cortex_implant/cyberheart_red.png
+cyberheart_yellow, /emoji/cortex_implant/cyberheart_yellow.png

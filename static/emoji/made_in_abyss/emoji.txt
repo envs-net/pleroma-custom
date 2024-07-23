@@ -1,0 +1,8 @@
+bondrewd_knife, /emoji/made_in_abyss/bondrewd_knife.png
+marulk_shy, /emoji/made_in_abyss/marulk_shy.png
+mitty_aww, /emoji/made_in_abyss/mitty_aww.png
+nanachi_tsundere, /emoji/made_in_abyss/nanachi_tsundere.png
+ozen_angry, /emoji/made_in_abyss/ozen_angry.png
+prushka_hug, /emoji/made_in_abyss/prushka_hug.png
+reg_hi, /emoji/made_in_abyss/reg_hi.png
+riko_sad, /emoji/made_in_abyss/riko_sad.png
