@@ -1,0 +1,15 @@
+9tacle, /emoji/pentacles/9tacle.png
+heptagram, /emoji/pentacles/heptagram.png
+pentacle_asexual, /emoji/pentacles/pentacle_asexual.png
+pentacle_black, /emoji/pentacles/pentacle_black.png
+pentacle, /emoji/pentacles/pentacle.png
+pentacle_lines_black, /emoji/pentacles/pentacle_lines_black.png
+pentacle_lines_gray, /emoji/pentacles/pentacle_lines_gray.png
+pentacle_lines_white, /emoji/pentacles/pentacle_lines_white.png
+pentacle_non_binary, /emoji/pentacles/pentacle_non_binary.png
+pentacle_pan_african, /emoji/pentacles/pentacle_pan_african.png
+pentacle_pansexual, /emoji/pentacles/pentacle_pansexual.png
+pentacle_pride, /emoji/pentacles/pentacle_pride.png
+pentacle_red, /emoji/pentacles/pentacle_red.png
+pentacle_suicide_prevention, /emoji/pentacles/pentacle_suicide_prevention.png
+pentacle_transgender, /emoji/pentacles/pentacle_transgender.png

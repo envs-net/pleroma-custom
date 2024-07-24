@@ -125,6 +125,9 @@ includes also emojis from:
 - TweFox:  <https://emojis-are-cool.carrd.co/>
 - Pixel Cat: <https://archive.org/details/catemotepacksw>
 - pridemoji: <https://github.com/Tschrock/pridemoji> or <https://emoji.lgbt/>
+- bluemoji: <https://bluemoji.io/>
+- pixel art: <https://fava-beans.itch.io/free-pixel-art-emoji-pack>
+- pentacles: <https://archive.org/details/pentacle-emotes>
 
 #### notice
 
