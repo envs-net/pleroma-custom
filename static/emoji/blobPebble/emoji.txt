@@ -1,0 +1,15 @@
+blobPebble_cry, /emoji/blobPebble/blobPebble_cry.png
+blobPebble_dizzy, /emoji/blobPebble/blobPebble_dizzy.png
+blobPebble, /emoji/blobPebble/blobPebble.png
+blobPebble_fingerguns, /emoji/blobPebble/blobPebble_fingerguns.png
+blobPebble_googly, /emoji/blobPebble/blobPebble_googly.png
+blobPebble_heart, /emoji/blobPebble/blobPebble_heart.png
+blobPebble_neutral, /emoji/blobPebble/blobPebble_neutral.png
+blobPebble_sad, /emoji/blobPebble/blobPebble_sad.png
+blobPebble_scared, /emoji/blobPebble/blobPebble_scared.png
+blobPebble_smug, /emoji/blobPebble/blobPebble_smug.png
+blobPebble_sweat, /emoji/blobPebble/blobPebble_sweat.png
+blobPebble_think, /emoji/blobPebble/blobPebble_think.png
+blobPebble_thumbsdown, /emoji/blobPebble/blobPebble_thumbsdown.png
+blobPebble_thumbsup, /emoji/blobPebble/blobPebble_thumbsup.png
+blobPebble_wink, /emoji/blobPebble/blobPebble_wink.png

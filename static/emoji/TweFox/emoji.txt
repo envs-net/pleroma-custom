@@ -1,0 +1,8 @@
+TweFox_blank_expression, /emoji/TweFox/TweFox_blank_expression.png
+TweFox_content, /emoji/TweFox/TweFox_content.png
+TweFox_cyclops, /emoji/TweFox/TweFox_cyclops.png
+TweFox_happy_eyes, /emoji/TweFox/TweFox_happy_eyes.png
+TweFox_heart_eyes, /emoji/TweFox/TweFox_heart_eyes.png
+TweFox_raising_eyebrows, /emoji/TweFox/TweFox_raising_eyebrows.png
+TweFox_thinking, /emoji/TweFox/TweFox_thinking.png
+TweFox_upside_down, /emoji/TweFox/TweFox_upside_down.png

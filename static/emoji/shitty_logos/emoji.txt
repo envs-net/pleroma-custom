@@ -22,6 +22,8 @@ decalog_shitty, /emoji/shitty_logos/decalog_shitty.png
 dhl_shitty, /emoji/shitty_logos/dhl_shitty.png
 eff_shitty, /emoji/shitty_logos/eff_shitty.png
 efnet_shitty, /emoji/shitty_logos/efnet_shitty.png
+ffmpreg_horizontal, /emoji/shitty_logos/ffmpreg_horizontal.png
+ffmpreg_vertical, /emoji/shitty_logos/ffmpreg_vertical.png
 freebsd-windows_shitty, /emoji/shitty_logos/freebsd-windows_shitty.png
 funk_shitty, /emoji/shitty_logos/funk_shitty.png
 gomo_shitty, /emoji/shitty_logos/gomo_shitty.png

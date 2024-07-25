@@ -1,10 +1,12 @@
 Gaysper_Ace, /emoji/gaysper/Gaysper_Ace.png
 Gaysper_Agender, /emoji/gaysper/Gaysper_Agender.png
+Gaysper_Androgyne, /emoji/gaysper/Gaysper_Androgyne.png
 Gaysper_Aromantic, /emoji/gaysper/Gaysper_Aromantic.png
 Gaysper_Autism, /emoji/gaysper/Gaysper_Autism.png
 Gaysper_Bi, /emoji/gaysper/Gaysper_Bi.png
 Gaysper, /emoji/gaysper/Gaysper.png
 Gaysper_Enby, /emoji/gaysper/Gaysper_Enby.png
+Gaysper_Femboy, /emoji/gaysper/Gaysper_Femboy.png
 Gaysper_Genderfluid, /emoji/gaysper/Gaysper_Genderfluid.png
 Gaysper_Genderqueer, /emoji/gaysper/Gaysper_Genderqueer.png
 Gaysper_Intersex, /emoji/gaysper/Gaysper_Intersex.png

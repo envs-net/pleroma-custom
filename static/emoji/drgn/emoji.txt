@@ -101,6 +101,7 @@ drgn_happy_mlem, /emoji/drgn/drgn_happy_mlem.png
 drgn_hatch, /emoji/drgn/drgn_hatch.png
 drgn_hatch_mlem, /emoji/drgn/drgn_hatch_mlem.png
 drgn_heart, /emoji/drgn/drgn_heart.png
+drgn_hidden, /emoji/drgn/drgn_hidden.png
 drgn_hide_blush, /emoji/drgn/drgn_hide_blush.png
 drgn_hide, /emoji/drgn/drgn_hide.png
 drgn_hide_nervous, /emoji/drgn/drgn_hide_nervous.png
@@ -151,6 +152,9 @@ drgn_nom_donut, /emoji/drgn/drgn_nom_donut.png
 drgn_nom_dragn, /emoji/drgn/drgn_nom_dragn.png
 drgn_nom_dragn_heart, /emoji/drgn/drgn_nom_dragn_heart.png
 drgn_nom_dragn_nervous, /emoji/drgn/drgn_nom_dragn_nervous.png
+drgn_nom_duck, /emoji/drgn/drgn_nom_duck.png
+drgn_nom_duck_heart, /emoji/drgn/drgn_nom_duck_heart.png
+drgn_nom_duck_nervous, /emoji/drgn/drgn_nom_duck_nervous.png
 drgn_nom_egg, /emoji/drgn/drgn_nom_egg.png
 drgn_nom_fox, /emoji/drgn/drgn_nom_fox.png
 drgn_nom_fox_heart, /emoji/drgn/drgn_nom_fox_heart.png
@@ -199,6 +203,7 @@ drgn_sleep, /emoji/drgn/drgn_sleep.png
 drgn_smart, /emoji/drgn/drgn_smart.png
 drgn_smug2, /emoji/drgn/drgn_smug2.png
 drgn_smug, /emoji/drgn/drgn_smug.png
+drgn_sneaky, /emoji/drgn/drgn_sneaky.png
 drgn_sob, /emoji/drgn/drgn_sob.png
 drgn_sparkle, /emoji/drgn/drgn_sparkle.png
 drgn_tail, /emoji/drgn/drgn_tail.png
