@@ -128,6 +128,7 @@ includes also emojis from:
 - bluemoji: <https://bluemoji.io/>
 - pixel art: <https://fava-beans.itch.io/free-pixel-art-emoji-pack>
 - pentacles: <https://archive.org/details/pentacle-emotes>
+- Shrimp: <https://jadedtwin.itch.io/shrimp-emote-pack>
 
 #### notice
 
