@@ -1,0 +1,17 @@
+arduboy, /emoji/portable_console/arduboy.png
+crystalswan, /emoji/portable_console/crystalswan.png
+dreamcast_vmu, /emoji/portable_console/dreamcast_vmu.png
+ds, /emoji/portable_console/ds.png
+dsi, /emoji/portable_console/dsi.png
+dsi_xl, /emoji/portable_console/dsi_xl.png
+ds_lite, /emoji/portable_console/ds_lite.png
+game_boy_advance, /emoji/portable_console/game_boy_advance.png
+game_boy_advance_sp, /emoji/portable_console/game_boy_advance_sp.png
+game_boy_color, /emoji/portable_console/game_boy_color.png
+game_boy, /emoji/portable_console/game_boy.png
+game_boy_micro, /emoji/portable_console/game_boy_micro.png
+nintendo_3ds, /emoji/portable_console/nintendo_3ds.png
+playdate, /emoji/portable_console/playdate.png
+pokemon_mini, /emoji/portable_console/pokemon_mini.png
+wonderswan_color, /emoji/portable_console/wonderswan_color.png
+wonderswan, /emoji/portable_console/wonderswan.png

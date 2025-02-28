@@ -1,0 +1,12 @@
+MiiVerse_blehhh, /emoji/MiiVerse/MiiVerse_blehhh.png
+MiiVerse_happy, /emoji/MiiVerse/MiiVerse_happy.png
+MiiVerse_laugh, /emoji/MiiVerse/MiiVerse_laugh.png
+MiiVerse_neutral, /emoji/MiiVerse/MiiVerse_neutral.png
+MiiVerse_no, /emoji/MiiVerse/MiiVerse_no.png
+MiiVerse_sad, /emoji/MiiVerse/MiiVerse_sad.png
+MiiVerse_shock, /emoji/MiiVerse/MiiVerse_shock.png
+MiiVerse_uhh, /emoji/MiiVerse/MiiVerse_uhh.png
+MiiVerse_upset, /emoji/MiiVerse/MiiVerse_upset.png
+MiiVerse_wink, /emoji/MiiVerse/MiiVerse_wink.png
+MiiVerse_woozy, /emoji/MiiVerse/MiiVerse_woozy.png
+MiiVerse_yeah, /emoji/MiiVerse/MiiVerse_yeah.png

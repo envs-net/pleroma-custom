@@ -1,0 +1,5 @@
+boost_anim_sleeping, /emoji/boosts/boost_anim_sleeping.apng
+boost_ok_alt, /emoji/boosts/boost_ok_alt.png
+boost_ok, /emoji/boosts/boost_ok.png
+boost_requested, /emoji/boosts/boost_requested.png
+boosts_ok_gay, /emoji/boosts/boosts_ok_gay.png

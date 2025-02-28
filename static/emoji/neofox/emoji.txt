@@ -66,6 +66,8 @@ neofox_flag_demigirl, /emoji/neofox/neofox_flag_demigirl.png
 neofox_flag_demiguy, /emoji/neofox/neofox_flag_demiguy.png
 neofox_flag_demilesbian, /emoji/neofox/neofox_flag_demilesbian.png
 neofox_flag_deminb, /emoji/neofox/neofox_flag_deminb.png
+neofox_flag_disabled, /emoji/neofox/neofox_flag_disabled.png
+neofox_flag_finsexual, /emoji/neofox/neofox_flag_finsexual.png
 neofox_flag_gay, /emoji/neofox/neofox_flag_gay.png
 neofox_flag_genderfluid, /emoji/neofox/neofox_flag_genderfluid.png
 neofox_flag_intersex, /emoji/neofox/neofox_flag_intersex.png

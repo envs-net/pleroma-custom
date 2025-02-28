@@ -1,0 +1,367 @@
+{
+  "metaVersion": 2,
+  "host": "mk.vulpes.one",
+  "exportedAt": "2022-07-17T11:35:38Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "fox_smug.png",
+      "emoji": {
+        "name": "fox_smug",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_determined.png",
+      "emoji": {
+        "name": "fox_determined",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_evil.png",
+      "emoji": {
+        "name": "fox_evil",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_drool.png",
+      "emoji": {
+        "name": "fox_drool",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_0_0.png",
+      "emoji": {
+        "name": "fox_0_0",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_x3.png",
+      "emoji": {
+        "name": "fox_x3",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_pensive.png",
+      "emoji": {
+        "name": "fox_pensive",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_notice.png",
+      "emoji": {
+        "name": "fox_notice",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_weary.png",
+      "emoji": {
+        "name": "fox_weary",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_uwu.png",
+      "emoji": {
+        "name": "fox_uwu",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox.png",
+      "emoji": {
+        "name": "fox",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_angry.png",
+      "emoji": {
+        "name": "fox_angry",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_cry.png",
+      "emoji": {
+        "name": "fox_cry",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_laugh.png",
+      "emoji": {
+        "name": "fox_laugh",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_blep.png",
+      "emoji": {
+        "name": "fox_blep",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_scream_fear.png",
+      "emoji": {
+        "name": "fox_scream_fear",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_happy.png",
+      "emoji": {
+        "name": "fox_happy",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_pleading.png",
+      "emoji": {
+        "name": "fox_pleading",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_wave.png",
+      "emoji": {
+        "name": "fox_wave",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_sob.png",
+      "emoji": {
+        "name": "fox_sob",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_think.png",
+      "emoji": {
+        "name": "fox_think",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_sad.png",
+      "emoji": {
+        "name": "fox_sad",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_unamused.png",
+      "emoji": {
+        "name": "fox_unamused",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_blush.png",
+      "emoji": {
+        "name": "fox_blush",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_heart_eyes.png",
+      "emoji": {
+        "name": "fox_heart_eyes",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_flush.png",
+      "emoji": {
+        "name": "fox_flush",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_3c.png",
+      "emoji": {
+        "name": "fox_3c",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox__w_.png",
+      "emoji": {
+        "name": "fox__w_",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_sleep.png",
+      "emoji": {
+        "name": "fox_sleep",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_googly.png",
+      "emoji": {
+        "name": "fox_googly",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_laugh_sweat.png",
+      "emoji": {
+        "name": "fox_laugh_sweat",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_cute.png",
+      "emoji": {
+        "name": "fox_cute",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_drool_more.png",
+      "emoji": {
+        "name": "fox_drool_more",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_woozy.png",
+      "emoji": {
+        "name": "fox_woozy",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_nervous.png",
+      "emoji": {
+        "name": "fox_nervous",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_googly_blep.png",
+      "emoji": {
+        "name": "fox_googly_blep",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_cool.png",
+      "emoji": {
+        "name": "fox_cool",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_aww.png",
+      "emoji": {
+        "name": "fox_aww",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_happy_blep.png",
+      "emoji": {
+        "name": "fox_happy_blep",
+        "category": "fox",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "fox_owo.png",
+      "emoji": {
+        "name": "fox_owo",
+        "category": "fox",
+        "aliases": []
+      }
+    }
+  ]
+}

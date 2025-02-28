@@ -1,0 +1,287 @@
+{
+  "metaVersion": 2,
+  "description": "The popular frog Gekota from the Toaru universe",
+  "host": "stub.stub",
+  "exportedAt": "2024-07-21T00:00:00Z",
+  "emojis": [
+    {
+      "filename": "gekota.png",
+      "emoji": {
+        "name": "gekota",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_ace.png",
+      "emoji": {
+        "name": "gekota_ace",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_agender.png",
+      "emoji": {
+        "name": "gekota_agender",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_aro.png",
+      "emoji": {
+        "name": "gekota_aro",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_bigender.png",
+      "emoji": {
+        "name": "gekota_bigender",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_bisexual.png",
+      "emoji": {
+        "name": "gekota_bisexual",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_demiboy.png",
+      "emoji": {
+        "name": "gekota_demiboy",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_demigirl.png",
+      "emoji": {
+        "name": "gekota_demigirl",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_demisexual.png",
+      "emoji": {
+        "name": "gekota_demisexual",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_enby.png",
+      "emoji": {
+        "name": "gekota_enby",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_fae.png",
+      "emoji": {
+        "name": "gekota_fae",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_faer.png",
+      "emoji": {
+        "name": "gekota_faer",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_faun.png",
+      "emoji": {
+        "name": "gekota_faun",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_flor.png",
+      "emoji": {
+        "name": "gekota_flor",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_gaymale.png",
+      "emoji": {
+        "name": "gekota_gaymale",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_genderfluid.png",
+      "emoji": {
+        "name": "gekota_genderfluid",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_genderqueer.png",
+      "emoji": {
+        "name": "gekota_genderqueer",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_intersex.png",
+      "emoji": {
+        "name": "gekota_intersex",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_lesbian.png",
+      "emoji": {
+        "name": "gekota_lesbian",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_magnate.png",
+      "emoji": {
+        "name": "gekota_magnate",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_pansexual.png",
+      "emoji": {
+        "name": "gekota_pansexual",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_polyam.png",
+      "emoji": {
+        "name": "gekota_polyam",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_pride6.png",
+      "emoji": {
+        "name": "gekota_pride6",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_pride9.png",
+      "emoji": {
+        "name": "gekota_pride9",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_progress2.png",
+      "emoji": {
+        "name": "gekota_progress2",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_sad.png",
+      "emoji": {
+        "name": "gekota_sad",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_sad_hands.png",
+      "emoji": {
+        "name": "gekota_sad_hands",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_sky.png",
+      "emoji": {
+        "name": "gekota_sky",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_trans.png",
+      "emoji": {
+        "name": "gekota_trans",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_transfemme.png",
+      "emoji": {
+        "name": "gekota_transfemme",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    },
+    {
+      "filename": "gekota_transmasc.png",
+      "emoji": {
+        "name": "gekota_transmasc",
+        "category": "gekota",
+        "aliases": []
+      },
+      "downloaded": true
+    }
+  ]
+}
